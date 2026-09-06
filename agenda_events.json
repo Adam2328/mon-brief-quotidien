@@ -68,6 +68,10 @@
     "premiere_apparition": "2026-09-05"
   },
   {
+    "point": "10/09 :: global :: geo :: Communiqué Groupe Réglementation Financière US-UK",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
     "point": "11/09 :: usa :: macro :: Publication IPC US (août)",
     "premiere_apparition": "2026-07-23"
   },
@@ -86,6 +90,10 @@
   {
     "point": "11/09 :: usa :: macro :: Revenus Réels US Août 2026",
     "premiere_apparition": "2026-08-22"
+  },
+  {
+    "point": "11/09 :: europe :: macro :: Publication PIB Royaume-Uni",
+    "premiere_apparition": "2026-09-06"
   },
   {
     "point": "15/09 :: usa :: macro :: Réunion FOMC",
@@ -162,6 +170,10 @@
   {
     "point": "16/09 :: europe :: macro :: Publication PPI UK (Août)",
     "premiere_apparition": "2026-09-05"
+  },
+  {
+    "point": "16/09 :: usa :: macro :: Réunion FOMC (Fed)",
+    "premiere_apparition": "2026-09-06"
   },
   {
     "point": "17/09 :: asie :: macro :: Décision de politique monétaire BoJ",
@@ -296,6 +308,10 @@
     "premiere_apparition": "2026-09-05"
   },
   {
+    "point": "09/09 :: asie :: macro :: Inflation Chine (IPC)",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
     "point": "12/09 :: global :: geo :: Début Sommet BRICS New Delhi",
     "premiere_apparition": "2026-08-10"
   },
@@ -388,6 +404,10 @@
     "premiere_apparition": "2026-09-01"
   },
   {
+    "point": "18/09 :: europe :: macro :: Décision taux d'intérêt BoE",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
     "point": "24/09 :: global :: geo :: Sommet dirigeants US-Chine",
     "premiere_apparition": "2026-08-14"
   },
@@ -408,12 +428,8 @@
     "premiere_apparition": "2026-09-05"
   },
   {
-    "point": "Semaine du 24/08 :: usa :: corp :: Résultats Utilities & Communication Services",
-    "premiere_apparition": "2026-08-15"
-  },
-  {
-    "point": "Semaine du 31/08 :: usa :: corp :: Résultats Tech, Santé, Finance",
-    "premiere_apparition": "2026-08-15"
+    "point": "24/09 :: global :: geo :: Début Débat Général Assemblée ONU",
+    "premiere_apparition": "2026-09-06"
   },
   {
     "point": "Semaine du 31/08 :: europe :: geo :: Commission Investissement ONU (CNUCED)",
@@ -496,6 +512,10 @@
     "premiere_apparition": "2026-09-05"
   },
   {
+    "point": "22/09 :: global :: geo :: Sommet de l'Avenir ONU",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
     "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
     "premiere_apparition": "2026-08-27"
   },
@@ -566,5 +586,17 @@
   {
     "point": "25/09 :: europe :: mkt-n :: Conférence Recherche Économie et Finance (Paris)",
     "premiere_apparition": "2026-09-05"
+  },
+  {
+    "point": "06/09 :: usa :: macro :: Chiffres de l'emploi US",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "Semaine du 09/09 :: global :: corp :: Résultats entreprises (Oracle, GameStop, Inditex, Adobe)",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "Semaine du 23/09 :: global :: geo :: Forum Davos : Réunions Impact Développement Durable",
+    "premiere_apparition": "2026-09-06"
   }
 ]
