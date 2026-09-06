@@ -432,6 +432,10 @@
     "premiere_apparition": "2026-09-06"
   },
   {
+    "point": "24/09 :: europe :: macro :: Réunion Riksbank politique monétaire",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
     "point": "Semaine du 31/08 :: europe :: geo :: Commission Investissement ONU (CNUCED)",
     "premiere_apparition": "2026-08-21"
   },
@@ -597,6 +601,26 @@
   },
   {
     "point": "Semaine du 23/09 :: global :: geo :: Forum Davos : Réunions Impact Développement Durable",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "14/09 - 15/09 :: global :: macro :: Canada Investment Summit",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "15/09 - 16/09 :: usa :: macro :: Réunion FOMC / Décision taux Fed",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "17/09 - 18/09 :: asie :: macro :: Réunion BoJ politique monétaire",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "21/09 - 24/09 :: global :: geo :: WEF Sustainable Development Impact Meetings",
+    "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "22/09 - 23/09 :: global :: geo :: UN Global Compact Leaders Summit",
     "premiere_apparition": "2026-09-06"
   }
 ]
