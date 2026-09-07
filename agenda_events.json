@@ -436,6 +436,10 @@
     "premiere_apparition": "2026-09-06"
   },
   {
+    "point": "24/09 :: europe :: macro :: Réunion BNS",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
     "point": "Semaine du 31/08 :: europe :: geo :: Commission Investissement ONU (CNUCED)",
     "premiere_apparition": "2026-08-21"
   },
@@ -520,6 +524,10 @@
     "premiere_apparition": "2026-09-06"
   },
   {
+    "point": "22/09 :: europe :: macro :: Indice Confiance Consommateurs UE",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
     "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
     "premiere_apparition": "2026-08-27"
   },
@@ -556,6 +564,10 @@
     "premiere_apparition": "2026-09-04"
   },
   {
+    "point": "30/09 :: europe :: macro :: Réunion non-monétaire BCE",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
     "point": "Sept. 2026 :: usa :: geo :: Réunion Ministérielle G20 Innovation",
     "premiere_apparition": "2026-08-29"
   },
@@ -590,10 +602,6 @@
   {
     "point": "25/09 :: europe :: mkt-n :: Conférence Recherche Économie et Finance (Paris)",
     "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "06/09 :: usa :: macro :: Chiffres de l'emploi US",
-    "premiere_apparition": "2026-09-06"
   },
   {
     "point": "Semaine du 09/09 :: global :: corp :: Résultats entreprises (Oracle, GameStop, Inditex, Adobe)",
