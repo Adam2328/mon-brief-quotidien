@@ -20,6 +20,22 @@
     "premiere_apparition": "2026-08-31"
   },
   {
+    "point": "07/09 :: asie :: macro :: Indicateurs avancés Japon",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "07/09 :: asie :: macro :: PIB Japon",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "07/09 :: asie :: macro :: Balance courante Japon",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "07/09 :: asie :: macro :: Commandes machines-outils Japon",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
     "point": "10/09 :: europe :: macro :: Décision de politique monétaire BCE",
     "premiere_apparition": "2026-07-23"
   },
@@ -72,6 +88,14 @@
     "premiere_apparition": "2026-09-06"
   },
   {
+    "point": "10/09 :: usa :: macro :: Ventes logements existants US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "10/09 :: usa :: macro :: Stocks de gros US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
     "point": "11/09 :: usa :: macro :: Publication IPC US (août)",
     "premiere_apparition": "2026-07-23"
   },
@@ -94,6 +118,22 @@
   {
     "point": "11/09 :: europe :: macro :: Publication PIB Royaume-Uni",
     "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "11/09 :: usa :: macro :: Confiance consommateurs Michigan US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "11/09 :: usa :: macro :: Déclaration Trésor US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "11/09 :: europe :: macro :: Production industrielle UK",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "11/09 :: europe :: macro :: Balance commerciale UK",
+    "premiere_apparition": "2026-09-07"
   },
   {
     "point": "15/09 :: usa :: macro :: Réunion FOMC",
@@ -126,6 +166,34 @@
   {
     "point": "15/09 :: canada :: ai :: Conférence IA en Finance Montréal",
     "premiere_apparition": "2026-09-05"
+  },
+  {
+    "point": "15/09 :: usa :: macro :: Indice manufacturier Empire State US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "15/09 :: usa :: macro :: Ventes immobilières MLS Canada",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "15/09 :: usa :: macro :: Commerce de gros Canada",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "15/09 :: asie :: macro :: Commandes de machines Japon",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "15/09 :: europe :: macro :: Taux chômage UK",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "15/09 :: europe :: macro :: Balance commerciale Zone Euro",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "15/09 :: europe :: mkt-n :: Discours Carolyn Wilkins BoE",
+    "premiere_apparition": "2026-09-07"
   },
   {
     "point": "16/09 :: europe :: macro :: Publication IPC UK (août)",
@@ -174,6 +242,34 @@
   {
     "point": "16/09 :: usa :: macro :: Réunion FOMC (Fed)",
     "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "16/09 :: usa :: macro :: Indices prix commerce US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "16/09 :: usa :: macro :: Stocks des entreprises US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "16/09 :: usa :: macro :: Flux portefeuilles étrangers US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "16/09 :: usa :: macro :: Mises en chantier Canada",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "16/09 :: usa :: macro :: Permis de construire Canada",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "16/09 :: usa :: mkt-n :: Résumé délibérations BdC",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "16/09 :: europe :: macro :: Production industrielle Zone Euro",
+    "premiere_apparition": "2026-09-07"
   },
   {
     "point": "17/09 :: asie :: macro :: Décision de politique monétaire BoJ",
@@ -252,6 +348,14 @@
     "premiere_apparition": "2026-09-04"
   },
   {
+    "point": "17/09 :: usa :: macro :: Indice Fed Philadelphie",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "17/09 :: usa :: macro :: Mises en chantier & permis construire US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
     "point": "Fin août :: usa :: corp :: Résultats trimestriels NVIDIA",
     "premiere_apparition": "2026-08-19"
   },
@@ -310,6 +414,10 @@
   {
     "point": "09/09 :: asie :: macro :: Inflation Chine (IPC)",
     "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "09/09 :: asie :: macro :: Commandes machines-outils Japon",
+    "premiere_apparition": "2026-09-07"
   },
   {
     "point": "12/09 :: global :: geo :: Début Sommet BRICS New Delhi",
@@ -380,6 +488,18 @@
     "premiere_apparition": "2026-09-05"
   },
   {
+    "point": "08/09 :: usa :: macro :: Crédit à la consommation US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "08/09 :: europe :: mkt-n :: Audition BoE sur politique monétaire",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "08/09 :: europe :: macro :: Statistiques prêts immobiliers UK",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
     "point": "Septembre :: usa :: geo :: G20 Réunion Ministérielle Innovation (Raleigh-Durham)",
     "premiere_apparition": "2026-08-23"
   },
@@ -440,6 +560,10 @@
     "premiere_apparition": "2026-09-07"
   },
   {
+    "point": "24/09 :: usa :: macro :: Transactions internationales et position investissement US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
     "point": "Semaine du 31/08 :: europe :: geo :: Commission Investissement ONU (CNUCED)",
     "premiere_apparition": "2026-08-21"
   },
@@ -490,6 +614,14 @@
   {
     "point": "14/09 :: canada :: tech :: Forum Fintech Canada (Jour 1)",
     "premiere_apparition": "2026-09-05"
+  },
+  {
+    "point": "14/09 :: usa :: macro :: Livraisons manufacturières Canada",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "14/09 :: asie :: macro :: Production industrielle Japon",
+    "premiere_apparition": "2026-09-07"
   },
   {
     "point": "21/09 :: global :: mkt-n :: WEF Sustainable Development Impact",
@@ -568,6 +700,22 @@
     "premiere_apparition": "2026-09-07"
   },
   {
+    "point": "30/09 :: usa :: macro :: PIB, Profits entreprises US (estimation 3)",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "30/09 :: usa :: macro :: Revenus et dépenses personnels US",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "30/09 :: europe :: mkt-n :: Compte-rendu Comité politique financière BoE",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "30/09 :: global :: geo :: Réunion ministérielle G20 Commerce",
+    "premiere_apparition": "2026-09-07"
+  },
+  {
     "point": "Sept. 2026 :: usa :: geo :: Réunion Ministérielle G20 Innovation",
     "premiere_apparition": "2026-08-29"
   },
@@ -630,5 +778,9 @@
   {
     "point": "22/09 - 23/09 :: global :: geo :: UN Global Compact Leaders Summit",
     "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "18-20/09 :: global :: geo :: Élections législatives russes",
+    "premiere_apparition": "2026-09-07"
   }
 ]
