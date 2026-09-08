@@ -1,41 +1,5 @@
 [
   {
-    "point": "07/09 :: europe :: macro :: Estimations régulières PIB & Emploi Zone Euro",
-    "premiere_apparition": "2026-07-23"
-  },
-  {
-    "point": "07/09 :: europe :: macro :: PIB et emploi Eurozone (T2, estimations régulières)",
-    "premiere_apparition": "2026-08-13"
-  },
-  {
-    "point": "07/09 :: europe :: macro :: Eurostat Estimations PIB & Emploi (T2)",
-    "premiere_apparition": "2026-08-15"
-  },
-  {
-    "point": "07/09 :: europe :: macro :: 3ème estimation PIB Zone Euro T2",
-    "premiere_apparition": "2026-08-24"
-  },
-  {
-    "point": "07/09 :: usa :: macro :: Jour Férié (Labor Day)",
-    "premiere_apparition": "2026-08-31"
-  },
-  {
-    "point": "07/09 :: asie :: macro :: Indicateurs avancés Japon",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "07/09 :: asie :: macro :: PIB Japon",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "07/09 :: asie :: macro :: Balance courante Japon",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "07/09 :: asie :: macro :: Commandes machines-outils Japon",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
     "point": "10/09 :: europe :: macro :: Décision de politique monétaire BCE",
     "premiere_apparition": "2026-07-23"
   },
@@ -624,6 +588,10 @@
     "premiere_apparition": "2026-09-07"
   },
   {
+    "point": "14/09 :: usa :: geo :: G20 Ministerial Énergie",
+    "premiere_apparition": "2026-09-08"
+  },
+  {
     "point": "21/09 :: global :: mkt-n :: WEF Sustainable Development Impact",
     "premiere_apparition": "2026-08-27"
   },
@@ -716,6 +684,10 @@
     "premiere_apparition": "2026-09-07"
   },
   {
+    "point": "30/09 :: europe :: macro :: BCE Réunion Conseil des gouverneurs",
+    "premiere_apparition": "2026-09-08"
+  },
+  {
     "point": "Sept. 2026 :: usa :: geo :: Réunion Ministérielle G20 Innovation",
     "premiere_apparition": "2026-08-29"
   },
@@ -746,6 +718,10 @@
   {
     "point": "29/09 :: usa :: macro :: Publication JOLTS US",
     "premiere_apparition": "2026-09-04"
+  },
+  {
+    "point": "29/09 :: global :: macro :: RBA Décision Taux",
+    "premiere_apparition": "2026-09-08"
   },
   {
     "point": "25/09 :: europe :: mkt-n :: Conférence Recherche Économie et Finance (Paris)",
@@ -782,5 +758,17 @@
   {
     "point": "18-20/09 :: global :: geo :: Élections législatives russes",
     "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "28/09 :: europe :: macro :: Eurostat Indicateur Sentiment Économique",
+    "premiere_apparition": "2026-09-08"
+  },
+  {
+    "point": "02/10 :: usa :: macro :: Rapport Emploi US (NFP)",
+    "premiere_apparition": "2026-09-08"
+  },
+  {
+    "point": "06/10 :: europe :: mkt-n :: FT Private Capital Summit",
+    "premiere_apparition": "2026-09-08"
   }
 ]
