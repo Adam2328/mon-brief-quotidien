@@ -480,6 +480,10 @@
     "premiere_apparition": "2026-09-09"
   },
   {
+    "point": "24/09 :: global :: geo :: Sommet Trump-Xi (USA)",
+    "premiere_apparition": "2026-09-09"
+  },
+  {
     "point": "Semaine du 31/08 :: europe :: geo :: Commission Investissement ONU (CNUCED)",
     "premiere_apparition": "2026-08-21"
   },
@@ -648,6 +652,10 @@
     "premiere_apparition": "2026-09-08"
   },
   {
+    "point": "30/09 :: europe :: ai :: Sommet Réglementation IA (Londres)",
+    "premiere_apparition": "2026-09-09"
+  },
+  {
     "point": "Sept. 2026 :: usa :: geo :: Réunion Ministérielle G20 Innovation",
     "premiere_apparition": "2026-08-29"
   },
@@ -682,6 +690,10 @@
   {
     "point": "29/09 :: global :: macro :: RBA Décision Taux",
     "premiere_apparition": "2026-09-08"
+  },
+  {
+    "point": "29/09 :: usa :: geo :: Entrée en vigueur interdictions produits canadiens US",
+    "premiere_apparition": "2026-09-09"
   },
   {
     "point": "25/09 :: europe :: mkt-n :: Conférence Recherche Économie et Finance (Paris)",
@@ -730,5 +742,13 @@
   {
     "point": "06/10 :: europe :: mkt-n :: FT Private Capital Summit",
     "premiere_apparition": "2026-09-08"
+  },
+  {
+    "point": "09/09 - 10/09 :: europe :: macro :: Réunion BCE Politique Monétaire & Décision taux",
+    "premiere_apparition": "2026-09-09"
+  },
+  {
+    "point": "21/09 - 23/09 :: europe :: ai :: Responsible AI Summit London",
+    "premiere_apparition": "2026-09-09"
   }
 ]
