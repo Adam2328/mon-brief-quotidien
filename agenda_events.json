@@ -408,66 +408,6 @@
     "premiere_apparition": "2026-09-05"
   },
   {
-    "point": "08/09 :: global :: macro :: Publication Prix Consommation OCDE",
-    "premiere_apparition": "2026-08-13"
-  },
-  {
-    "point": "08/09 :: usa :: corp :: Résultats trimestriels Oracle",
-    "premiere_apparition": "2026-08-14"
-  },
-  {
-    "point": "08/09 :: europe :: macro :: France Balance Commerciale JUL",
-    "premiere_apparition": "2026-08-18"
-  },
-  {
-    "point": "08/09 :: europe :: macro :: France Compte Courant JUL",
-    "premiere_apparition": "2026-08-18"
-  },
-  {
-    "point": "08/09 :: europe :: geo :: Forum Économique de Karpacz",
-    "premiere_apparition": "2026-08-19"
-  },
-  {
-    "point": "08/09 :: usa/canada :: geo :: Tarifs douaniens Canada/US",
-    "premiere_apparition": "2026-08-23"
-  },
-  {
-    "point": "08/09 :: global :: mkt-n :: Nvidia Tarifs/Hausses de prix",
-    "premiere_apparition": "2026-08-23"
-  },
-  {
-    "point": "08/09 :: global :: geo :: 81e Assemblée Générale Nations Unies",
-    "premiere_apparition": "2026-08-28"
-  },
-  {
-    "point": "08/09 :: usa :: macro :: Rapport Emploi National ADP (Août)",
-    "premiere_apparition": "2026-08-29"
-  },
-  {
-    "point": "08/09 :: asie :: macro :: Inflation CPI & PPI Chine (Août)",
-    "premiere_apparition": "2026-09-01"
-  },
-  {
-    "point": "08/09 :: usa :: corp :: Résultats ABM Industries",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "08/09 :: usa :: corp :: Résultats United Natural Foods",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "08/09 :: usa :: macro :: Crédit à la consommation US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "08/09 :: europe :: mkt-n :: Audition BoE sur politique monétaire",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "08/09 :: europe :: macro :: Statistiques prêts immobiliers UK",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
     "point": "Septembre :: usa :: geo :: G20 Réunion Ministérielle Innovation (Raleigh-Durham)",
     "premiere_apparition": "2026-08-23"
   },
@@ -536,6 +476,10 @@
     "premiere_apparition": "2026-09-08"
   },
   {
+    "point": "24/09 :: usa :: corp :: Résultats Costco",
+    "premiere_apparition": "2026-09-09"
+  },
+  {
     "point": "Semaine du 31/08 :: europe :: geo :: Commission Investissement ONU (CNUCED)",
     "premiere_apparition": "2026-08-21"
   },
@@ -600,6 +544,10 @@
     "premiere_apparition": "2026-09-08"
   },
   {
+    "point": "14/09 :: usa :: corp :: Résultats Oracle",
+    "premiere_apparition": "2026-09-09"
+  },
+  {
     "point": "21/09 :: global :: mkt-n :: WEF Sustainable Development Impact",
     "premiere_apparition": "2026-08-27"
   },
@@ -634,6 +582,10 @@
   {
     "point": "22/09 :: europe :: macro :: Indice Confiance Consommateurs UE",
     "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "22/09 :: usa :: corp :: Résultats AutoZone",
+    "premiere_apparition": "2026-09-09"
   },
   {
     "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
