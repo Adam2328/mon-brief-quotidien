@@ -324,70 +324,6 @@
     "premiere_apparition": "2026-09-08"
   },
   {
-    "point": "Fin août :: usa :: corp :: Résultats trimestriels NVIDIA",
-    "premiere_apparition": "2026-08-19"
-  },
-  {
-    "point": "09/09 :: global :: mkt-n :: Banque du Canada Décision Taux",
-    "premiere_apparition": "2026-08-08"
-  },
-  {
-    "point": "09/09 :: europe :: mkt-n :: Réunion Politique Monétaire BCE J1",
-    "premiere_apparition": "2026-08-09"
-  },
-  {
-    "point": "09/09 :: canada :: mkt-n :: Bank of Canada Rate Decision",
-    "premiere_apparition": "2026-08-17"
-  },
-  {
-    "point": "09/09 :: europe :: macro :: France Production industrielle JUL",
-    "premiere_apparition": "2026-08-18"
-  },
-  {
-    "point": "09/09 :: global :: mkt-n :: Décision taux BoC",
-    "premiere_apparition": "2026-08-19"
-  },
-  {
-    "point": "09/09 :: europe :: mkt-n :: Décision taux BCE",
-    "premiere_apparition": "2026-08-21"
-  },
-  {
-    "point": "09/09 :: uk :: mkt-n :: Clôture Représentations Budget UK",
-    "premiere_apparition": "2026-08-22"
-  },
-  {
-    "point": "09/09 :: usa :: corp :: Navan Résultats Financiers T2",
-    "premiere_apparition": "2026-08-27"
-  },
-  {
-    "point": "09/09 :: asia :: mkt-n :: Astana Finance Days début",
-    "premiere_apparition": "2026-08-30"
-  },
-  {
-    "point": "09/09 :: usa :: corp :: Résultats Caleres (T2)",
-    "premiere_apparition": "2026-09-01"
-  },
-  {
-    "point": "09/09 :: europe :: corp :: Résultats Inditex",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "09/09 :: europe :: mkt-n :: Début Conseil des Gouverneurs BCE",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "09/09 :: usa :: corp :: Résultats Chewy",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "09/09 :: asie :: macro :: Inflation Chine (IPC)",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "09/09 :: asie :: macro :: Commandes machines-outils Japon",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
     "point": "12/09 :: global :: geo :: Début Sommet BRICS New Delhi",
     "premiere_apparition": "2026-08-10"
   },
@@ -486,14 +422,6 @@
   {
     "point": "Semaine du 31/08 :: europe :: geo :: Commission Investissement ONU (CNUCED)",
     "premiere_apparition": "2026-08-21"
-  },
-  {
-    "point": "29/08 - 30/08 :: usa :: geo :: G20 Réunion Délégués Banques Centrales",
-    "premiere_apparition": "2026-08-19"
-  },
-  {
-    "point": "12/09 - 13/09 :: global :: geo :: Sommet BRICS",
-    "premiere_apparition": "2026-08-19"
   },
   {
     "point": "01/09-02/09 :: europe :: geo :: Sommet Mondial de l'Investissement",
@@ -750,5 +678,29 @@
   {
     "point": "21/09 - 23/09 :: europe :: ai :: Responsible AI Summit London",
     "premiere_apparition": "2026-09-09"
+  },
+  {
+    "point": "14-16/09 :: global :: geo :: G20 Réunion Ministérielle Énergie",
+    "premiere_apparition": "2026-09-10"
+  },
+  {
+    "point": "15-16/09 :: usa :: mkt-n :: Réunion FOMC Fed",
+    "premiere_apparition": "2026-09-10"
+  },
+  {
+    "point": "17-18/09 :: asie :: mkt-n :: Réunion Politique Monétaire BoJ",
+    "premiere_apparition": "2026-09-10"
+  },
+  {
+    "point": "30/09-01/10 :: global :: geo :: G20 Réunion Ministérielle Commerce",
+    "premiere_apparition": "2026-09-10"
+  },
+  {
+    "point": "01-02/10 :: global :: geo :: G20 Réunion des Sherpas",
+    "premiere_apparition": "2026-09-10"
+  },
+  {
+    "point": "Début Octobre :: global :: corp :: Début Saison Résultats T3 2026",
+    "premiere_apparition": "2026-09-10"
   }
 ]
