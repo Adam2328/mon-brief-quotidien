@@ -1,65 +1,5 @@
 [
   {
-    "point": "10/09 :: europe :: macro :: Décision de politique monétaire BCE",
-    "premiere_apparition": "2026-07-23"
-  },
-  {
-    "point": "10/09 :: europe :: mkt-n :: BCE Conseil des Gouverneurs",
-    "premiere_apparition": "2026-08-08"
-  },
-  {
-    "point": "10/09 :: japon :: mkt-n :: Discours membre Conseil BoJ Masu",
-    "premiere_apparition": "2026-08-09"
-  },
-  {
-    "point": "10/09 :: europe :: mkt-n :: Réunion BCE & Décision Taux",
-    "premiere_apparition": "2026-08-10"
-  },
-  {
-    "point": "10/09 :: usa :: macro :: Publication IPP US",
-    "premiere_apparition": "2026-08-14"
-  },
-  {
-    "point": "10/09 :: europe :: mkt-n :: ECB Rate Decision",
-    "premiere_apparition": "2026-08-17"
-  },
-  {
-    "point": "10/09 :: usa :: macro :: Indice prix production US (août)",
-    "premiere_apparition": "2026-08-19"
-  },
-  {
-    "point": "10/09 :: usa :: macro :: Indice Prix Prod. US Août 2026",
-    "premiere_apparition": "2026-08-22"
-  },
-  {
-    "point": "10/09 :: usa :: tech :: Résultats Adobe",
-    "premiere_apparition": "2026-08-26"
-  },
-  {
-    "point": "10/09 :: global :: mkt-n :: Conférence Firms, Trade, Development",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "10/09 :: usa :: macro :: Publication PPI US",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "10/09 :: usa :: corp :: Résultats Oracle Corporation",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "10/09 :: global :: geo :: Communiqué Groupe Réglementation Financière US-UK",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "10/09 :: usa :: macro :: Ventes logements existants US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "10/09 :: usa :: macro :: Stocks de gros US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
     "point": "11/09 :: usa :: macro :: Publication IPC US (août)",
     "premiere_apparition": "2026-07-23"
   },
@@ -342,6 +282,10 @@
   {
     "point": "13/09 :: europe :: mkt-n :: Conférence Économie et Finance (Cannes)",
     "premiere_apparition": "2026-09-05"
+  },
+  {
+    "point": "13/09 :: europe :: geo :: Élections générales Suède",
+    "premiere_apparition": "2026-09-11"
   },
   {
     "point": "Septembre :: usa :: geo :: G20 Réunion Ministérielle Innovation (Raleigh-Durham)",
@@ -706,5 +650,25 @@
   {
     "point": "01/10 :: usa :: geo :: 3ème Réunion des Sherpas G20",
     "premiere_apparition": "2026-09-10"
+  },
+  {
+    "point": "14/09-16/09 :: usa :: geo :: Réunion Ministérielle G20 Énergie",
+    "premiere_apparition": "2026-09-11"
+  },
+  {
+    "point": "15/09-16/09 :: usa :: macro :: Réunion FOMC Décision Taux",
+    "premiere_apparition": "2026-09-11"
+  },
+  {
+    "point": "16/09-17/09 :: asie :: macro :: Réunion BoJ Décision Taux",
+    "premiere_apparition": "2026-09-11"
+  },
+  {
+    "point": "22/09-29/09 :: global :: geo :: AG ONU Débat Général",
+    "premiere_apparition": "2026-09-11"
+  },
+  {
+    "point": "01/10-02/10 :: usa :: geo :: 3ème Réunion Sherpas G20",
+    "premiere_apparition": "2026-09-11"
   }
 ]
