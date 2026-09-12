@@ -1,49 +1,5 @@
 [
   {
-    "point": "11/09 :: usa :: macro :: Publication IPC US (août)",
-    "premiere_apparition": "2026-07-23"
-  },
-  {
-    "point": "11/09 :: usa :: macro :: Indice Prix Consommation (CPI) US",
-    "premiere_apparition": "2026-08-13"
-  },
-  {
-    "point": "11/09 :: usa :: macro :: Publication Salaires Réels US (Août)",
-    "premiere_apparition": "2026-08-21"
-  },
-  {
-    "point": "11/09 :: usa :: macro :: Indice Prix Conso US Août 2026",
-    "premiere_apparition": "2026-08-22"
-  },
-  {
-    "point": "11/09 :: usa :: macro :: Revenus Réels US Août 2026",
-    "premiere_apparition": "2026-08-22"
-  },
-  {
-    "point": "11/09 :: europe :: macro :: Publication PIB Royaume-Uni",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "11/09 :: usa :: macro :: Confiance consommateurs Michigan US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "11/09 :: usa :: macro :: Déclaration Trésor US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "11/09 :: europe :: macro :: Production industrielle UK",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "11/09 :: europe :: macro :: Balance commerciale UK",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "11/09 :: global :: geo :: Sommet dirigeants BRICS Delhi",
-    "premiere_apparition": "2026-09-11"
-  },
-  {
     "point": "15/09 :: usa :: macro :: Réunion FOMC",
     "premiere_apparition": "2026-07-23"
   },
@@ -368,24 +324,8 @@
     "premiere_apparition": "2026-09-09"
   },
   {
-    "point": "Semaine du 31/08 :: europe :: geo :: Commission Investissement ONU (CNUCED)",
-    "premiere_apparition": "2026-08-21"
-  },
-  {
-    "point": "01/09-02/09 :: europe :: geo :: Sommet Mondial de l'Investissement",
-    "premiere_apparition": "2026-08-21"
-  },
-  {
     "point": "01/09-02/09 :: europe :: global :: Global Investment Summit Paris",
     "premiere_apparition": "2026-08-24"
-  },
-  {
-    "point": "08/09-22/09 :: global :: geo :: Assemblée générale ONU",
-    "premiere_apparition": "2026-08-21"
-  },
-  {
-    "point": "17/09-18/09 :: europe :: geo :: Forum Business Droits Humains Europe",
-    "premiere_apparition": "2026-08-21"
   },
   {
     "point": "17/09-18/09 :: europe :: geo :: Western Europe Business Human Rights Forum",
@@ -622,6 +562,10 @@
   {
     "point": "02/10 :: usa :: macro :: Rapport Emploi US (NFP)",
     "premiere_apparition": "2026-09-08"
+  },
+  {
+    "point": "02/10 :: europe :: macro :: Publication Inflation Flash Eurozone Septembre",
+    "premiere_apparition": "2026-09-12"
   },
   {
     "point": "06/10 :: europe :: mkt-n :: FT Private Capital Summit",
