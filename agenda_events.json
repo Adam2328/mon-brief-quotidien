@@ -60,6 +60,14 @@
     "premiere_apparition": "2026-09-07"
   },
   {
+    "point": "15/09 :: europe :: macro :: Allemagne Indice ZEW sentiment économique",
+    "premiere_apparition": "2026-09-12"
+  },
+  {
+    "point": "15/09 :: europe :: corp :: ASSYSTEM Résultats S1",
+    "premiere_apparition": "2026-09-12"
+  },
+  {
     "point": "16/09 :: europe :: macro :: Publication IPC UK (août)",
     "premiere_apparition": "2026-07-23"
   },
@@ -134,6 +142,10 @@
   {
     "point": "16/09 :: europe :: macro :: Production industrielle Zone Euro",
     "premiere_apparition": "2026-09-07"
+  },
+  {
+    "point": "16/09 :: usa :: tech :: Sommet \"All In 2026\" IA et Tech",
+    "premiere_apparition": "2026-09-12"
   },
   {
     "point": "17/09 :: asie :: macro :: Décision de politique monétaire BoJ",
@@ -370,6 +382,14 @@
   {
     "point": "14/09 :: usa :: corp :: Résultats Oracle",
     "premiere_apparition": "2026-09-09"
+  },
+  {
+    "point": "14/09 :: europe :: geo :: Réunion ministres politique cohésion UE",
+    "premiere_apparition": "2026-09-12"
+  },
+  {
+    "point": "14/09 :: europe :: corp :: DELFINGEN Résultats S1",
+    "premiere_apparition": "2026-09-12"
   },
   {
     "point": "21/09 :: global :: mkt-n :: WEF Sustainable Development Impact",
