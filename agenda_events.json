@@ -68,6 +68,38 @@
     "premiere_apparition": "2026-09-12"
   },
   {
+    "point": "15/09 :: usa :: macro :: Indice Empire State Septembre",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "15/09 :: europe :: macro :: France Inscriptions Chômage Août",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "15/09 :: europe :: macro :: Allemagne Indice ZEW Septembre",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "15/09 :: europe :: corp :: Aelis Farma Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "15/09 :: europe :: corp :: Maat Pharma Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "15/09 :: europe :: corp :: Qwamplify Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "15/09 :: europe :: corp :: Implanet Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "15/09 :: europe :: corp :: Exail Technologies Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
     "point": "16/09 :: europe :: macro :: Publication IPC UK (août)",
     "premiere_apparition": "2026-07-23"
   },
@@ -146,6 +178,46 @@
   {
     "point": "16/09 :: usa :: tech :: Sommet \"All In 2026\" IA et Tech",
     "premiere_apparition": "2026-09-12"
+  },
+  {
+    "point": "16/09 :: europe :: macro :: France Prix Consommation Août",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "16/09 :: europe :: macro :: Eurozone Production Industrielle Juillet",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "16/09 :: europe :: corp :: LNA Sante Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "16/09 :: europe :: corp :: Touax Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "16/09 :: europe :: corp :: Kumulus Vape Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "16/09 :: europe :: corp :: Compagnie de l'Odet Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "16/09 :: europe :: corp :: Hipay Group Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "16/09 :: europe :: corp :: Aubay Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "16/09 :: europe :: corp :: Drone Volt Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "16/09 :: usa :: corp :: Lennar B Résultats T3",
+    "premiere_apparition": "2026-09-13"
   },
   {
     "point": "17/09 :: asie :: macro :: Décision de politique monétaire BoJ",
@@ -236,12 +308,28 @@
     "premiere_apparition": "2026-09-08"
   },
   {
-    "point": "12/09 :: global :: geo :: Début Sommet BRICS New Delhi",
-    "premiere_apparition": "2026-08-10"
+    "point": "17/09 :: europe :: corp :: Boiron Résultats S1",
+    "premiere_apparition": "2026-09-13"
   },
   {
-    "point": "12/09 :: global :: geo :: 18ème Sommet BRICS",
-    "premiere_apparition": "2026-08-17"
+    "point": "17/09 :: europe :: corp :: Solutions 30 SE Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "17/09 :: europe :: corp :: Akwel Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "17/09 :: europe :: corp :: Innate Pharma Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "17/09 :: europe :: corp :: Robertet S.A. Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "17/09 :: europe :: corp :: Bollore Publication Rapport Semestriel",
+    "premiere_apparition": "2026-09-13"
   },
   {
     "point": "13/09 :: global :: geo :: Clôture Sommet BRICS New Delhi",
@@ -390,6 +478,22 @@
   {
     "point": "14/09 :: europe :: corp :: DELFINGEN Résultats S1",
     "premiere_apparition": "2026-09-12"
+  },
+  {
+    "point": "14/09 :: europe :: macro :: Discours Présidente BCE (Lagarde)",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "14/09 :: europe :: corp :: DMS Group Résultats S1",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "14/09 :: europe :: corp :: Realites Assemblée Générale Annuelle",
+    "premiere_apparition": "2026-09-13"
+  },
+  {
+    "point": "14/09 :: europe :: corp :: Toosla Assemblée Générale Mixte",
+    "premiere_apparition": "2026-09-13"
   },
   {
     "point": "21/09 :: global :: mkt-n :: WEF Sustainable Development Impact",
@@ -594,6 +698,10 @@
   {
     "point": "02/10 :: europe :: macro :: Estimation flash HICP Eurozone (Septembre)",
     "premiere_apparition": "2026-09-12"
+  },
+  {
+    "point": "02/10 :: usa :: macro :: Rapport Emploi NFP Septembre",
+    "premiere_apparition": "2026-09-13"
   },
   {
     "point": "06/10 :: europe :: mkt-n :: FT Private Capital Summit",
