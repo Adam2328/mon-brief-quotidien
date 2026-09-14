@@ -220,6 +220,10 @@
     "premiere_apparition": "2026-09-13"
   },
   {
+    "point": "16/09 :: usa :: mkt-n :: FOMC Annonce taux d'intérêt",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "17/09 :: asie :: macro :: Décision de politique monétaire BoJ",
     "premiere_apparition": "2026-07-23"
   },
@@ -332,24 +336,8 @@
     "premiere_apparition": "2026-09-13"
   },
   {
-    "point": "13/09 :: global :: geo :: Clôture Sommet BRICS New Delhi",
-    "premiere_apparition": "2026-08-10"
-  },
-  {
-    "point": "13/09 :: global :: geo :: Sommet BRICS",
-    "premiere_apparition": "2026-08-27"
-  },
-  {
-    "point": "13/09 :: europe :: mkt-n :: Conférence Économie et Finance (Cannes)",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "13/09 :: europe :: geo :: Élections générales Suède",
-    "premiere_apparition": "2026-09-11"
-  },
-  {
-    "point": "Septembre :: usa :: geo :: G20 Réunion Ministérielle Innovation (Raleigh-Durham)",
-    "premiere_apparition": "2026-08-23"
+    "point": "17/09 :: europe :: mkt-n :: BoE Annonce taux d'intérêt",
+    "premiere_apparition": "2026-09-14"
   },
   {
     "point": "18/09 :: asie :: mkt-n :: Réunion BoJ / Décision taux",
@@ -374,6 +362,14 @@
   {
     "point": "18/09 :: europe :: macro :: Décision taux d'intérêt BoE",
     "premiere_apparition": "2026-09-06"
+  },
+  {
+    "point": "18/09 :: asie :: mkt-n :: BoJ Annonce taux d'intérêt",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "18/09 :: usa :: macro :: US Emploi et chômage par État (août)",
+    "premiere_apparition": "2026-09-14"
   },
   {
     "point": "24/09 :: global :: geo :: Sommet dirigeants US-Chine",
@@ -708,6 +704,10 @@
     "premiere_apparition": "2026-09-08"
   },
   {
+    "point": "06/10 :: global :: mkt-n :: OCDE Conférence Productivité (jour 2)",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "09/09 - 10/09 :: europe :: macro :: Réunion BCE Politique Monétaire & Décision taux",
     "premiere_apparition": "2026-09-09"
   },
@@ -744,6 +744,10 @@
     "premiere_apparition": "2026-09-10"
   },
   {
+    "point": "01/10 :: asie :: macro :: BoJ Rapport Tankan (septembre)",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "14/09-16/09 :: usa :: geo :: Réunion Ministérielle G20 Énergie",
     "premiere_apparition": "2026-09-11"
   },
@@ -770,5 +774,9 @@
   {
     "point": "Semaine du 14/09 :: usa :: tech :: G20 Ministérielle Innovation Raleigh-Durham",
     "premiere_apparition": "2026-09-11"
+  },
+  {
+    "point": "05/10 :: global :: mkt-n :: OCDE Conférence Productivité (jour 1)",
+    "premiere_apparition": "2026-09-14"
   }
 ]
