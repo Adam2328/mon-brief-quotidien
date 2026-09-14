@@ -104,6 +104,18 @@
     "premiere_apparition": "2026-09-14"
   },
   {
+    "point": "15/09 :: asie :: macro :: Chine production industrielle, ventes détail août",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "15/09 :: europe :: macro :: Indices ZEW Allemagne et Eurozone",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "15/09 :: europe :: macro :: Balance commerciale Eurozone août",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "16/09 :: europe :: macro :: Publication IPC UK (août)",
     "premiere_apparition": "2026-07-23"
   },
@@ -232,6 +244,14 @@
     "premiere_apparition": "2026-09-14"
   },
   {
+    "point": "16/09 :: usa :: macro :: Décision de taux FOMC, projections économiques",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "16/09 :: europe :: corp :: Résultats semestriels entreprises françaises",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "17/09 :: asie :: macro :: Décision de politique monétaire BoJ",
     "premiere_apparition": "2026-07-23"
   },
@@ -348,6 +368,10 @@
     "premiere_apparition": "2026-09-14"
   },
   {
+    "point": "17/09 :: europe :: corp :: Résultats semestriels entreprises françaises",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "18/09 :: asie :: mkt-n :: Réunion BoJ / Décision taux",
     "premiere_apparition": "2026-08-14"
   },
@@ -426,6 +450,10 @@
   {
     "point": "24/09 :: global :: geo :: Sommet Trump-Xi (USA)",
     "premiere_apparition": "2026-09-09"
+  },
+  {
+    "point": "24/09 :: europe :: macro :: PMI Flash septembre Eurozone",
+    "premiere_apparition": "2026-09-14"
   },
   {
     "point": "01/09-02/09 :: europe :: global :: Global Investment Summit Paris",
@@ -540,6 +568,10 @@
     "premiere_apparition": "2026-09-09"
   },
   {
+    "point": "22/09 :: usa :: macro :: ADP Changement d'Emploi hebdomadaire",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
     "premiere_apparition": "2026-08-27"
   },
@@ -608,6 +640,10 @@
     "premiere_apparition": "2026-09-11"
   },
   {
+    "point": "30/09 :: europe :: macro :: PIB T2 final Royaume-Uni",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "Sept. 2026 :: usa :: geo :: Réunion Ministérielle G20 Innovation",
     "premiere_apparition": "2026-08-29"
   },
@@ -648,8 +684,20 @@
     "premiere_apparition": "2026-09-09"
   },
   {
+    "point": "29/09 :: usa :: macro :: JOLTS emplois août",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "29/09 :: europe :: macro :: Sentiment économique septembre Eurozone",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "25/09 :: europe :: mkt-n :: Conférence Recherche Économie et Finance (Paris)",
     "premiere_apparition": "2026-09-05"
+  },
+  {
+    "point": "25/09 :: europe :: macro :: Masse monétaire M3 août Eurozone",
+    "premiere_apparition": "2026-09-14"
   },
   {
     "point": "Semaine du 09/09 :: global :: corp :: Résultats entreprises (Oracle, GameStop, Inditex, Adobe)",
@@ -764,6 +812,18 @@
     "premiere_apparition": "2026-09-14"
   },
   {
+    "point": "01/10 :: usa :: macro :: ISM manufacturier septembre",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "01/10 :: europe :: macro :: Taux chômage août Eurozone",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "01/10 :: europe :: macro :: PMI Manufacturier final septembre Royaume-Uni",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "14/09-16/09 :: usa :: geo :: Réunion Ministérielle G20 Énergie",
     "premiere_apparition": "2026-09-11"
   },
@@ -793,6 +853,10 @@
   },
   {
     "point": "05/10 :: global :: mkt-n :: OCDE Conférence Productivité (jour 1)",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "05/10 :: europe :: macro :: PMI Services/Composite final septembre Eurozone",
     "premiere_apparition": "2026-09-14"
   }
 ]
