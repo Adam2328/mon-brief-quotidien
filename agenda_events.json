@@ -100,6 +100,10 @@
     "premiere_apparition": "2026-09-13"
   },
   {
+    "point": "15/09 :: usa :: tech :: Vote Chambre Rep. loi centres données",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
     "point": "16/09 :: europe :: macro :: Publication IPC UK (août)",
     "premiere_apparition": "2026-07-23"
   },
@@ -221,6 +225,10 @@
   },
   {
     "point": "16/09 :: usa :: mkt-n :: FOMC Annonce taux d'intérêt",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "16/09 :: usa :: geo :: Réunion Ministérielle Énergie G20",
     "premiere_apparition": "2026-09-14"
   },
   {
@@ -745,6 +753,14 @@
   },
   {
     "point": "01/10 :: asie :: macro :: BoJ Rapport Tankan (septembre)",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "01/10 :: europe :: mkt-n :: Conférence Economie Finance Business Rome",
+    "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "01/10 :: usa :: geo :: Réunion Ministérielle Commerce G20",
     "premiere_apparition": "2026-09-14"
   },
   {
