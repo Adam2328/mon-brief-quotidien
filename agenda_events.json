@@ -604,6 +604,10 @@
     "premiere_apparition": "2026-09-15"
   },
   {
+    "point": "30/09 :: global :: geo :: G20 Réunion des Sherpas III",
+    "premiere_apparition": "2026-09-15"
+  },
+  {
     "point": "Sept. 2026 :: usa :: geo :: Réunion Ministérielle G20 Innovation",
     "premiere_apparition": "2026-08-29"
   },
@@ -830,5 +834,9 @@
   {
     "point": "05/10 :: europe :: macro :: PMI Services/Composite final septembre Eurozone",
     "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
+    "premiere_apparition": "2026-09-15"
   }
 ]
