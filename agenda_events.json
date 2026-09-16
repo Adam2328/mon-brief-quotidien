@@ -1,121 +1,5 @@
 [
   {
-    "point": "15/09 :: usa :: macro :: Réunion FOMC",
-    "premiere_apparition": "2026-07-23"
-  },
-  {
-    "point": "15/09 :: usa :: mkt-n :: FOMC Meeting Day 1",
-    "premiere_apparition": "2026-08-17"
-  },
-  {
-    "point": "15/09 :: europe :: macro :: Germany ZEW Economic Sentiment September",
-    "premiere_apparition": "2026-08-17"
-  },
-  {
-    "point": "15/09 :: europe :: macro :: Inflation France définitive (août)",
-    "premiere_apparition": "2026-08-30"
-  },
-  {
-    "point": "15/09 :: europe :: corp :: Regards croisés Entreprises et investisseurs",
-    "premiere_apparition": "2026-08-30"
-  },
-  {
-    "point": "15/09 :: global :: geo :: Sommet Investissement Canada (Jour 2)",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "15/09 :: afrique :: corp :: Dangote Refinery IPO Nigeria",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "15/09 :: canada :: ai :: Conférence IA en Finance Montréal",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "15/09 :: usa :: macro :: Indice manufacturier Empire State US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "15/09 :: usa :: macro :: Ventes immobilières MLS Canada",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "15/09 :: usa :: macro :: Commerce de gros Canada",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "15/09 :: asie :: macro :: Commandes de machines Japon",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "15/09 :: europe :: macro :: Taux chômage UK",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "15/09 :: europe :: macro :: Balance commerciale Zone Euro",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "15/09 :: europe :: mkt-n :: Discours Carolyn Wilkins BoE",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "15/09 :: europe :: macro :: Allemagne Indice ZEW sentiment économique",
-    "premiere_apparition": "2026-09-12"
-  },
-  {
-    "point": "15/09 :: europe :: corp :: ASSYSTEM Résultats S1",
-    "premiere_apparition": "2026-09-12"
-  },
-  {
-    "point": "15/09 :: usa :: macro :: Indice Empire State Septembre",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "15/09 :: europe :: macro :: France Inscriptions Chômage Août",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "15/09 :: europe :: macro :: Allemagne Indice ZEW Septembre",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "15/09 :: europe :: corp :: Aelis Farma Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "15/09 :: europe :: corp :: Maat Pharma Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "15/09 :: europe :: corp :: Qwamplify Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "15/09 :: europe :: corp :: Implanet Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "15/09 :: europe :: corp :: Exail Technologies Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "15/09 :: usa :: tech :: Vote Chambre Rep. loi centres données",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "15/09 :: asie :: macro :: Chine production industrielle, ventes détail août",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "15/09 :: europe :: macro :: Indices ZEW Allemagne et Eurozone",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "15/09 :: europe :: macro :: Balance commerciale Eurozone août",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
     "point": "16/09 :: europe :: macro :: Publication IPC UK (août)",
     "premiere_apparition": "2026-07-23"
   },
@@ -480,6 +364,10 @@
     "premiere_apparition": "2026-09-14"
   },
   {
+    "point": "24/09 :: europe :: macro :: Indice IFO Climat Affaires Allemagne (Septembre)",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
     "point": "17/09-18/09 :: asie :: macro :: BoJ Décision Taux Intérêt",
     "premiere_apparition": "2026-09-11"
   },
@@ -526,6 +414,10 @@
   {
     "point": "22/09 :: usa :: macro :: ADP Changement d'Emploi hebdomadaire",
     "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "22/09 :: europe :: corp :: Résultats S1 Groupe Crit",
+    "premiere_apparition": "2026-09-16"
   },
   {
     "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
@@ -630,6 +522,10 @@
   {
     "point": "23/09 :: global :: mkt-n :: Focus sur la Finance d'Entreprise",
     "premiere_apparition": "2026-09-05"
+  },
+  {
+    "point": "23/09 :: europe :: macro :: PMI Flash S&P Global Zone Euro (Septembre)",
+    "premiere_apparition": "2026-09-16"
   },
   {
     "point": "20/09 :: global :: geo :: Début Semaine AG ONU Global Compact",
