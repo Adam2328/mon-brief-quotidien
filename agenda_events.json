@@ -652,6 +652,10 @@
     "premiere_apparition": "2026-09-10"
   },
   {
+    "point": "30/09-01/10 :: global :: geo :: Réunion Sherpa G20 (Washington)",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
     "point": "01-02/10 :: global :: geo :: G20 Réunion des Sherpas",
     "premiere_apparition": "2026-09-10"
   },
@@ -696,6 +700,14 @@
     "premiere_apparition": "2026-09-15"
   },
   {
+    "point": "01/10 :: asie :: macro :: Résumé Opinions Réunion Politique Monétaire BoJ",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
+    "point": "01/10 :: asie :: macro :: Enquête Tankan (Septembre)",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
     "point": "14/09-16/09 :: usa :: geo :: Réunion Ministérielle G20 Énergie",
     "premiere_apparition": "2026-09-11"
   },
@@ -720,6 +732,10 @@
     "premiere_apparition": "2026-09-11"
   },
   {
+    "point": "01/10-02/10 :: global :: geo :: Réunion Ministres Finances G20 (Bangkok)",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
     "point": "Semaine du 14/09 :: usa :: tech :: G20 Ministérielle Innovation Raleigh-Durham",
     "premiere_apparition": "2026-09-11"
   },
@@ -734,5 +750,33 @@
   {
     "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
     "premiere_apparition": "2026-09-15"
+  },
+  {
+    "point": "12/10-18/10 :: global :: geo :: Réunions Annuelles FMI et Banque Mondiale",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
+    "point": "13/10 :: usa :: corp :: Résultats T3 UnitedHealth Group",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
+    "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
+    "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
+    "point": "27/10-28/10 :: usa :: mkt-n :: Réunion FOMC",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
+    "point": "28/10-29/10 :: europe :: mkt-n :: Réunion politique monétaire BCE",
+    "premiere_apparition": "2026-09-16"
+  },
+  {
+    "point": "03/11 :: usa :: geo :: Élections de mi-mandat US",
+    "premiere_apparition": "2026-09-16"
   }
 ]
