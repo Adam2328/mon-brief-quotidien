@@ -1,157 +1,5 @@
 [
   {
-    "point": "16/09 :: europe :: macro :: Publication IPC UK (août)",
-    "premiere_apparition": "2026-07-23"
-  },
-  {
-    "point": "16/09 :: usa :: macro :: Décision de taux FOMC Fed",
-    "premiere_apparition": "2026-08-12"
-  },
-  {
-    "point": "16/09 :: uk :: macro :: Inflation PPI (Août)",
-    "premiere_apparition": "2026-08-13"
-  },
-  {
-    "point": "16/09 :: asie :: mkt-n :: Réunion Politique Monétaire BoJ",
-    "premiere_apparition": "2026-08-17"
-  },
-  {
-    "point": "16/09 :: usa :: mkt-n :: FOMC Rate Decision & SEP",
-    "premiere_apparition": "2026-08-17"
-  },
-  {
-    "point": "16/09 :: asie :: mkt-n :: BoJ Réunion Début",
-    "premiere_apparition": "2026-08-18"
-  },
-  {
-    "point": "16/09 :: uk :: geo :: Parlement UK en Recess (Conférences)",
-    "premiere_apparition": "2026-08-22"
-  },
-  {
-    "point": "16/09 :: usa :: macro :: Indice Prix Import/Export US Août 2026",
-    "premiere_apparition": "2026-08-22"
-  },
-  {
-    "point": "16/09 :: usa :: macro :: Ventes au Détail (Août)",
-    "premiere_apparition": "2026-09-01"
-  },
-  {
-    "point": "16/09 :: europe :: mkt-n :: Conférence Finance et Business Economics (Marseille)",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "16/09 :: europe :: macro :: Publication PPI UK (Août)",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "16/09 :: usa :: macro :: Réunion FOMC (Fed)",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "16/09 :: usa :: macro :: Indices prix commerce US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "16/09 :: usa :: macro :: Stocks des entreprises US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "16/09 :: usa :: macro :: Flux portefeuilles étrangers US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "16/09 :: usa :: macro :: Mises en chantier Canada",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "16/09 :: usa :: macro :: Permis de construire Canada",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "16/09 :: usa :: mkt-n :: Résumé délibérations BdC",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "16/09 :: europe :: macro :: Production industrielle Zone Euro",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "16/09 :: usa :: tech :: Sommet \"All In 2026\" IA et Tech",
-    "premiere_apparition": "2026-09-12"
-  },
-  {
-    "point": "16/09 :: europe :: macro :: France Prix Consommation Août",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "16/09 :: europe :: macro :: Eurozone Production Industrielle Juillet",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "16/09 :: europe :: corp :: LNA Sante Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "16/09 :: europe :: corp :: Touax Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "16/09 :: europe :: corp :: Kumulus Vape Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "16/09 :: europe :: corp :: Compagnie de l'Odet Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "16/09 :: europe :: corp :: Hipay Group Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "16/09 :: europe :: corp :: Aubay Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "16/09 :: europe :: corp :: Drone Volt Résultats S1",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "16/09 :: usa :: corp :: Lennar B Résultats T3",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "16/09 :: usa :: mkt-n :: FOMC Annonce taux d'intérêt",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "16/09 :: usa :: geo :: Réunion Ministérielle Énergie G20",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "16/09 :: usa :: macro :: Décision de taux FOMC, projections économiques",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "16/09 :: europe :: corp :: Résultats semestriels entreprises françaises",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "16/09 :: usa :: geo :: G20 Ministerial Énergie Fin",
-    "premiere_apparition": "2026-09-15"
-  },
-  {
-    "point": "16/09 :: usa :: corp :: Lennar Résultats d'Entreprise",
-    "premiere_apparition": "2026-09-15"
-  },
-  {
-    "point": "16/09 :: usa :: corp :: Cracker Barrel Résultats",
-    "premiere_apparition": "2026-09-15"
-  },
-  {
-    "point": "16/09 :: europe :: corp :: Gerresheimer Résultats",
-    "premiere_apparition": "2026-09-15"
-  },
-  {
     "point": "17/09 :: asie :: macro :: Décision de politique monétaire BoJ",
     "premiere_apparition": "2026-07-23"
   },
@@ -532,6 +380,10 @@
     "premiere_apparition": "2026-09-04"
   },
   {
+    "point": "20/09 :: europe :: geo :: Élections Législatives Russie",
+    "premiere_apparition": "2026-09-17"
+  },
+  {
     "point": "29/09 :: usa :: macro :: Publication JOLTS US",
     "premiere_apparition": "2026-09-04"
   },
@@ -764,6 +616,10 @@
     "premiere_apparition": "2026-09-16"
   },
   {
+    "point": "14/10 :: usa :: macro :: Publication IPC US (Septembre)",
+    "premiere_apparition": "2026-09-17"
+  },
+  {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
     "premiere_apparition": "2026-09-16"
   },
@@ -778,5 +634,21 @@
   {
     "point": "03/11 :: usa :: geo :: Élections de mi-mandat US",
     "premiere_apparition": "2026-09-16"
+  },
+  {
+    "point": "07/10 :: usa :: macro :: Minutes Réunion FOMC (Septembre)",
+    "premiere_apparition": "2026-09-17"
+  },
+  {
+    "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
+    "premiere_apparition": "2026-09-17"
+  },
+  {
+    "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
+    "premiere_apparition": "2026-09-17"
+  },
+  {
+    "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
+    "premiere_apparition": "2026-09-17"
   }
 ]
