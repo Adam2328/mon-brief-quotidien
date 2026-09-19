@@ -76,6 +76,10 @@
     "premiere_apparition": "2026-09-05"
   },
   {
+    "point": "21/09 :: europe :: geo :: Intervention Présidente BCE",
+    "premiere_apparition": "2026-09-19"
+  },
+  {
     "point": "22/09 :: global :: mkt-n :: UN Global Compact Leaders Summit",
     "premiere_apparition": "2026-08-27"
   },
@@ -106,6 +110,10 @@
   {
     "point": "22/09 :: europe :: corp :: Résultats S1 Groupe Crit",
     "premiere_apparition": "2026-09-16"
+  },
+  {
+    "point": "22/09 :: europe :: geo :: Intervention Présidente BCE",
+    "premiere_apparition": "2026-09-19"
   },
   {
     "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
@@ -220,6 +228,14 @@
     "premiere_apparition": "2026-09-16"
   },
   {
+    "point": "23/09 :: europe :: macro :: PMI Manufacturier Flash Zone Euro",
+    "premiere_apparition": "2026-09-19"
+  },
+  {
+    "point": "23/09 :: usa :: macro :: PMI Manufacturier Flash USA",
+    "premiere_apparition": "2026-09-19"
+  },
+  {
     "point": "20/09 :: global :: geo :: Début Semaine AG ONU Global Compact",
     "premiere_apparition": "2026-09-04"
   },
@@ -292,6 +308,10 @@
     "premiere_apparition": "2026-09-08"
   },
   {
+    "point": "28/09 :: europe :: macro :: Confiance Économique & Consommateurs UE",
+    "premiere_apparition": "2026-09-19"
+  },
+  {
     "point": "02/10 :: usa :: macro :: Rapport Emploi US (NFP)",
     "premiere_apparition": "2026-09-08"
   },
@@ -314,6 +334,14 @@
   {
     "point": "02/10 :: usa :: geo :: G20 Sherpa Meeting III Fin",
     "premiere_apparition": "2026-09-15"
+  },
+  {
+    "point": "02/10 :: usa :: macro :: Rapport Emploi Non-Agricole (NFP) USA",
+    "premiere_apparition": "2026-09-19"
+  },
+  {
+    "point": "02/10 :: europe :: macro :: Inflation CPI Flash Zone Euro",
+    "premiere_apparition": "2026-09-19"
   },
   {
     "point": "06/10 :: europe :: mkt-n :: FT Private Capital Summit",
