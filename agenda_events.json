@@ -1,37 +1,5 @@
 [
   {
-    "point": "18/09 :: asie :: mkt-n :: Réunion BoJ / Décision taux",
-    "premiere_apparition": "2026-08-14"
-  },
-  {
-    "point": "18/09 :: asie :: mkt-n :: Bank of Japan Rate Decision",
-    "premiere_apparition": "2026-08-17"
-  },
-  {
-    "point": "18/09 :: asie :: macro :: Décision politique monétaire BoJ",
-    "premiere_apparition": "2026-08-20"
-  },
-  {
-    "point": "18/09 :: usa :: macro :: US Production Industrielle (Août)",
-    "premiere_apparition": "2026-08-31"
-  },
-  {
-    "point": "18/09 :: asie :: mkt-n :: Décision de taux Banque du Japon",
-    "premiere_apparition": "2026-09-01"
-  },
-  {
-    "point": "18/09 :: europe :: macro :: Décision taux d'intérêt BoE",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "18/09 :: asie :: mkt-n :: BoJ Annonce taux d'intérêt",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "18/09 :: usa :: macro :: US Emploi et chômage par État (août)",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
     "point": "24/09 :: global :: geo :: Sommet dirigeants US-Chine",
     "premiere_apparition": "2026-08-14"
   },
