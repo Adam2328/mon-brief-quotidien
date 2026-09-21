@@ -152,6 +152,22 @@
     "premiere_apparition": "2026-09-21"
   },
   {
+    "point": "21/09 :: global :: geo :: Global Diplomacy New York",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "21/09 :: global :: geo :: UN General Assembly",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "21/09 :: global :: geo :: US-China Leaders Summit",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "21/09 :: global :: tech :: US-China AI Safety Talks",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
     "point": "22/09 :: global :: mkt-n :: UN Global Compact Leaders Summit",
     "premiere_apparition": "2026-08-27"
   },
@@ -638,6 +654,14 @@
   {
     "point": "05/10 :: europe :: macro :: PMI Services/Composite final septembre Eurozone",
     "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "05/10 :: usa :: mkt-n :: ADISA Annual Conference",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "05/10 :: usa :: mkt-n :: CFP Board Connections Conference",
+    "premiere_apparition": "2026-09-21"
   },
   {
     "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
