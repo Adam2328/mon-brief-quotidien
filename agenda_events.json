@@ -240,6 +240,10 @@
     "premiere_apparition": "2026-09-21"
   },
   {
+    "point": "22/09 :: global :: geo :: Sommet Trump-Xi",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
     "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
     "premiere_apparition": "2026-08-27"
   },
@@ -560,6 +564,10 @@
     "premiere_apparition": "2026-09-16"
   },
   {
+    "point": "30/09-01/10 :: usa :: geo :: G20 Ministres Commerce",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
     "point": "01-02/10 :: global :: geo :: G20 Réunion des Sherpas",
     "premiere_apparition": "2026-09-10"
   },
@@ -773,6 +781,10 @@
   },
   {
     "point": "Début novembre :: europe :: mkt-n :: BoE Décision Politique Monétaire",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "Cette semaine :: global :: tech :: AG ONU - Débat standards IA",
     "premiere_apparition": "2026-09-21"
   }
 ]
