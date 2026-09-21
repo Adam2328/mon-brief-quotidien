@@ -148,6 +148,10 @@
     "premiere_apparition": "2026-09-20"
   },
   {
+    "point": "21/09 :: usa :: geo :: Trump-Mamdani Meeting",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
     "point": "22/09 :: global :: mkt-n :: UN Global Compact Leaders Summit",
     "premiere_apparition": "2026-08-27"
   },
@@ -214,6 +218,10 @@
   {
     "point": "22/09 :: europe :: corp :: Résultats Prodways Group S1",
     "premiere_apparition": "2026-09-20"
+  },
+  {
+    "point": "22/09 :: global :: geo :: Assemblée Générale ONU Débats",
+    "premiere_apparition": "2026-09-21"
   },
   {
     "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
@@ -378,14 +386,6 @@
   {
     "point": "23/09 :: europe :: corp :: Résultats ACTIA Group S1",
     "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "20/09 :: global :: geo :: Début Semaine AG ONU Global Compact",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "20/09 :: europe :: geo :: Élections Législatives Russie",
-    "premiere_apparition": "2026-09-17"
   },
   {
     "point": "29/09 :: usa :: macro :: Publication JOLTS US",
@@ -656,12 +656,20 @@
     "premiere_apparition": "2026-09-16"
   },
   {
+    "point": "13/10 :: usa :: corp :: Résultats Goldman Sachs",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
     "premiere_apparition": "2026-09-16"
   },
   {
     "point": "14/10 :: usa :: macro :: Publication IPC US (Septembre)",
     "premiere_apparition": "2026-09-17"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Résultats ASML",
+    "premiere_apparition": "2026-09-21"
   },
   {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
@@ -702,5 +710,45 @@
   {
     "point": "26/09 :: europe :: corp :: Résultats Maisons du Monde S1",
     "premiere_apparition": "2026-09-20"
+  },
+  {
+    "point": "15/10 :: asie :: corp :: Résultats Taiwan Semiconductor",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "29/10 :: usa :: macro :: Publication PIB US (Q3, Avance)",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "Fin octobre :: usa :: geo :: Élections Mi-Mandat US (impact marché)",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "Fin octobre :: usa :: corp :: Résultats Amazon",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "Fin octobre :: usa :: corp :: Résultats Alphabet",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "Fin octobre :: usa :: corp :: Résultats Meta",
+    "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "Début novembre :: europe :: mkt-n :: BoE Décision Politique Monétaire",
+    "premiere_apparition": "2026-09-21"
   }
 ]
