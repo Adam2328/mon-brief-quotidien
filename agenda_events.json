@@ -376,6 +376,14 @@
     "premiere_apparition": "2026-09-22"
   },
   {
+    "point": "23/09 :: usa :: macro :: PMI Flash US",
+    "premiere_apparition": "2026-09-22"
+  },
+  {
+    "point": "23/09 :: global :: tech :: Discussions sécurité IA à l'ONU",
+    "premiere_apparition": "2026-09-22"
+  },
+  {
     "point": "29/09 :: usa :: macro :: Publication JOLTS US",
     "premiere_apparition": "2026-09-04"
   },
@@ -414,6 +422,10 @@
   {
     "point": "25/09 :: europe :: corp :: Résultats Arcure",
     "premiere_apparition": "2026-09-20"
+  },
+  {
+    "point": "25/09 :: usa :: macro :: Sentiment des consommateurs US (Final)",
+    "premiere_apparition": "2026-09-22"
   },
   {
     "point": "Semaine du 09/09 :: global :: corp :: Résultats entreprises (Oracle, GameStop, Inditex, Adobe)",
@@ -694,6 +706,10 @@
   {
     "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
     "premiere_apparition": "2026-09-17"
+  },
+  {
+    "point": "12/10 :: global :: mkt-n :: Réunions annuelles FMI/Banque Mondiale (début)",
+    "premiere_apparition": "2026-09-22"
   },
   {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
