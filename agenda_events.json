@@ -112,62 +112,6 @@
     "premiere_apparition": "2026-09-11"
   },
   {
-    "point": "21/09 :: global :: mkt-n :: WEF Sustainable Development Impact",
-    "premiere_apparition": "2026-08-27"
-  },
-  {
-    "point": "21/09 :: usa :: corp :: Broadcom Date Record Dividende",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "21/09 :: global :: geo :: Sommet Leaders UN Global Compact",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "21/09 :: europe :: mkt-n :: Conférence Finance et Comptabilité (Paris) (Jour 1)",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "21/09 :: europe :: geo :: Intervention Présidente BCE",
-    "premiere_apparition": "2026-09-19"
-  },
-  {
-    "point": "21/09 :: europe :: corp :: Résultats Abivax S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "21/09 :: europe :: corp :: Chiffre d'affaires Charwood Energy S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "21/09 :: europe :: corp :: AG Extraordinaire Virtualware",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "21/09 :: europe :: corp :: Résultats Xilam Animation S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "21/09 :: usa :: geo :: Trump-Mamdani Meeting",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "21/09 :: global :: geo :: Global Diplomacy New York",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "21/09 :: global :: geo :: UN General Assembly",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "21/09 :: global :: geo :: US-China Leaders Summit",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "21/09 :: global :: tech :: US-China AI Safety Talks",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
     "point": "22/09 :: global :: mkt-n :: UN Global Compact Leaders Summit",
     "premiere_apparition": "2026-08-27"
   },
@@ -242,6 +186,22 @@
   {
     "point": "22/09 :: global :: geo :: Sommet Trump-Xi",
     "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "22/09 :: global :: geo :: Discours de Trump à l'AGNU",
+    "premiere_apparition": "2026-09-22"
+  },
+  {
+    "point": "22/09 :: global :: tech :: Conférence Semafor \"The Next 3 Billion\"",
+    "premiere_apparition": "2026-09-22"
+  },
+  {
+    "point": "22/09 :: asie :: geo :: Intensification conflit Moyen-Orient",
+    "premiere_apparition": "2026-09-22"
+  },
+  {
+    "point": "22/09 :: usa :: corp :: Résultats KB Home (après-marché)",
+    "premiere_apparition": "2026-09-22"
   },
   {
     "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
@@ -406,6 +366,14 @@
   {
     "point": "23/09 :: europe :: corp :: Résultats ACTIA Group S1",
     "premiere_apparition": "2026-09-20"
+  },
+  {
+    "point": "23/09 :: usa :: corp :: Résultats Cracker Barrel (avant-marché)",
+    "premiere_apparition": "2026-09-22"
+  },
+  {
+    "point": "23/09 :: usa :: corp :: Résultats General Mills (avant-marché)",
+    "premiere_apparition": "2026-09-22"
   },
   {
     "point": "29/09 :: usa :: macro :: Publication JOLTS US",
