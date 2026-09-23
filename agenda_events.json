@@ -108,100 +108,16 @@
     "premiere_apparition": "2026-09-20"
   },
   {
+    "point": "24/09 :: usa :: geo :: Dîner d'État US-Chine",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
+    "point": "24/09 :: europe :: corp :: Résultats semestriels BNP Paribas",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
     "point": "17/09-18/09 :: asie :: macro :: BoJ Décision Taux Intérêt",
     "premiere_apparition": "2026-09-11"
-  },
-  {
-    "point": "22/09 :: global :: mkt-n :: UN Global Compact Leaders Summit",
-    "premiere_apparition": "2026-08-27"
-  },
-  {
-    "point": "22/09 :: europe :: corp :: Sidetrade: Résultats S1 2026",
-    "premiere_apparition": "2026-08-31"
-  },
-  {
-    "point": "22/09 :: usa :: corp :: Résultats Micron Technology",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "22/09 :: global :: geo :: Sommet de l'Avenir ONU",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "22/09 :: europe :: macro :: Indice Confiance Consommateurs UE",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "22/09 :: usa :: corp :: Résultats AutoZone",
-    "premiere_apparition": "2026-09-09"
-  },
-  {
-    "point": "22/09 :: usa :: macro :: ADP Changement d'Emploi hebdomadaire",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "22/09 :: europe :: corp :: Résultats S1 Groupe Crit",
-    "premiere_apparition": "2026-09-16"
-  },
-  {
-    "point": "22/09 :: europe :: geo :: Intervention Présidente BCE",
-    "premiere_apparition": "2026-09-19"
-  },
-  {
-    "point": "22/09 :: europe :: corp :: Résultats Lumibird S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "22/09 :: europe :: corp :: Résultats Semco Technologies S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "22/09 :: europe :: corp :: Résultats ABC arbitrage S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "22/09 :: europe :: corp :: Résultats Sidetrade S.A. S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "22/09 :: europe :: corp :: Résultats StreamWIDE S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "22/09 :: europe :: corp :: Résultats Latecoere S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "22/09 :: europe :: corp :: Résultats HERIGE S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "22/09 :: europe :: corp :: Résultats Prodways Group S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "22/09 :: global :: geo :: Assemblée Générale ONU Débats",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "22/09 :: global :: geo :: Sommet Trump-Xi",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "22/09 :: global :: geo :: Discours de Trump à l'AGNU",
-    "premiere_apparition": "2026-09-22"
-  },
-  {
-    "point": "22/09 :: global :: tech :: Conférence Semafor \"The Next 3 Billion\"",
-    "premiere_apparition": "2026-09-22"
-  },
-  {
-    "point": "22/09 :: asie :: geo :: Intensification conflit Moyen-Orient",
-    "premiere_apparition": "2026-09-22"
-  },
-  {
-    "point": "22/09 :: usa :: corp :: Résultats KB Home (après-marché)",
-    "premiere_apparition": "2026-09-22"
   },
   {
     "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
@@ -286,6 +202,10 @@
   {
     "point": "30/09 :: usa :: corp :: Résultats d'entreprises (Micron, Jabil, FactSet)",
     "premiere_apparition": "2026-09-17"
+  },
+  {
+    "point": "30/09 :: usa :: macro :: PIB USA T2 (3e estimation)",
+    "premiere_apparition": "2026-09-23"
   },
   {
     "point": "23/09 :: asie :: macro :: Inflation CPI Singapour (Août)",
@@ -384,6 +304,18 @@
     "premiere_apparition": "2026-09-22"
   },
   {
+    "point": "23/09 :: usa :: geo :: Rencontre Xi Jinping et Donald Trump",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
+    "point": "23/09 :: global :: ai :: Patrons IA s'adressent à l'ONU",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
+    "point": "23/09 :: afrique :: geo :: Élections législatives Maroc",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
     "point": "29/09 :: usa :: macro :: Publication JOLTS US",
     "premiere_apparition": "2026-09-04"
   },
@@ -402,6 +334,10 @@
   {
     "point": "29/09 :: europe :: macro :: Sentiment économique septembre Eurozone",
     "premiere_apparition": "2026-09-14"
+  },
+  {
+    "point": "29/09 :: usa :: macro :: Enquête JOLTS sur les offres d'emploi",
+    "premiere_apparition": "2026-09-23"
   },
   {
     "point": "25/09 :: europe :: mkt-n :: Conférence Recherche Économie et Finance (Paris)",
@@ -514,6 +450,10 @@
   {
     "point": "06/10 :: usa :: macro :: Commerce International US Août",
     "premiere_apparition": "2026-09-19"
+  },
+  {
+    "point": "06/10 :: usa :: macro :: Rapport Emploi ADP",
+    "premiere_apparition": "2026-09-23"
   },
   {
     "point": "09/09 - 10/09 :: europe :: macro :: Réunion BCE Politique Monétaire & Décision taux",
@@ -770,5 +710,9 @@
   {
     "point": "Cette semaine :: global :: tech :: AG ONU - Débat standards IA",
     "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "Cette semaine :: global :: geo :: Assemblée Générale des Nations Unies",
+    "premiere_apparition": "2026-09-23"
   }
 ]
