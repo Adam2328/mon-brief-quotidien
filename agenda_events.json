@@ -116,6 +116,14 @@
     "premiere_apparition": "2026-09-23"
   },
   {
+    "point": "24/09 :: europe :: mkt-n :: Décision taux SNB",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
+    "point": "24/09 :: asie :: mkt-n :: Entrée en vigueur hausse taux BoJ",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
     "point": "17/09-18/09 :: asie :: macro :: BoJ Décision Taux Intérêt",
     "premiere_apparition": "2026-09-11"
   },
@@ -205,6 +213,10 @@
   },
   {
     "point": "30/09 :: usa :: macro :: PIB USA T2 (3e estimation)",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
+    "point": "30/09 :: europe :: mkt-n :: Publication Compte Rendu FPC BoE",
     "premiere_apparition": "2026-09-23"
   },
   {
@@ -313,6 +325,10 @@
   },
   {
     "point": "23/09 :: afrique :: geo :: Élections législatives Maroc",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
+    "point": "23/09 :: global :: geo :: Sommet Xi-Biden Washington",
     "premiere_apparition": "2026-09-23"
   },
   {
@@ -456,6 +472,18 @@
     "premiere_apparition": "2026-09-23"
   },
   {
+    "point": "06/10 :: europe :: mkt-n :: Conférence Politique Monétaire BCE Jour 2",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
+    "point": "06/10 :: usa :: macro :: Revenus & Dépenses Personnelles US Août",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
+    "point": "06/10 :: usa :: macro :: Balance Commerciale US Août",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
     "point": "09/09 - 10/09 :: europe :: macro :: Réunion BCE Politique Monétaire & Décision taux",
     "premiere_apparition": "2026-09-09"
   },
@@ -544,6 +572,10 @@
     "premiere_apparition": "2026-09-19"
   },
   {
+    "point": "01/10 :: usa :: corp :: Résultats NIKE, Inc.",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
     "point": "14/09-16/09 :: usa :: geo :: Réunion Ministérielle G20 Énergie",
     "premiere_apparition": "2026-09-11"
   },
@@ -592,6 +624,10 @@
     "premiere_apparition": "2026-09-21"
   },
   {
+    "point": "05/10 :: europe :: mkt-n :: Conférence Politique Monétaire BCE Jour 1",
+    "premiere_apparition": "2026-09-23"
+  },
+  {
     "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
     "premiere_apparition": "2026-09-15"
   },
@@ -622,6 +658,10 @@
   {
     "point": "14/10 :: europe :: corp :: Résultats ASML",
     "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "14/10 :: usa :: macro :: Revenu Réel US Septembre",
+    "premiere_apparition": "2026-09-23"
   },
   {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
