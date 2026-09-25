@@ -1,129 +1,5 @@
 [
   {
-    "point": "24/09 :: global :: geo :: Sommet dirigeants US-Chine",
-    "premiere_apparition": "2026-08-14"
-  },
-  {
-    "point": "24/09 :: europe :: macro :: Décision Taux Intérêt Riksbank (Suède)",
-    "premiere_apparition": "2026-09-01"
-  },
-  {
-    "point": "24/09 :: europe :: macro :: Norges Bank Décision Taux Intérêt",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "24/09 :: europe :: mkt-n :: Conférence Business Economics et Finance (Marseille)",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "24/09 :: europe :: mkt-n :: Décision taux Banque Nationale Suisse",
-    "premiere_apparition": "2026-09-05"
-  },
-  {
-    "point": "24/09 :: global :: geo :: Début Débat Général Assemblée ONU",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "24/09 :: europe :: macro :: Réunion Riksbank politique monétaire",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "24/09 :: europe :: macro :: Réunion BNS",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "24/09 :: usa :: macro :: Transactions internationales et position investissement US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "24/09 :: usa, asie :: geo :: Sommet USA-Chine (Trump-Xi) sur l'IA et le commerce",
-    "premiere_apparition": "2026-09-08"
-  },
-  {
-    "point": "24/09 :: usa :: corp :: Résultats Costco",
-    "premiere_apparition": "2026-09-09"
-  },
-  {
-    "point": "24/09 :: global :: geo :: Sommet Trump-Xi (USA)",
-    "premiere_apparition": "2026-09-09"
-  },
-  {
-    "point": "24/09 :: europe :: macro :: PMI Flash septembre Eurozone",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "24/09 :: europe :: macro :: Indice IFO Climat Affaires Allemagne (Septembre)",
-    "premiere_apparition": "2026-09-16"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Exail Technologies",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Pasqal Holding SA",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Peugeot Invest",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Marie Brizard Wine & Spirits",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Eurobio Scientific",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Transgene",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Riber",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Cegedim",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats SRP Groupe",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Carbios",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats ABIONYX Pharma SA",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Adocia",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats Groupe Airwell",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "24/09 :: usa :: geo :: Dîner d'État US-Chine",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "24/09 :: europe :: corp :: Résultats semestriels BNP Paribas",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "24/09 :: europe :: mkt-n :: Décision taux SNB",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "24/09 :: asie :: mkt-n :: Entrée en vigueur hausse taux BoJ",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
     "point": "17/09-18/09 :: asie :: macro :: BoJ Décision Taux Intérêt",
     "premiere_apparition": "2026-09-11"
   },
@@ -552,6 +428,14 @@
     "premiere_apparition": "2026-09-23"
   },
   {
+    "point": "14/10 :: usa :: macro :: Salaires réels US (septembre)",
+    "premiere_apparition": "2026-09-25"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Chiffre d'affaires T3 Bourse Direct",
+    "premiere_apparition": "2026-09-25"
+  },
+  {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
     "premiere_apparition": "2026-09-16"
   },
@@ -580,8 +464,16 @@
     "premiere_apparition": "2026-09-22"
   },
   {
+    "point": "12/10 :: usa :: mkt-n :: Jour Férié (Columbus Day)",
+    "premiere_apparition": "2026-09-25"
+  },
+  {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
     "premiere_apparition": "2026-09-17"
+  },
+  {
+    "point": "16/10 :: usa :: macro :: Prix Import/Export US (septembre)",
+    "premiere_apparition": "2026-09-25"
   },
   {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
@@ -600,6 +492,10 @@
     "premiere_apparition": "2026-09-21"
   },
   {
+    "point": "15/10 :: usa :: macro :: Indice des prix à la production US (septembre)",
+    "premiere_apparition": "2026-09-25"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -608,12 +504,24 @@
     "premiere_apparition": "2026-09-21"
   },
   {
+    "point": "28/10 :: europe :: corp :: Chiffre d'affaires T3 Mersen",
+    "premiere_apparition": "2026-09-25"
+  },
+  {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
     "premiere_apparition": "2026-09-21"
   },
   {
     "point": "29/10 :: usa :: macro :: Publication PIB US (Q3, Avance)",
     "premiere_apparition": "2026-09-21"
+  },
+  {
+    "point": "29/10 :: usa :: macro :: Revenus et dépenses des ménages US (septembre)",
+    "premiere_apparition": "2026-09-25"
+  },
+  {
+    "point": "29/10 :: europe :: macro :: Décision de taux BCE",
+    "premiere_apparition": "2026-09-25"
   },
   {
     "point": "Fin octobre :: usa :: geo :: Élections Mi-Mandat US (impact marché)",
@@ -642,5 +550,25 @@
   {
     "point": "Cette semaine :: global :: geo :: Assemblée Générale des Nations Unies",
     "premiere_apparition": "2026-09-23"
+  },
+  {
+    "point": "Semaine du 05/10 :: europe :: corp :: Résultats semestriels Exail Technologies",
+    "premiere_apparition": "2026-09-25"
+  },
+  {
+    "point": "21/10 :: europe :: corp :: Chiffre d'affaires T3 FDJ",
+    "premiere_apparition": "2026-09-25"
+  },
+  {
+    "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
+    "premiere_apparition": "2026-09-25"
+  },
+  {
+    "point": "27-28/10 :: usa :: macro :: Réunion FOMC",
+    "premiere_apparition": "2026-09-25"
+  },
+  {
+    "point": "29-30/10 :: asie :: macro :: Réunion de politique monétaire BoJ",
+    "premiere_apparition": "2026-09-25"
   }
 ]
