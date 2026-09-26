@@ -96,6 +96,18 @@
     "premiere_apparition": "2026-09-23"
   },
   {
+    "point": "30/09 :: europe :: macro :: France Dépenses consommation ménages",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "30/09 :: europe :: macro :: France IPC provisoire septembre",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "30/09 :: europe :: mkt-n :: Discours Nathanael Benjamin BoE ISDA Forum",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
     "point": "29/09 :: usa :: macro :: Publication JOLTS US",
     "premiere_apparition": "2026-09-04"
   },
@@ -120,28 +132,16 @@
     "premiere_apparition": "2026-09-23"
   },
   {
-    "point": "25/09 :: europe :: mkt-n :: Conférence Recherche Économie et Finance (Paris)",
-    "premiere_apparition": "2026-09-05"
+    "point": "29/09 :: europe :: macro :: France Dette Maastricht T2 2026",
+    "premiere_apparition": "2026-09-26"
   },
   {
-    "point": "25/09 :: europe :: macro :: Masse monétaire M3 août Eurozone",
-    "premiere_apparition": "2026-09-14"
+    "point": "29/09 :: europe :: macro :: France Chiffre affaires industrie construction",
+    "premiere_apparition": "2026-09-26"
   },
   {
-    "point": "25/09 :: europe :: corp :: Résultats ALTEN",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "25/09 :: europe :: corp :: Résultats AFYREN",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "25/09 :: europe :: corp :: Résultats Arcure",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "25/09 :: usa :: macro :: Sentiment des consommateurs US (Final)",
-    "premiere_apparition": "2026-09-22"
+    "point": "29/09 :: europe :: mkt-n :: Panel Catherine L Mann BoE Bilan global",
+    "premiere_apparition": "2026-09-26"
   },
   {
     "point": "Semaine du 09/09 :: global :: corp :: Résultats entreprises (Oracle, GameStop, Inditex, Adobe)",
@@ -182,6 +182,14 @@
   {
     "point": "28/09 :: europe :: macro :: Confiance Économique & Consommateurs UE",
     "premiere_apparition": "2026-09-19"
+  },
+  {
+    "point": "28/09 :: europe :: corp :: BNP PARIBAS Paiement acompte dividendes",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "28/09 :: europe :: mkt-n :: Discours Dave Ramsden BoE",
+    "premiere_apparition": "2026-09-26"
   },
   {
     "point": "02/10 :: usa :: macro :: Rapport Emploi US (NFP)",
@@ -246,6 +254,10 @@
   {
     "point": "06/10 :: usa :: macro :: Balance Commerciale US Août",
     "premiere_apparition": "2026-09-23"
+  },
+  {
+    "point": "06/10 :: europe :: mkt-n :: Fireside Chat Catherine L Mann BoE",
+    "premiere_apparition": "2026-09-26"
   },
   {
     "point": "09/09 - 10/09 :: europe :: macro :: Réunion BCE Politique Monétaire & Décision taux",
@@ -340,6 +352,30 @@
     "premiere_apparition": "2026-09-23"
   },
   {
+    "point": "01/10 :: europe :: macro :: Eurozone Indicateurs confiance économique",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "01/10 :: usa :: macro :: USA Demandes initiales allocations chômage",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "01/10 :: usa :: corp :: Accenture PLC Résultats T4 2026",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "01/10 :: europe :: corp :: REMY COINTREAU Paiement dividendes",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "01/10 :: europe :: mkt-n :: Discours Andrew Bailey BoE LSE Conférence",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "01/10 :: europe :: mkt-n :: Discours Catherine L Mann BoE Nomura",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
     "point": "14/09-16/09 :: usa :: geo :: Réunion Ministérielle G20 Énergie",
     "premiere_apparition": "2026-09-11"
   },
@@ -392,6 +428,10 @@
     "premiere_apparition": "2026-09-23"
   },
   {
+    "point": "05/10 :: europe :: mkt-n :: Discours Manuel Sales BoE Conférence AFM",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
     "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
     "premiere_apparition": "2026-09-15"
   },
@@ -436,6 +476,10 @@
     "premiere_apparition": "2026-09-25"
   },
   {
+    "point": "14/10 :: usa :: macro :: USA Indice Prix Consommation (CPI) septembre",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
     "premiere_apparition": "2026-09-16"
   },
@@ -454,6 +498,14 @@
   {
     "point": "07/10 :: usa :: macro :: Minutes Réunion FOMC (Septembre)",
     "premiere_apparition": "2026-09-17"
+  },
+  {
+    "point": "07/10 :: global :: mkt-n :: Panel & Speech Sasha Mills BoE Digital Assets",
+    "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "07/10 :: asie :: mkt-n :: RBI Réunion Comité politique monétaire",
+    "premiere_apparition": "2026-09-26"
   },
   {
     "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
