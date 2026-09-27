@@ -108,6 +108,14 @@
     "premiere_apparition": "2026-09-26"
   },
   {
+    "point": "30/09 :: usa :: corp :: Résultats Accenture PMO",
+    "premiere_apparition": "2026-09-27"
+  },
+  {
+    "point": "30/09 :: usa :: corp :: Résultats Nike AMC",
+    "premiere_apparition": "2026-09-27"
+  },
+  {
     "point": "29/09 :: usa :: macro :: Publication JOLTS US",
     "premiere_apparition": "2026-09-04"
   },
@@ -142,6 +150,18 @@
   {
     "point": "29/09 :: europe :: mkt-n :: Panel Catherine L Mann BoE Bilan global",
     "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "29/09 :: usa :: corp :: Résultats Micron Technology AMC",
+    "premiere_apparition": "2026-09-27"
+  },
+  {
+    "point": "29/09 :: europe :: macro :: Sentiment économique Zone Euro",
+    "premiere_apparition": "2026-09-27"
+  },
+  {
+    "point": "29/09 :: usa :: macro :: Indice manufacturier Fed Dallas",
+    "premiere_apparition": "2026-09-27"
   },
   {
     "point": "Semaine du 09/09 :: global :: corp :: Résultats entreprises (Oracle, GameStop, Inditex, Adobe)",
@@ -376,6 +396,18 @@
     "premiere_apparition": "2026-09-26"
   },
   {
+    "point": "01/10 :: usa :: macro :: Indice S&P/Case-Shiller Prix Logements",
+    "premiere_apparition": "2026-09-27"
+  },
+  {
+    "point": "01/10 :: usa :: macro :: JOLTs Offres d'Emploi",
+    "premiere_apparition": "2026-09-27"
+  },
+  {
+    "point": "01/10 :: usa :: macro :: Confiance Consommateurs Conference Board",
+    "premiere_apparition": "2026-09-27"
+  },
+  {
     "point": "14/09-16/09 :: usa :: geo :: Réunion Ministérielle G20 Énergie",
     "premiere_apparition": "2026-09-11"
   },
@@ -484,6 +516,10 @@
     "premiere_apparition": "2026-09-26"
   },
   {
+    "point": "14/10 :: usa :: macro :: Publication IPC Septembre",
+    "premiere_apparition": "2026-09-27"
+  },
+  {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
     "premiere_apparition": "2026-09-16"
   },
@@ -512,6 +548,14 @@
     "premiere_apparition": "2026-09-26"
   },
   {
+    "point": "07/10 :: usa :: macro :: Rapport Emploi ADP Septembre",
+    "premiere_apparition": "2026-09-27"
+  },
+  {
+    "point": "07/10 :: usa :: corp :: Résultats PepsiCo PMO",
+    "premiere_apparition": "2026-09-27"
+  },
+  {
     "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
     "premiere_apparition": "2026-09-17"
   },
@@ -534,14 +578,6 @@
   {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
     "premiere_apparition": "2026-09-17"
-  },
-  {
-    "point": "26/09 :: europe :: corp :: Résultats SODITECH S1",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "26/09 :: europe :: corp :: Résultats Maisons du Monde S1",
-    "premiere_apparition": "2026-09-20"
   },
   {
     "point": "15/10 :: asie :: corp :: Résultats Taiwan Semiconductor",
