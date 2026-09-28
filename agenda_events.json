@@ -164,32 +164,8 @@
     "premiere_apparition": "2026-09-27"
   },
   {
-    "point": "Semaine du 09/09 :: global :: corp :: Résultats entreprises (Oracle, GameStop, Inditex, Adobe)",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "Semaine du 23/09 :: global :: geo :: Forum Davos : Réunions Impact Développement Durable",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "14/09 - 15/09 :: global :: macro :: Canada Investment Summit",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "15/09 - 16/09 :: usa :: macro :: Réunion FOMC / Décision taux Fed",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "17/09 - 18/09 :: asie :: macro :: Réunion BoJ politique monétaire",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "21/09 - 24/09 :: global :: geo :: WEF Sustainable Development Impact Meetings",
-    "premiere_apparition": "2026-09-06"
-  },
-  {
-    "point": "22/09 - 23/09 :: global :: geo :: UN Global Compact Leaders Summit",
-    "premiere_apparition": "2026-09-06"
+    "point": "29/09 :: usa :: corp :: Résultats d'entreprise Carnival (CCL)",
+    "premiere_apparition": "2026-09-28"
   },
   {
     "point": "18-20/09 :: global :: geo :: Élections législatives russes",
@@ -580,6 +556,10 @@
     "premiere_apparition": "2026-09-27"
   },
   {
+    "point": "16/10 :: europe :: macro :: Inflation CPI Eurozone Finale (Sept.)",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
     "premiere_apparition": "2026-09-17"
   },
@@ -670,5 +650,45 @@
   {
     "point": "29-30/10 :: asie :: macro :: Réunion de politique monétaire BoJ",
     "premiere_apparition": "2026-09-25"
+  },
+  {
+    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Micron (MU)",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Nike (NKE)",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Accenture (ACN)",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Jabil (JBL)",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "Semaine du 28/09 :: usa :: corp :: Résultats FactSet (FDS)",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Conagra Brands (CAG)",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "Semaine du 28/09 :: usa :: corp :: Résultats McCormick (MKC)",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Cal-Maine Foods (CALM)",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "05/10-06/10 :: europe :: mkt-n :: Conférence Politique Monétaire BCE",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "30/10 :: asie :: macro :: Décision taux Banque du Japon",
+    "premiere_apparition": "2026-09-28"
   }
 ]
