@@ -576,6 +576,10 @@
     "premiere_apparition": "2026-09-26"
   },
   {
+    "point": "15/10 :: usa :: macro :: Indice Prix Producteurs US Septembre",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -684,11 +688,23 @@
     "premiere_apparition": "2026-09-28"
   },
   {
+    "point": "Semaine du 28/09 :: global :: geo :: Reprise pourparlers US-Iran",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
     "point": "05/10-06/10 :: europe :: mkt-n :: Conférence Politique Monétaire BCE",
     "premiere_apparition": "2026-09-28"
   },
   {
     "point": "30/10 :: asie :: macro :: Décision taux Banque du Japon",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
+    "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "19/10 - 22/10 :: global :: tech, ai :: Sommet Mondial IA et Digital",
     "premiere_apparition": "2026-09-28"
   }
 ]
