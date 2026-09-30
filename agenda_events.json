@@ -116,60 +116,8 @@
     "premiere_apparition": "2026-09-27"
   },
   {
-    "point": "29/09 :: usa :: macro :: Publication JOLTS US",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "29/09 :: global :: macro :: RBA Décision Taux",
-    "premiere_apparition": "2026-09-08"
-  },
-  {
-    "point": "29/09 :: usa :: geo :: Entrée en vigueur interdictions produits canadiens US",
-    "premiere_apparition": "2026-09-09"
-  },
-  {
-    "point": "29/09 :: usa :: macro :: JOLTS emplois août",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "29/09 :: europe :: macro :: Sentiment économique septembre Eurozone",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "29/09 :: usa :: macro :: Enquête JOLTS sur les offres d'emploi",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "29/09 :: europe :: macro :: France Dette Maastricht T2 2026",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "29/09 :: europe :: macro :: France Chiffre affaires industrie construction",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "29/09 :: europe :: mkt-n :: Panel Catherine L Mann BoE Bilan global",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "29/09 :: usa :: corp :: Résultats Micron Technology AMC",
-    "premiere_apparition": "2026-09-27"
-  },
-  {
-    "point": "29/09 :: europe :: macro :: Sentiment économique Zone Euro",
-    "premiere_apparition": "2026-09-27"
-  },
-  {
-    "point": "29/09 :: usa :: macro :: Indice manufacturier Fed Dallas",
-    "premiere_apparition": "2026-09-27"
-  },
-  {
-    "point": "29/09 :: usa :: corp :: Résultats d'entreprise Carnival (CCL)",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "29/09 :: usa :: ai :: Sommet leaders IA Maison Blanche",
-    "premiere_apparition": "2026-09-29"
+    "point": "30/09 :: europe :: macro :: Indicateurs Sentiment Économique Eurozone",
+    "premiere_apparition": "2026-09-30"
   },
   {
     "point": "02/10 :: usa :: macro :: Rapport Emploi US (NFP)",
@@ -492,6 +440,14 @@
     "premiere_apparition": "2026-09-27"
   },
   {
+    "point": "14/10 :: global :: macro :: WBG Flagship: Mobilisation Capital Privé",
+    "premiere_apparition": "2026-09-30"
+  },
+  {
+    "point": "14/10 :: usa :: mkt-n :: Publication Livre Beige FOMC",
+    "premiere_apparition": "2026-09-30"
+  },
+  {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
     "premiere_apparition": "2026-09-16"
   },
@@ -540,6 +496,10 @@
     "premiere_apparition": "2026-09-25"
   },
   {
+    "point": "12/10 :: global :: ai :: WBG Flagship: Small AI, Big Jobs",
+    "premiere_apparition": "2026-09-30"
+  },
+  {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
     "premiere_apparition": "2026-09-17"
   },
@@ -554,6 +514,10 @@
   {
     "point": "16/10 :: europe :: macro :: Inflation CPI Eurozone Finale (Sept.)",
     "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "16/10 :: global :: geo :: Session Plénière Annuelles FMI/BM",
+    "premiere_apparition": "2026-09-30"
   },
   {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
@@ -574,6 +538,10 @@
   {
     "point": "15/10 :: usa :: macro :: Indice Prix Producteurs US Septembre",
     "premiere_apparition": "2026-09-28"
+  },
+  {
+    "point": "15/10 :: global :: geo :: Réunion Comité Développement FMI/BM",
+    "premiere_apparition": "2026-09-30"
   },
   {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
@@ -646,6 +614,10 @@
   {
     "point": "21/10 :: global :: geo :: Sommet mondial économie verte",
     "premiere_apparition": "2026-09-29"
+  },
+  {
+    "point": "21/10 :: europe :: macro :: Publication Inflation CPI UK Septembre",
+    "premiere_apparition": "2026-09-30"
   },
   {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
@@ -730,5 +702,9 @@
   {
     "point": "19/10 :: global :: ai :: Sommet mondial IA et numérique",
     "premiere_apparition": "2026-09-29"
+  },
+  {
+    "point": "17/10 :: global :: geo :: Plénière IMFC Annuelles FMI/BM",
+    "premiere_apparition": "2026-09-30"
   }
 ]
