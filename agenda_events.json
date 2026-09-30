@@ -408,6 +408,10 @@
     "premiere_apparition": "2026-09-29"
   },
   {
+    "point": "13/10 :: usa :: corp :: Résultats bancaires US Q3 (JPMorgan, Wells Fargo, Citigroup, Goldman Sachs)",
+    "premiere_apparition": "2026-09-30"
+  },
+  {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
     "premiere_apparition": "2026-09-16"
   },
@@ -445,6 +449,10 @@
   },
   {
     "point": "14/10 :: usa :: mkt-n :: Publication Livre Beige FOMC",
+    "premiere_apparition": "2026-09-30"
+  },
+  {
+    "point": "14/10 :: usa :: corp :: Résultats bancaires US Q3 (Bank of America, Morgan Stanley)",
     "premiere_apparition": "2026-09-30"
   },
   {
@@ -692,6 +700,10 @@
     "premiere_apparition": "2026-09-29"
   },
   {
+    "point": "08/10 :: usa :: corp :: Début saison résultats Q3 (PepsiCo)",
+    "premiere_apparition": "2026-09-30"
+  },
+  {
     "point": "10/10 :: asie :: geo :: Forum économique mondial Bangkok",
     "premiere_apparition": "2026-09-29"
   },
@@ -705,6 +717,14 @@
   },
   {
     "point": "17/10 :: global :: geo :: Plénière IMFC Annuelles FMI/BM",
+    "premiere_apparition": "2026-09-30"
+  },
+  {
+    "point": "09/10 :: usa :: corp :: Résultats Delta Air Lines Q3",
+    "premiere_apparition": "2026-09-30"
+  },
+  {
+    "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
     "premiere_apparition": "2026-09-30"
   }
 ]
