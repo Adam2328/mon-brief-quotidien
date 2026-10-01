@@ -4,122 +4,6 @@
     "premiere_apparition": "2026-09-11"
   },
   {
-    "point": "30/09 :: usa :: macro :: Publication Indice Prix PCE US",
-    "premiere_apparition": "2026-08-27"
-  },
-  {
-    "point": "30/09 :: usa :: geo :: G20 Trade Ministerial",
-    "premiere_apparition": "2026-08-27"
-  },
-  {
-    "point": "30/09 :: usa :: macro :: PIB US (3e estimation) T2 2026",
-    "premiere_apparition": "2026-09-01"
-  },
-  {
-    "point": "30/09 :: usa :: macro :: Revenus et Dépenses Personnelles (Août)",
-    "premiere_apparition": "2026-09-01"
-  },
-  {
-    "point": "30/09 :: usa :: macro :: Rapport National Emploi ADP (Sept)",
-    "premiere_apparition": "2026-09-03"
-  },
-  {
-    "point": "30/09 :: usa :: macro :: PIB US (T2 2026) Estimation Finale",
-    "premiere_apparition": "2026-09-03"
-  },
-  {
-    "point": "30/09 :: usa :: macro :: Dépenses Consommation Personnelle (PCE) US (Août)",
-    "premiere_apparition": "2026-09-03"
-  },
-  {
-    "point": "30/09 :: usa :: macro :: Inflation PCE US Août",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "30/09 :: afrique :: corp :: Lancement Raffinerie Dangote Kenya",
-    "premiere_apparition": "2026-09-04"
-  },
-  {
-    "point": "30/09 :: europe :: macro :: Réunion non-monétaire BCE",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "30/09 :: usa :: macro :: PIB, Profits entreprises US (estimation 3)",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "30/09 :: usa :: macro :: Revenus et dépenses personnels US",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "30/09 :: europe :: mkt-n :: Compte-rendu Comité politique financière BoE",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "30/09 :: global :: geo :: Réunion ministérielle G20 Commerce",
-    "premiere_apparition": "2026-09-07"
-  },
-  {
-    "point": "30/09 :: europe :: macro :: BCE Réunion Conseil des gouverneurs",
-    "premiere_apparition": "2026-09-08"
-  },
-  {
-    "point": "30/09 :: europe :: ai :: Sommet Réglementation IA (Londres)",
-    "premiere_apparition": "2026-09-09"
-  },
-  {
-    "point": "30/09 :: europe :: macro :: BoE Publication procès-verbal FPC",
-    "premiere_apparition": "2026-09-11"
-  },
-  {
-    "point": "30/09 :: europe :: macro :: PIB T2 final Royaume-Uni",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "30/09 :: usa :: corp :: Micron Technology Résultats",
-    "premiere_apparition": "2026-09-15"
-  },
-  {
-    "point": "30/09 :: global :: geo :: G20 Réunion des Sherpas III",
-    "premiere_apparition": "2026-09-15"
-  },
-  {
-    "point": "30/09 :: usa :: corp :: Résultats d'entreprises (Micron, Jabil, FactSet)",
-    "premiere_apparition": "2026-09-17"
-  },
-  {
-    "point": "30/09 :: usa :: macro :: PIB USA T2 (3e estimation)",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "30/09 :: europe :: mkt-n :: Publication Compte Rendu FPC BoE",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "30/09 :: europe :: macro :: France Dépenses consommation ménages",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "30/09 :: europe :: macro :: France IPC provisoire septembre",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "30/09 :: europe :: mkt-n :: Discours Nathanael Benjamin BoE ISDA Forum",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "30/09 :: usa :: corp :: Résultats Accenture PMO",
-    "premiere_apparition": "2026-09-27"
-  },
-  {
-    "point": "30/09 :: usa :: corp :: Résultats Nike AMC",
-    "premiere_apparition": "2026-09-27"
-  },
-  {
-    "point": "30/09 :: europe :: macro :: Indicateurs Sentiment Économique Eurozone",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
     "point": "02/10 :: usa :: macro :: Rapport Emploi US (NFP)",
     "premiere_apparition": "2026-09-08"
   },
@@ -194,14 +78,6 @@
   {
     "point": "06/10 :: europe :: mkt-n :: Fireside Chat Catherine L Mann BoE",
     "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "09/09 - 10/09 :: europe :: macro :: Réunion BCE Politique Monétaire & Décision taux",
-    "premiere_apparition": "2026-09-09"
-  },
-  {
-    "point": "21/09 - 23/09 :: europe :: ai :: Responsible AI Summit London",
-    "premiere_apparition": "2026-09-09"
   },
   {
     "point": "14-16/09 :: global :: geo :: G20 Réunion Ministérielle Énergie",
@@ -468,6 +344,10 @@
     "premiere_apparition": "2026-09-16"
   },
   {
+    "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
+    "premiere_apparition": "2026-10-01"
+  },
+  {
     "point": "03/11 :: usa :: geo :: Élections de mi-mandat US",
     "premiere_apparition": "2026-09-16"
   },
@@ -552,6 +432,10 @@
     "premiere_apparition": "2026-09-30"
   },
   {
+    "point": "15/10 :: europe :: macro :: Inflation HICP Eurozone Septembre Finale",
+    "premiere_apparition": "2026-10-01"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -566,6 +450,10 @@
   {
     "point": "28/10 :: europe :: corp :: Chiffre d'affaires T3 Mersen",
     "premiere_apparition": "2026-09-25"
+  },
+  {
+    "point": "28/10 :: uk :: geo :: Budget du Chancelier",
+    "premiere_apparition": "2026-10-01"
   },
   {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
@@ -724,7 +612,15 @@
     "premiere_apparition": "2026-09-30"
   },
   {
+    "point": "09/10 :: usa :: macro :: Indice Sentiment Consommateur U. Michigan Octobre",
+    "premiere_apparition": "2026-10-01"
+  },
+  {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
     "premiere_apparition": "2026-09-30"
+  },
+  {
+    "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
+    "premiere_apparition": "2026-10-01"
   }
 ]
