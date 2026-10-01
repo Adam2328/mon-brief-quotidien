@@ -200,6 +200,10 @@
     "premiere_apparition": "2026-09-27"
   },
   {
+    "point": "01/10 :: europe :: geo :: France Projet de Budget",
+    "premiere_apparition": "2026-10-01"
+  },
+  {
     "point": "14/09-16/09 :: usa :: geo :: Réunion Ministérielle G20 Énergie",
     "premiere_apparition": "2026-09-11"
   },
@@ -258,6 +262,10 @@
   {
     "point": "05/10 :: usa :: corp :: Résultats Saratoga Investment Corp.",
     "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "05/10 :: usa :: macro :: US ISM Non-Manufacturier",
+    "premiere_apparition": "2026-10-01"
   },
   {
     "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
@@ -330,6 +338,10 @@
   {
     "point": "14/10 :: usa :: corp :: Résultats bancaires US Q3 (Bank of America, Morgan Stanley)",
     "premiere_apparition": "2026-09-30"
+  },
+  {
+    "point": "14/10 :: usa :: macro :: US Livre Beige Fed",
+    "premiere_apparition": "2026-10-01"
   },
   {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
@@ -433,6 +445,10 @@
   },
   {
     "point": "15/10 :: europe :: macro :: Inflation HICP Eurozone Septembre Finale",
+    "premiere_apparition": "2026-10-01"
+  },
+  {
+    "point": "15/10 :: usa :: macro :: US Ventes au Détail",
     "premiere_apparition": "2026-10-01"
   },
   {
@@ -616,11 +632,31 @@
     "premiere_apparition": "2026-10-01"
   },
   {
+    "point": "09/10 :: usa :: macro :: US Indice Confiance Consommateurs",
+    "premiere_apparition": "2026-10-01"
+  },
+  {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
     "premiere_apparition": "2026-09-30"
   },
   {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
+    "premiere_apparition": "2026-10-01"
+  },
+  {
+    "point": "02/10 :: corp :: Bonduelle Résultats Annuels",
+    "premiere_apparition": "2026-10-01"
+  },
+  {
+    "point": "04/10 :: global :: geo :: Brésil Élection Présidentielle 1er tour",
+    "premiere_apparition": "2026-10-01"
+  },
+  {
+    "point": "05/10 :: corp :: Advini Résultats Semestriels",
+    "premiere_apparition": "2026-10-01"
+  },
+  {
+    "point": "12/10 :: corp :: Valbiotis Résultats T2",
     "premiere_apparition": "2026-10-01"
   }
 ]
