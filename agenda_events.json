@@ -56,6 +56,10 @@
     "premiere_apparition": "2026-10-02"
   },
   {
+    "point": "02/10 :: europe :: corp :: Bonduelle Résultats Annuels",
+    "premiere_apparition": "2026-10-02"
+  },
+  {
     "point": "06/10 :: europe :: mkt-n :: FT Private Capital Summit",
     "premiere_apparition": "2026-09-08"
   },
@@ -86,6 +90,10 @@
   {
     "point": "06/10 :: europe :: mkt-n :: Fireside Chat Catherine L Mann BoE",
     "premiere_apparition": "2026-09-26"
+  },
+  {
+    "point": "06/10 :: usa :: macro :: USA Publication Inflation PCE (Août)",
+    "premiere_apparition": "2026-10-02"
   },
   {
     "point": "30/09-01/10 :: global :: geo :: Réunion Sherpa G20 (Washington)",
@@ -158,6 +166,18 @@
   {
     "point": "05/10 :: usa :: macro :: US ISM Non-Manufacturier",
     "premiere_apparition": "2026-10-01"
+  },
+  {
+    "point": "05/10 :: europe :: corp :: Bonduelle Réunion Analystes Annuelle",
+    "premiere_apparition": "2026-10-02"
+  },
+  {
+    "point": "05/10 :: europe :: corp :: Société Générale Détachement Dividende",
+    "premiere_apparition": "2026-10-02"
+  },
+  {
+    "point": "05/10 :: europe :: corp :: Advini Résultats S1",
+    "premiere_apparition": "2026-10-02"
   },
   {
     "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
@@ -308,6 +328,10 @@
     "premiere_apparition": "2026-10-02"
   },
   {
+    "point": "07/10 :: global :: tech :: Sommet BIOHorizon Tech Santé",
+    "premiere_apparition": "2026-10-02"
+  },
+  {
     "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
     "premiere_apparition": "2026-09-17"
   },
@@ -322,6 +346,14 @@
   {
     "point": "12/10 :: global :: ai :: WBG Flagship: Small AI, Big Jobs",
     "premiere_apparition": "2026-09-30"
+  },
+  {
+    "point": "12/10 :: europe :: corp :: Valbiotis Résultats T2",
+    "premiere_apparition": "2026-10-02"
+  },
+  {
+    "point": "12/10 :: asie :: corp :: HCL Technologies Résultats T2",
+    "premiere_apparition": "2026-10-02"
   },
   {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
@@ -552,6 +584,10 @@
     "premiere_apparition": "2026-09-30"
   },
   {
+    "point": "08/10 :: usa :: macro :: USA Inscriptions Chômage Hebdo",
+    "premiere_apparition": "2026-10-02"
+  },
+  {
     "point": "10/10 :: asie :: geo :: Forum économique mondial Bangkok",
     "premiere_apparition": "2026-09-29"
   },
@@ -562,6 +598,10 @@
   {
     "point": "19/10 :: global :: ai :: Sommet mondial IA et numérique",
     "premiere_apparition": "2026-09-29"
+  },
+  {
+    "point": "19/10 :: europe :: tech :: Oslo Innovation Week",
+    "premiere_apparition": "2026-10-02"
   },
   {
     "point": "17/10 :: global :: geo :: Plénière IMFC Annuelles FMI/BM",
@@ -584,6 +624,10 @@
     "premiere_apparition": "2026-10-02"
   },
   {
+    "point": "09/10 :: usa :: macro :: USA Indice Confiance Consommateur Michigan",
+    "premiere_apparition": "2026-10-02"
+  },
+  {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
     "premiere_apparition": "2026-09-30"
   },
@@ -598,6 +642,10 @@
   {
     "point": "04/10 :: global :: geo :: Brésil Élection Présidentielle 1er tour",
     "premiere_apparition": "2026-10-01"
+  },
+  {
+    "point": "04/10 :: afrique :: geo :: Sommet Union Africaine",
+    "premiere_apparition": "2026-10-02"
   },
   {
     "point": "05/10 :: corp :: Advini Résultats Semestriels",
