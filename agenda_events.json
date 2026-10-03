@@ -1,65 +1,5 @@
 [
   {
-    "point": "17/09-18/09 :: asie :: macro :: BoJ Décision Taux Intérêt",
-    "premiere_apparition": "2026-09-11"
-  },
-  {
-    "point": "02/10 :: usa :: macro :: Rapport Emploi US (NFP)",
-    "premiere_apparition": "2026-09-08"
-  },
-  {
-    "point": "02/10 :: europe :: macro :: Publication Inflation Flash Eurozone Septembre",
-    "premiere_apparition": "2026-09-12"
-  },
-  {
-    "point": "02/10 :: usa :: macro :: Publication NFP USA (Septembre)",
-    "premiere_apparition": "2026-09-12"
-  },
-  {
-    "point": "02/10 :: europe :: macro :: Estimation flash HICP Eurozone (Septembre)",
-    "premiere_apparition": "2026-09-12"
-  },
-  {
-    "point": "02/10 :: usa :: macro :: Rapport Emploi NFP Septembre",
-    "premiere_apparition": "2026-09-13"
-  },
-  {
-    "point": "02/10 :: usa :: geo :: G20 Sherpa Meeting III Fin",
-    "premiere_apparition": "2026-09-15"
-  },
-  {
-    "point": "02/10 :: usa :: macro :: Rapport Emploi Non-Agricole (NFP) USA",
-    "premiere_apparition": "2026-09-19"
-  },
-  {
-    "point": "02/10 :: europe :: macro :: Inflation CPI Flash Zone Euro",
-    "premiere_apparition": "2026-09-19"
-  },
-  {
-    "point": "02/10 :: usa :: macro :: Publication emplois non-agricoles US",
-    "premiere_apparition": "2026-09-20"
-  },
-  {
-    "point": "02/10 :: afrique :: geo :: Sommet Union Africaine",
-    "premiere_apparition": "2026-09-29"
-  },
-  {
-    "point": "02/10 :: afrique :: geo :: Forum des affaires d'Alamein",
-    "premiere_apparition": "2026-09-29"
-  },
-  {
-    "point": "02/10 :: europe :: macro :: Eurozone CPI Flash Estimate Sep",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "02/10 :: usa :: macro :: US Employment Report Sep",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "02/10 :: europe :: corp :: Bonduelle Résultats Annuels",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
     "point": "06/10 :: europe :: mkt-n :: FT Private Capital Summit",
     "premiere_apparition": "2026-09-08"
   },
@@ -104,36 +44,8 @@
     "premiere_apparition": "2026-09-21"
   },
   {
-    "point": "14/09-16/09 :: usa :: geo :: Réunion Ministérielle G20 Énergie",
-    "premiere_apparition": "2026-09-11"
-  },
-  {
-    "point": "15/09-16/09 :: usa :: macro :: Réunion FOMC Décision Taux",
-    "premiere_apparition": "2026-09-11"
-  },
-  {
-    "point": "16/09-17/09 :: asie :: macro :: Réunion BoJ Décision Taux",
-    "premiere_apparition": "2026-09-11"
-  },
-  {
-    "point": "22/09-29/09 :: global :: geo :: AG ONU Débat Général",
-    "premiere_apparition": "2026-09-11"
-  },
-  {
-    "point": "01/10-02/10 :: usa :: geo :: 3ème Réunion Sherpas G20",
-    "premiere_apparition": "2026-09-11"
-  },
-  {
-    "point": "01/10-02/10 :: usa :: geo :: G20 Réunion Sherpa III",
-    "premiere_apparition": "2026-09-11"
-  },
-  {
     "point": "01/10-02/10 :: global :: geo :: Réunion Ministres Finances G20 (Bangkok)",
     "premiere_apparition": "2026-09-16"
-  },
-  {
-    "point": "Semaine du 14/09 :: usa :: tech :: G20 Ministérielle Innovation Raleigh-Durham",
-    "premiere_apparition": "2026-09-11"
   },
   {
     "point": "05/10 :: global :: mkt-n :: OCDE Conférence Productivité (jour 1)",
@@ -464,6 +376,14 @@
     "premiere_apparition": "2026-09-25"
   },
   {
+    "point": "29/10 :: europe :: macro :: Publication PIB Eurozone (T3, est. Flash)",
+    "premiere_apparition": "2026-10-03"
+  },
+  {
+    "point": "29/10 :: asie :: macro :: Réunion Banque du Japon",
+    "premiere_apparition": "2026-10-03"
+  },
+  {
     "point": "Fin octobre :: usa :: geo :: Élections Mi-Mandat US (impact marché)",
     "premiere_apparition": "2026-09-21"
   },
@@ -632,6 +552,10 @@
     "premiere_apparition": "2026-09-30"
   },
   {
+    "point": "27/10 :: usa :: macro :: Réunion FOMC / Décision taux Fed",
+    "premiere_apparition": "2026-10-03"
+  },
+  {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -654,5 +578,13 @@
   {
     "point": "12/10 :: corp :: Valbiotis Résultats T2",
     "premiere_apparition": "2026-10-01"
+  },
+  {
+    "point": "22/10 :: usa :: corp :: Résultats d'entreprises (ex: Honeywell, P&G)",
+    "premiere_apparition": "2026-10-03"
+  },
+  {
+    "point": "Novembre :: usa :: corp :: IPO Anthropic",
+    "premiere_apparition": "2026-10-03"
   }
 ]
