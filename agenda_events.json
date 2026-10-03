@@ -268,6 +268,10 @@
     "premiere_apparition": "2026-10-02"
   },
   {
+    "point": "12/10 :: global :: mkt-n :: IMF/World Bank Annual Meetings",
+    "premiere_apparition": "2026-10-03"
+  },
+  {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
     "premiere_apparition": "2026-09-17"
   },
@@ -340,6 +344,10 @@
     "premiere_apparition": "2026-10-02"
   },
   {
+    "point": "15/10 :: usa :: macro :: US Producer Price Index",
+    "premiere_apparition": "2026-10-03"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -381,6 +389,10 @@
   },
   {
     "point": "29/10 :: asie :: macro :: Réunion Banque du Japon",
+    "premiere_apparition": "2026-10-03"
+  },
+  {
+    "point": "29/10 :: europe :: macro :: Eurozone Preliminary GDP Q3",
     "premiere_apparition": "2026-10-03"
   },
   {
@@ -430,6 +442,10 @@
   {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
     "premiere_apparition": "2026-09-25"
+  },
+  {
+    "point": "23/10 :: asie :: macro :: Japan National CPI",
+    "premiere_apparition": "2026-10-03"
   },
   {
     "point": "27-28/10 :: usa :: macro :: Réunion FOMC",
@@ -486,6 +502,14 @@
   {
     "point": "30/10 :: asie :: macro :: Décision taux BoJ",
     "premiere_apparition": "2026-09-29"
+  },
+  {
+    "point": "30/10 :: asie :: mkt-n :: BoJ Monetary Policy Statement",
+    "premiere_apparition": "2026-10-03"
+  },
+  {
+    "point": "30/10 :: usa :: macro :: US Employment Cost Index Q3",
+    "premiere_apparition": "2026-10-03"
   },
   {
     "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
