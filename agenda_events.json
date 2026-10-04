@@ -40,6 +40,22 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "06/10 :: europe :: macro :: Zone Euro Ventes Détail (Août)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "06/10 :: france :: corp :: Vaziva Résultats 1er Semestre",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "06/10 :: france :: corp :: Valerio Therapeutics AG",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "06/10 :: france :: corp :: Fonciere 7 Investissement AGE",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "30/09-01/10 :: global :: geo :: Réunion Sherpa G20 (Washington)",
     "premiere_apparition": "2026-09-16"
   },
@@ -100,6 +116,26 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "05/10 :: france :: corp :: Advini Résultats 1er Semestre",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "05/10 :: global :: corp :: VinFast Résultats",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "05/10 :: europe :: macro :: Zone Euro Prix Production (Août)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "05/10 :: usa :: macro :: Dépenses Construction",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "05/10 :: france :: mkt-n :: Air Liquide Présentation Investisseurs",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
     "premiere_apparition": "2026-09-15"
   },
@@ -149,6 +185,14 @@
   },
   {
     "point": "13/10 :: global :: mkt-n :: Discours Megan Greene (BoE) aux réunions FMI/BM",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "13/10 :: europe :: corp :: Galp Energia Activité T3",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "13/10 :: europe :: corp :: Flughafen Zürich Résultats",
     "premiere_apparition": "2026-10-04"
   },
   {
@@ -212,6 +256,10 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "14/10 :: france :: macro :: Rapport IEA Marché Huile",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
     "premiere_apparition": "2026-09-16"
   },
@@ -260,6 +308,34 @@
     "premiere_apparition": "2026-10-02"
   },
   {
+    "point": "07/10 :: france :: macro :: Balance Commerciale (Août)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "07/10 :: france :: macro :: Compte Courant (Août)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "07/10 :: france :: macro :: PMI Construction (Sept)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "07/10 :: france :: corp :: Ethero Résultats 1er Semestre",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "07/10 :: france :: corp :: Upergy Chiffre Affaires T3",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "07/10 :: france :: corp :: Odyssee Techno Résultats 1er Semestre",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "07/10 :: france :: corp :: Compagnie Lebon Résultats 1er Semestre",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
     "premiere_apparition": "2026-09-17"
   },
@@ -286,6 +362,10 @@
   {
     "point": "12/10 :: global :: mkt-n :: IMF/World Bank Annual Meetings",
     "premiere_apparition": "2026-10-03"
+  },
+  {
+    "point": "12/10 :: france :: mkt-n :: Adjudication BTF France",
+    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
@@ -368,6 +448,14 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "15/10 :: france :: macro :: Inflation Finale (Sept)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "15/10 :: france :: mkt-n :: Adjudication OAT France",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -386,6 +474,14 @@
   {
     "point": "28/10 :: uk :: geo :: Budget du Chancelier",
     "premiere_apparition": "2026-10-01"
+  },
+  {
+    "point": "28/10 :: canada :: macro :: BoC Décision Taux",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "28/10 :: asie :: macro :: BoJ Décision Taux",
+    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
@@ -480,12 +576,24 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "21/10 :: usa :: macro :: Demandes Hypothèques MBA",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "21/10 :: usa :: macro :: Stocks Pétrole Brut EIA",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
     "premiere_apparition": "2026-09-25"
   },
   {
     "point": "23/10 :: asie :: macro :: Japan National CPI",
     "premiere_apparition": "2026-10-03"
+  },
+  {
+    "point": "23/10 :: france :: macro :: Indice PMI Composite Flash (Oct)",
+    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "27-28/10 :: usa :: macro :: Réunion FOMC",
@@ -580,8 +688,48 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "08/10 :: france :: corp :: Patrimoine et Commerce CA T3",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "08/10 :: france :: corp :: Spineguard CA T3",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "08/10 :: france :: corp :: Mauna Kea Technologies Résultats S1",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "08/10 :: france :: corp :: Gensight Biologics CA T3",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "08/10 :: france :: corp :: SMTPC CA T3",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "08/10 :: france :: corp :: Teract Résultats Annuels",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "08/10 :: france :: corp :: Winfarm Résultats 1er Semestre",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "08/10 :: france :: corp :: Klarsen SA AG",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "10/10 :: asie :: geo :: Forum économique mondial Bangkok",
     "premiere_apparition": "2026-09-29"
+  },
+  {
+    "point": "10/10 :: usa :: macro :: Demandes Initiales Chômage",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "10/10 :: france :: corp :: Exail Technologies Résultats S1",
+    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "Semaine du 12/10 :: usa :: corp :: Début saison résultats T3 US",
@@ -594,6 +742,10 @@
   {
     "point": "19/10 :: europe :: tech :: Oslo Innovation Week",
     "premiere_apparition": "2026-10-02"
+  },
+  {
+    "point": "19/10 :: france :: mkt-n :: Adjudication BTF France",
+    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "17/10 :: global :: geo :: Plénière IMFC Annuelles FMI/BM",
@@ -622,6 +774,14 @@
   {
     "point": "09/10 :: usa :: macro :: USA Indice Confiance Consommateur Michigan",
     "premiere_apparition": "2026-10-02"
+  },
+  {
+    "point": "09/10 :: asie :: macro :: Japon Revenus Ménages (Août)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "09/10 :: europe :: macro :: Italie Production Industrielle (Août)",
+    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
@@ -664,11 +824,39 @@
     "premiere_apparition": "2026-10-03"
   },
   {
+    "point": "22/10 :: usa :: macro :: Demandes Initiales Chômage",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "22/10 :: usa :: macro :: Indice Avancé CB",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "22/10 :: usa :: macro :: Stocks Gaz Naturel EIA",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "22/10 :: france :: macro :: Climat Conjoncturel (Oct)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "Novembre :: usa :: corp :: IPO Anthropic",
     "premiere_apparition": "2026-10-03"
   },
   {
     "point": "Semaine du 19/10 :: global :: corp :: Saison Résultats Entreprises (Semaine 4)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "04/11 :: europe :: macro :: Riksbank Décision Taux",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "05/11 :: europe :: macro :: BoE Décision Taux",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "05/11 :: europe :: macro :: Banque Norvège Décision Taux",
     "premiere_apparition": "2026-10-04"
   }
 ]
