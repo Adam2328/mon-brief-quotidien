@@ -36,6 +36,10 @@
     "premiere_apparition": "2026-10-02"
   },
   {
+    "point": "06/10 :: europe :: mkt-n :: Discours Catherine L Mann (BoE)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "30/09-01/10 :: global :: geo :: Réunion Sherpa G20 (Washington)",
     "premiere_apparition": "2026-09-16"
   },
@@ -92,6 +96,10 @@
     "premiere_apparition": "2026-10-02"
   },
   {
+    "point": "05/10 :: global :: corp :: Début Saison Résultats Entreprises (Semaine 2)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
     "premiere_apparition": "2026-09-15"
   },
@@ -138,6 +146,10 @@
   {
     "point": "13/10 :: usa :: macro :: US Existing Home Sales Sep",
     "premiere_apparition": "2026-10-02"
+  },
+  {
+    "point": "13/10 :: global :: mkt-n :: Discours Megan Greene (BoE) aux réunions FMI/BM",
+    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
@@ -194,6 +206,10 @@
   {
     "point": "14/10 :: usa :: corp :: Morgan Stanley Q3 Earnings",
     "premiere_apparition": "2026-10-02"
+  },
+  {
+    "point": "14/10 :: global :: corp :: WBG Flagship: Mobilizing Private Capital",
+    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
@@ -348,6 +364,10 @@
     "premiere_apparition": "2026-10-03"
   },
   {
+    "point": "15/10 :: usa :: macro :: Publication IPP US (Septembre)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -440,6 +460,26 @@
     "premiere_apparition": "2026-09-30"
   },
   {
+    "point": "21/10 :: usa :: corp :: Résultats Thermo Fisher Scientific (Q3)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "21/10 :: usa :: corp :: Résultats Danaher Corporation (Q3)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "21/10 :: usa :: corp :: Résultats AT&T Inc. (Q3)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "21/10 :: usa :: corp :: Résultats Abbott Laboratories (Q3)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "21/10 :: usa :: corp :: Résultats Moody's Corporation (Q3)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
     "premiere_apparition": "2026-09-25"
   },
@@ -512,6 +552,10 @@
     "premiere_apparition": "2026-10-03"
   },
   {
+    "point": "30/10 :: usa :: macro :: Publication Indice Coût Emploi US (T3)",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
     "premiere_apparition": "2026-09-28"
   },
@@ -532,6 +576,10 @@
     "premiere_apparition": "2026-10-02"
   },
   {
+    "point": "08/10 :: afrique :: mkt-n :: Discours Megan Greene (BoE) Summit",
+    "premiere_apparition": "2026-10-04"
+  },
+  {
     "point": "10/10 :: asie :: geo :: Forum économique mondial Bangkok",
     "premiere_apparition": "2026-09-29"
   },
@@ -550,6 +598,10 @@
   {
     "point": "17/10 :: global :: geo :: Plénière IMFC Annuelles FMI/BM",
     "premiere_apparition": "2026-09-30"
+  },
+  {
+    "point": "17/10 :: global :: geo :: Plénière IMFC FMI/Banque Mondiale",
+    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "09/10 :: usa :: corp :: Résultats Delta Air Lines Q3",
@@ -578,6 +630,10 @@
   {
     "point": "27/10 :: usa :: macro :: Réunion FOMC / Décision taux Fed",
     "premiere_apparition": "2026-10-03"
+  },
+  {
+    "point": "27/10 :: usa :: macro :: Publication Services Producer Price Index US (Septembre)",
+    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
@@ -610,5 +666,9 @@
   {
     "point": "Novembre :: usa :: corp :: IPO Anthropic",
     "premiere_apparition": "2026-10-03"
+  },
+  {
+    "point": "Semaine du 19/10 :: global :: corp :: Saison Résultats Entreprises (Semaine 4)",
+    "premiere_apparition": "2026-10-04"
   }
 ]
