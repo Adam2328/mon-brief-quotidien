@@ -808,6 +808,10 @@
     "premiere_apparition": "2026-10-01"
   },
   {
+    "point": "29/10-30/10 :: asie :: macro :: Réunion politique monétaire BoJ",
+    "premiere_apparition": "2026-10-05"
+  },
+  {
     "point": "02/10 :: corp :: Bonduelle Résultats Annuels",
     "premiere_apparition": "2026-10-01"
   },
@@ -858,5 +862,17 @@
   {
     "point": "05/11 :: europe :: macro :: Banque Norvège Décision Taux",
     "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "25/10 :: global :: geo :: Élection présidentielle Brésil second tour",
+    "premiere_apparition": "2026-10-05"
+  },
+  {
+    "point": "30/10-31/10 :: global :: geo :: Réunion ministres Affaires étrangères G20",
+    "premiere_apparition": "2026-10-05"
+  },
+  {
+    "point": "29/11 :: europe :: geo :: Élections anticipées Espagne",
+    "premiere_apparition": "2026-10-05"
   }
 ]
