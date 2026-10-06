@@ -76,6 +76,14 @@
     "premiere_apparition": "2026-10-06"
   },
   {
+    "point": "06/10 :: europe :: geo :: France - Protests Etudiantes Nationales",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "06/10 :: europe :: geo :: Sommet MED9 (Jour 1)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "30/09-01/10 :: global :: geo :: Réunion Sherpa G20 (Washington)",
     "premiere_apparition": "2026-09-16"
   },
@@ -448,6 +456,10 @@
     "premiere_apparition": "2026-10-06"
   },
   {
+    "point": "15/10 :: europe :: geo :: Sommet des Leaders de l'UE (Jour 1)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -485,6 +497,14 @@
   },
   {
     "point": "28/10 :: usa :: macro :: Emploi zone métropolitaine septembre",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "28/10 :: europe :: corp :: Résultats Trimestriels Deutsche Bank",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "28/10 :: europe :: mkt-n :: Réunion BCE (Jour 1)",
     "premiere_apparition": "2026-10-06"
   },
   {
@@ -684,6 +704,10 @@
     "premiere_apparition": "2026-10-06"
   },
   {
+    "point": "30/10 :: global :: geo :: Réunion Ministres Affaires Étrangères G20 (Jour 1)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
     "premiere_apparition": "2026-09-28"
   },
@@ -745,6 +769,10 @@
   },
   {
     "point": "08/10 :: europe :: corp :: Gensight Biologics chiffre d'affaires T3",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "08/10 :: europe :: mkt-n :: Réunion Eurogroupe Ministres Finances",
     "premiere_apparition": "2026-10-06"
   },
   {
@@ -828,6 +856,10 @@
     "premiere_apparition": "2026-10-06"
   },
   {
+    "point": "09/10 :: europe :: mkt-n :: Conseil Affaires Économiques et Financières (ECOFIN)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
     "premiere_apparition": "2026-09-30"
   },
@@ -845,6 +877,10 @@
   },
   {
     "point": "27/10 :: japon :: macro :: Services PPI septembre",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "27/10 :: europe :: corp :: Résultats Trimestriels HSBC",
     "premiere_apparition": "2026-10-06"
   },
   {
