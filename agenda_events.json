@@ -64,6 +64,18 @@
     "premiere_apparition": "2026-10-05"
   },
   {
+    "point": "06/10 :: usa :: macro :: Discours de Bowman (Fed)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "06/10 :: europe :: macro :: Discours gouverneur Banque Centrale Turquie",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "06/10 :: asie :: corp :: Samsung résultats préliminaires T3",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "30/09-01/10 :: global :: geo :: Réunion Sherpa G20 (Washington)",
     "premiere_apparition": "2026-09-16"
   },
@@ -74,74 +86,6 @@
   {
     "point": "01/10-02/10 :: global :: geo :: Réunion Ministres Finances G20 (Bangkok)",
     "premiere_apparition": "2026-09-16"
-  },
-  {
-    "point": "05/10 :: global :: mkt-n :: OCDE Conférence Productivité (jour 1)",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "05/10 :: europe :: macro :: PMI Services/Composite final septembre Eurozone",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "05/10 :: usa :: mkt-n :: ADISA Annual Conference",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "05/10 :: usa :: mkt-n :: CFP Board Connections Conference",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "05/10 :: europe :: mkt-n :: Conférence Politique Monétaire BCE Jour 1",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "05/10 :: europe :: mkt-n :: Discours Manuel Sales BoE Conférence AFM",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "05/10 :: usa :: corp :: Résultats Saratoga Investment Corp.",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "05/10 :: usa :: macro :: US ISM Non-Manufacturier",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
-    "point": "05/10 :: europe :: corp :: Bonduelle Réunion Analystes Annuelle",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "05/10 :: europe :: corp :: Société Générale Détachement Dividende",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "05/10 :: europe :: corp :: Advini Résultats S1",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "05/10 :: global :: corp :: Début Saison Résultats Entreprises (Semaine 2)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "05/10 :: france :: corp :: Advini Résultats 1er Semestre",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "05/10 :: global :: corp :: VinFast Résultats",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "05/10 :: europe :: macro :: Zone Euro Prix Production (Août)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "05/10 :: usa :: macro :: Dépenses Construction",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "05/10 :: france :: mkt-n :: Air Liquide Présentation Investisseurs",
-    "premiere_apparition": "2026-10-04"
   },
   {
     "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
@@ -268,6 +212,14 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "14/10 :: usa :: macro :: Bénéfices réels septembre",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "14/10 :: japon :: macro :: Masse monétaire septembre",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
     "premiere_apparition": "2026-09-16"
   },
@@ -344,6 +296,18 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "07/10 :: global :: geo :: Discours DG FMI Assemblées annuelles",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "07/10 :: inde :: macro :: Décision taux banque centrale",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "07/10 :: usa :: macro :: Crédit à la consommation août",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
     "premiere_apparition": "2026-09-17"
   },
@@ -374,6 +338,10 @@
   {
     "point": "12/10 :: france :: mkt-n :: Adjudication BTF France",
     "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "12/10 :: europe :: geo :: Conseil Environnement",
+    "premiere_apparition": "2026-10-06"
   },
   {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
@@ -464,6 +432,22 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "15/10 :: usa :: macro :: IPP septembre",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "15/10 :: usa :: macro :: Production industrielle septembre",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "15/10 :: usa :: macro :: Utilisation des capacités septembre",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "15/10 :: japon :: macro :: Discours de Koeda (BoJ)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -492,6 +476,18 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "28/10 :: usa :: macro :: Décision taux Fed (FOMC)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "28/10 :: global :: geo :: Sommet Russie-Afrique (Jour 1)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "28/10 :: usa :: macro :: Emploi zone métropolitaine septembre",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
     "premiere_apparition": "2026-09-21"
   },
@@ -518,6 +514,18 @@
   {
     "point": "29/10 :: europe :: macro :: Eurozone Preliminary GDP Q3",
     "premiere_apparition": "2026-10-03"
+  },
+  {
+    "point": "29/10 :: asie :: macro :: Début réunion BoJ (Jour 1)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "29/10 :: global :: geo :: Sommet Canada-UE (Jour 1)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "29/10 :: global :: geo :: Sommet Russie-Afrique (Jour 2)",
+    "premiere_apparition": "2026-10-06"
   },
   {
     "point": "Fin octobre :: usa :: geo :: Élections Mi-Mandat US (impact marché)",
@@ -672,6 +680,10 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "30/10 :: global :: geo :: Sommet Canada-UE (Jour 2)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
     "premiere_apparition": "2026-09-28"
   },
@@ -726,6 +738,14 @@
   {
     "point": "08/10 :: france :: corp :: Klarsen SA AG",
     "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "08/10 :: europe :: corp :: Getlink résultats exploitation T3",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "08/10 :: europe :: corp :: Gensight Biologics chiffre d'affaires T3",
+    "premiere_apparition": "2026-10-06"
   },
   {
     "point": "10/10 :: asie :: geo :: Forum économique mondial Bangkok",
@@ -792,6 +812,22 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "09/10 :: europe :: geo :: Conseil ECOFIN",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "09/10 :: europe :: corp :: Ordissimo réunion analystes semestrielle",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "09/10 :: europe :: corp :: AB Science résultats 1er semestre",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "09/10 :: europe :: corp :: Bluelinea chiffre d'affaires T3",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
     "premiere_apparition": "2026-09-30"
   },
@@ -802,6 +838,14 @@
   {
     "point": "27/10 :: usa :: macro :: Publication Services Producer Price Index US (Septembre)",
     "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "27/10 :: usa :: macro :: Début réunion FOMC (Jour 1)",
+    "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "27/10 :: japon :: macro :: Services PPI septembre",
+    "premiere_apparition": "2026-10-06"
   },
   {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
