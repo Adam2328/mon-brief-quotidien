@@ -1,89 +1,5 @@
 [
   {
-    "point": "06/10 :: europe :: mkt-n :: FT Private Capital Summit",
-    "premiere_apparition": "2026-09-08"
-  },
-  {
-    "point": "06/10 :: global :: mkt-n :: OCDE Conférence Productivité (jour 2)",
-    "premiere_apparition": "2026-09-14"
-  },
-  {
-    "point": "06/10 :: usa :: macro :: Commerce International US Août",
-    "premiere_apparition": "2026-09-19"
-  },
-  {
-    "point": "06/10 :: usa :: macro :: Rapport Emploi ADP",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "06/10 :: europe :: mkt-n :: Conférence Politique Monétaire BCE Jour 2",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "06/10 :: usa :: macro :: Revenus & Dépenses Personnelles US Août",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "06/10 :: usa :: macro :: Balance Commerciale US Août",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "06/10 :: europe :: mkt-n :: Fireside Chat Catherine L Mann BoE",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "06/10 :: usa :: macro :: USA Publication Inflation PCE (Août)",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "06/10 :: europe :: mkt-n :: Discours Catherine L Mann (BoE)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "06/10 :: europe :: macro :: Zone Euro Ventes Détail (Août)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "06/10 :: france :: corp :: Vaziva Résultats 1er Semestre",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "06/10 :: france :: corp :: Valerio Therapeutics AG",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "06/10 :: france :: corp :: Fonciere 7 Investissement AGE",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "06/10 :: usa :: corp :: Résultats Constellation Brands",
-    "premiere_apparition": "2026-10-05"
-  },
-  {
-    "point": "06/10 :: usa :: corp :: Résultats RPM International",
-    "premiere_apparition": "2026-10-05"
-  },
-  {
-    "point": "06/10 :: usa :: macro :: Discours de Bowman (Fed)",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "06/10 :: europe :: macro :: Discours gouverneur Banque Centrale Turquie",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "06/10 :: asie :: corp :: Samsung résultats préliminaires T3",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "06/10 :: europe :: geo :: France - Protests Etudiantes Nationales",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "06/10 :: europe :: geo :: Sommet MED9 (Jour 1)",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
     "point": "30/09-01/10 :: global :: geo :: Réunion Sherpa G20 (Washington)",
     "premiere_apparition": "2026-09-16"
   },
@@ -94,10 +10,6 @@
   {
     "point": "01/10-02/10 :: global :: geo :: Réunion Ministres Finances G20 (Bangkok)",
     "premiere_apparition": "2026-09-16"
-  },
-  {
-    "point": "Semaine du 21/09 :: usa :: corp :: Publications Résultats Entreprises clés",
-    "premiere_apparition": "2026-09-15"
   },
   {
     "point": "Semaine du 21/09 :: europe :: mkt-n :: Discours membres BoE MPC",
@@ -316,6 +228,10 @@
     "premiere_apparition": "2026-10-06"
   },
   {
+    "point": "07/10 :: europe :: macro :: BCE Conférence Politique Monétaire",
+    "premiere_apparition": "2026-10-07"
+  },
+  {
     "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
     "premiere_apparition": "2026-09-17"
   },
@@ -460,12 +376,20 @@
     "premiere_apparition": "2026-10-06"
   },
   {
+    "point": "15/10 :: global :: geo :: G20 Finance Ministres & Banquiers Centraux",
+    "premiere_apparition": "2026-10-07"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
   {
     "point": "20/10 :: asie :: macro :: Publication PIB Chine T3",
     "premiere_apparition": "2026-09-29"
+  },
+  {
+    "point": "20/10 :: usa :: corp :: Netflix Résultats T3",
+    "premiere_apparition": "2026-10-07"
   },
   {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
@@ -776,6 +700,10 @@
     "premiere_apparition": "2026-10-06"
   },
   {
+    "point": "08/10 :: europe :: macro :: BoE Enquête Conditions Crédit T3",
+    "premiere_apparition": "2026-10-07"
+  },
+  {
     "point": "10/10 :: asie :: geo :: Forum économique mondial Bangkok",
     "premiere_apparition": "2026-09-29"
   },
@@ -882,6 +810,10 @@
   {
     "point": "27/10 :: europe :: corp :: Résultats Trimestriels HSBC",
     "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "27/10 :: usa :: corp :: Microsoft Résultats T3",
+    "premiere_apparition": "2026-10-07"
   },
   {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
