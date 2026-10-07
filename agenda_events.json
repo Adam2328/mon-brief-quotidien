@@ -268,6 +268,10 @@
     "premiere_apparition": "2026-10-06"
   },
   {
+    "point": "12/10 :: global :: macro :: IMF/World Bank Réunions Annuelles",
+    "premiere_apparition": "2026-10-07"
+  },
+  {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
     "premiere_apparition": "2026-09-17"
   },
@@ -556,6 +560,10 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "23/10 :: europe :: macro :: Ventes Détail & Confiance Conso UK",
+    "premiere_apparition": "2026-10-07"
+  },
+  {
     "point": "27-28/10 :: usa :: macro :: Réunion FOMC",
     "premiere_apparition": "2026-09-25"
   },
@@ -630,6 +638,10 @@
   {
     "point": "30/10 :: global :: geo :: Réunion Ministres Affaires Étrangères G20 (Jour 1)",
     "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "30/10 :: europe :: macro :: PIB T3 & Inflation Flash Zone Euro",
+    "premiere_apparition": "2026-10-07"
   },
   {
     "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
