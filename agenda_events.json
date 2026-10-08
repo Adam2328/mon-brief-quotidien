@@ -56,6 +56,10 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "13/10 :: usa :: corp :: Résultats J.P. Morgan Chase & Co. Q3",
+    "premiere_apparition": "2026-10-08"
+  },
+  {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
     "premiere_apparition": "2026-09-16"
   },
@@ -352,6 +356,22 @@
     "premiere_apparition": "2026-10-06"
   },
   {
+    "point": "28/10 :: usa :: corp :: Résultats Meta Platforms Q3",
+    "premiere_apparition": "2026-10-08"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: Résultats Apple Inc. Q4 FY26",
+    "premiere_apparition": "2026-10-08"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: Résultats Amazon.com Q3",
+    "premiere_apparition": "2026-10-08"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: Résultats Tesla Inc. Q3",
+    "premiere_apparition": "2026-10-08"
+  },
+  {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
     "premiere_apparition": "2026-09-21"
   },
@@ -632,6 +652,14 @@
     "premiere_apparition": "2026-10-07"
   },
   {
+    "point": "08/10 :: europe :: mkt-n :: Publication minutes réunion BCE septembre",
+    "premiere_apparition": "2026-10-08"
+  },
+  {
+    "point": "08/10 :: global :: macro :: Inflation Mexique et Chili septembre",
+    "premiere_apparition": "2026-10-08"
+  },
+  {
     "point": "10/10 :: asie :: geo :: Forum économique mondial Bangkok",
     "premiere_apparition": "2026-09-29"
   },
@@ -746,6 +774,10 @@
   {
     "point": "27/10 :: usa :: corp :: Microsoft Résultats T3",
     "premiere_apparition": "2026-10-07"
+  },
+  {
+    "point": "27/10 :: usa :: corp :: Résultats Alphabet Inc. Q3",
+    "premiere_apparition": "2026-10-08"
   },
   {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
