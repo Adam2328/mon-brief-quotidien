@@ -1,23 +1,11 @@
 [
   {
-    "point": "30/09-01/10 :: global :: geo :: Réunion Sherpa G20 (Washington)",
-    "premiere_apparition": "2026-09-16"
-  },
-  {
     "point": "30/09-01/10 :: usa :: geo :: G20 Ministres Commerce",
     "premiere_apparition": "2026-09-21"
   },
   {
-    "point": "01/10-02/10 :: global :: geo :: Réunion Ministres Finances G20 (Bangkok)",
-    "premiere_apparition": "2026-09-16"
-  },
-  {
     "point": "Semaine du 21/09 :: europe :: mkt-n :: Discours membres BoE MPC",
     "premiere_apparition": "2026-09-17"
-  },
-  {
-    "point": "12/10-18/10 :: global :: geo :: Réunions Annuelles FMI et Banque Mondiale",
-    "premiere_apparition": "2026-09-16"
   },
   {
     "point": "13/10 :: usa :: corp :: Résultats T3 UnitedHealth Group",
@@ -140,16 +128,12 @@
     "premiere_apparition": "2026-10-06"
   },
   {
-    "point": "Mi-octobre-Novembre :: global :: corp :: Début saison résultats T3 2026",
-    "premiere_apparition": "2026-09-16"
+    "point": "14/10 :: asie :: macro :: Publication CPI/PPI Chine",
+    "premiere_apparition": "2026-10-08"
   },
   {
-    "point": "27/10-28/10 :: usa :: mkt-n :: Réunion FOMC",
-    "premiere_apparition": "2026-09-16"
-  },
-  {
-    "point": "28/10-29/10 :: europe :: mkt-n :: Réunion politique monétaire BCE",
-    "premiere_apparition": "2026-09-16"
+    "point": "14/10 :: asie :: macro :: Publication Balance Commerciale Chine",
+    "premiere_apparition": "2026-10-08"
   },
   {
     "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
@@ -158,78 +142,6 @@
   {
     "point": "03/11 :: usa :: geo :: Élections de mi-mandat US",
     "premiere_apparition": "2026-09-16"
-  },
-  {
-    "point": "07/10 :: usa :: macro :: Minutes Réunion FOMC (Septembre)",
-    "premiere_apparition": "2026-09-17"
-  },
-  {
-    "point": "07/10 :: global :: mkt-n :: Panel & Speech Sasha Mills BoE Digital Assets",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "07/10 :: asie :: mkt-n :: RBI Réunion Comité politique monétaire",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "07/10 :: usa :: macro :: Rapport Emploi ADP Septembre",
-    "premiere_apparition": "2026-09-27"
-  },
-  {
-    "point": "07/10 :: usa :: corp :: Résultats PepsiCo PMO",
-    "premiere_apparition": "2026-09-27"
-  },
-  {
-    "point": "07/10 :: usa :: macro :: US FOMC Minutes Sep Meeting",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "07/10 :: global :: tech :: Sommet BIOHorizon Tech Santé",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "07/10 :: france :: macro :: Balance Commerciale (Août)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "07/10 :: france :: macro :: Compte Courant (Août)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "07/10 :: france :: macro :: PMI Construction (Sept)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "07/10 :: france :: corp :: Ethero Résultats 1er Semestre",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "07/10 :: france :: corp :: Upergy Chiffre Affaires T3",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "07/10 :: france :: corp :: Odyssee Techno Résultats 1er Semestre",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "07/10 :: france :: corp :: Compagnie Lebon Résultats 1er Semestre",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "07/10 :: global :: geo :: Discours DG FMI Assemblées annuelles",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "07/10 :: inde :: macro :: Décision taux banque centrale",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "07/10 :: usa :: macro :: Crédit à la consommation août",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "07/10 :: europe :: macro :: BCE Conférence Politique Monétaire",
-    "premiere_apparition": "2026-10-07"
   },
   {
     "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
@@ -382,6 +294,10 @@
   {
     "point": "15/10 :: global :: geo :: G20 Finance Ministres & Banquiers Centraux",
     "premiere_apparition": "2026-10-07"
+  },
+  {
+    "point": "15/10 :: asie :: macro :: Publication Nouveaux Prêts Yuan / TSF Chine",
+    "premiere_apparition": "2026-10-08"
   },
   {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
@@ -742,6 +658,10 @@
   {
     "point": "19/10 :: france :: mkt-n :: Adjudication BTF France",
     "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "19/10 :: asie :: macro :: Publication PIB Chine T3",
+    "premiere_apparition": "2026-10-08"
   },
   {
     "point": "17/10 :: global :: geo :: Plénière IMFC Annuelles FMI/BM",
