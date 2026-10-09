@@ -4,10 +4,6 @@
     "premiere_apparition": "2026-09-21"
   },
   {
-    "point": "Semaine du 21/09 :: europe :: mkt-n :: Discours membres BoE MPC",
-    "premiere_apparition": "2026-09-17"
-  },
-  {
     "point": "13/10 :: usa :: corp :: Résultats T3 UnitedHealth Group",
     "premiere_apparition": "2026-09-16"
   },
@@ -140,12 +136,20 @@
     "premiere_apparition": "2026-10-08"
   },
   {
+    "point": "14/10 :: usa :: corp :: Résultats State Street (STT)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
     "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
   {
     "point": "03/11 :: usa :: geo :: Élections de mi-mandat US",
     "premiere_apparition": "2026-09-16"
+  },
+  {
+    "point": "03/11 :: global :: mkt-n :: Décision de taux RBA",
+    "premiere_apparition": "2026-10-09"
   },
   {
     "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
@@ -210,6 +214,10 @@
   {
     "point": "16/10 :: europe :: macro :: Eurozone Final HICP Sep",
     "premiere_apparition": "2026-10-02"
+  },
+  {
+    "point": "16/10 :: usa :: macro :: Production industrielle US (Sept)",
+    "premiere_apparition": "2026-10-09"
   },
   {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
@@ -304,6 +312,22 @@
     "premiere_apparition": "2026-10-08"
   },
   {
+    "point": "15/10 :: asie :: tech :: Résultats Taiwan Semi (TSM)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "15/10 :: usa :: corp :: Résultats Alaska Air Group (ALK)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "15/10 :: usa :: corp :: Résultats Charles Schwab (SCHW)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "15/10 :: usa :: corp :: Résultats US Bancorp (USB)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -314,6 +338,14 @@
   {
     "point": "20/10 :: usa :: corp :: Netflix Résultats T3",
     "premiere_apparition": "2026-10-07"
+  },
+  {
+    "point": "20/10 :: usa :: corp :: Résultats Tesla (TSLA)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "20/10 :: usa :: corp :: Résultats RTX Corporation (RTX)",
+    "premiere_apparition": "2026-10-09"
   },
   {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
@@ -372,6 +404,18 @@
     "premiere_apparition": "2026-10-08"
   },
   {
+    "point": "28/10 :: canada :: mkt-n :: Décision de taux Banque du Canada",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "28/10 :: asie :: mkt-n :: Réunion Politique Monétaire BoJ (Jours 1/2)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: Résultats Alphabet (GOOGL)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
     "premiere_apparition": "2026-09-21"
   },
@@ -410,6 +454,22 @@
   {
     "point": "29/10 :: global :: geo :: Sommet Russie-Afrique (Jour 2)",
     "premiere_apparition": "2026-10-06"
+  },
+  {
+    "point": "29/10 :: usa :: macro :: Indice des Prix PCE US (Sept)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "29/10 :: usa :: corp :: Résultats Amazon.com (AMZN)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "29/10 :: usa :: corp :: Résultats Coinbase Global (COIN)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "29/10 :: usa :: tech :: Résultats Cloudflare (NET)",
+    "premiere_apparition": "2026-10-09"
   },
   {
     "point": "Fin octobre :: usa :: geo :: Élections Mi-Mandat US (impact marché)",
@@ -580,84 +640,16 @@
     "premiere_apparition": "2026-10-07"
   },
   {
+    "point": "30/10 :: asie :: mkt-n :: Décision de politique monétaire BoJ + Rapport Perspectives",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
     "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
     "premiere_apparition": "2026-09-28"
   },
   {
     "point": "19/10 - 22/10 :: global :: tech, ai :: Sommet Mondial IA et Digital",
     "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "08/10 :: usa :: corp :: Résultats PepsiCo Q3",
-    "premiere_apparition": "2026-09-29"
-  },
-  {
-    "point": "08/10 :: usa :: corp :: Début saison résultats Q3 (PepsiCo)",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "08/10 :: usa :: macro :: USA Inscriptions Chômage Hebdo",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "08/10 :: afrique :: mkt-n :: Discours Megan Greene (BoE) Summit",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "08/10 :: france :: corp :: Patrimoine et Commerce CA T3",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "08/10 :: france :: corp :: Spineguard CA T3",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "08/10 :: france :: corp :: Mauna Kea Technologies Résultats S1",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "08/10 :: france :: corp :: Gensight Biologics CA T3",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "08/10 :: france :: corp :: SMTPC CA T3",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "08/10 :: france :: corp :: Teract Résultats Annuels",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "08/10 :: france :: corp :: Winfarm Résultats 1er Semestre",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "08/10 :: france :: corp :: Klarsen SA AG",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "08/10 :: europe :: corp :: Getlink résultats exploitation T3",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "08/10 :: europe :: corp :: Gensight Biologics chiffre d'affaires T3",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "08/10 :: europe :: mkt-n :: Réunion Eurogroupe Ministres Finances",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "08/10 :: europe :: macro :: BoE Enquête Conditions Crédit T3",
-    "premiere_apparition": "2026-10-07"
-  },
-  {
-    "point": "08/10 :: europe :: mkt-n :: Publication minutes réunion BCE septembre",
-    "premiere_apparition": "2026-10-08"
-  },
-  {
-    "point": "08/10 :: global :: macro :: Inflation Mexique et Chili septembre",
-    "premiere_apparition": "2026-10-08"
   },
   {
     "point": "10/10 :: asie :: geo :: Forum économique mondial Bangkok",
@@ -780,6 +772,14 @@
     "premiere_apparition": "2026-10-08"
   },
   {
+    "point": "27/10 :: usa :: corp :: Résultats PayPal Holdings (PYPL)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "27/10 :: usa :: corp :: Résultats Boeing Company (BA)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -820,6 +820,14 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "22/10 :: usa :: corp :: Résultats Honeywell International (HON)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "22/10 :: europe :: corp :: Résultats Spotify Technology S.A. (SPOT)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
     "point": "Novembre :: usa :: corp :: IPO Anthropic",
     "premiere_apparition": "2026-10-03"
   },
@@ -830,6 +838,10 @@
   {
     "point": "04/11 :: europe :: macro :: Riksbank Décision Taux",
     "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "04/11 :: usa :: macro :: Revenu et Dépenses Personnelles US (Sept)",
+    "premiere_apparition": "2026-10-09"
   },
   {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
@@ -850,5 +862,13 @@
   {
     "point": "29/11 :: europe :: geo :: Élections anticipées Espagne",
     "premiere_apparition": "2026-10-05"
+  },
+  {
+    "point": "02/11 :: usa :: tech :: Résultats Palantir (PLTR)",
+    "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "02/11 :: usa :: tech :: Résultats ON Semiconductor (ON)",
+    "premiere_apparition": "2026-10-09"
   }
 ]
