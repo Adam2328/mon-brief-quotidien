@@ -148,6 +148,10 @@
     "premiere_apparition": "2026-10-10"
   },
   {
+    "point": "14/10 :: asie :: mkt-n :: Réunion opérations marché BoJ",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
     "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -158,6 +162,10 @@
   {
     "point": "03/11 :: global :: mkt-n :: Décision de taux RBA",
     "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "03/11 :: usa :: corp :: Résultats trimestriels Ball Corp",
+    "premiere_apparition": "2026-10-10"
   },
   {
     "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
@@ -429,6 +437,10 @@
   },
   {
     "point": "28/10 :: usa :: mkt-n :: FOMC meeting and interest rate decision",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "28/10 :: europe :: macro :: Budget Royaume-Uni",
     "premiere_apparition": "2026-10-10"
   },
   {
@@ -832,6 +844,14 @@
     "premiere_apparition": "2026-10-09"
   },
   {
+    "point": "04/11 :: usa :: corp :: Résultats trimestriels Circle Internet Group",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "04/11 :: usa :: corp :: Résultats trimestriels AMH",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -841,6 +861,10 @@
   },
   {
     "point": "05/11 :: europe :: mkt-n :: Bank of England interest rate decision",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "05/11 :: usa :: corp :: Résultats trimestriels MP Materials",
     "premiere_apparition": "2026-10-10"
   },
   {
@@ -869,6 +893,18 @@
   },
   {
     "point": "06/11 :: usa :: macro :: US Jobs Report (NFP) for October",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "06/11 :: usa :: macro :: Rapport emploi US (non-farm payrolls octobre)",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "27/10-28/10 :: usa :: mkt-n :: Réunion FOMC / Décision taux Fed",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "09/11 :: usa :: corp :: Résultats trimestriels Barrick Mining",
     "premiere_apparition": "2026-10-10"
   }
 ]
