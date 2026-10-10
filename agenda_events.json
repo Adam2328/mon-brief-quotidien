@@ -56,6 +56,10 @@
     "premiere_apparition": "2026-10-08"
   },
   {
+    "point": "13/10 :: usa :: corp :: JPMorgan earnings release",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
     "premiere_apparition": "2026-09-16"
   },
@@ -140,6 +144,10 @@
     "premiere_apparition": "2026-10-09"
   },
   {
+    "point": "14/10 :: usa :: macro :: US CPI (inflation) data for September",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
     "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -218,6 +226,10 @@
   {
     "point": "16/10 :: usa :: macro :: Production industrielle US (Sept)",
     "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "16/10 :: europe :: macro :: Eurozone HICP (inflation) data for September",
+    "premiere_apparition": "2026-10-10"
   },
   {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
@@ -416,6 +428,10 @@
     "premiere_apparition": "2026-10-09"
   },
   {
+    "point": "28/10 :: usa :: mkt-n :: FOMC meeting and interest rate decision",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
     "premiere_apparition": "2026-09-21"
   },
@@ -470,6 +486,14 @@
   {
     "point": "29/10 :: usa :: tech :: Résultats Cloudflare (NET)",
     "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "29/10 :: europe :: mkt-n :: BCE meeting and interest rate decision",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "29/10 :: usa :: macro :: US GDP Q3 Advance Estimate",
+    "premiere_apparition": "2026-10-10"
   },
   {
     "point": "Fin octobre :: usa :: geo :: Élections Mi-Mandat US (impact marché)",
@@ -542,6 +566,10 @@
   {
     "point": "21/10 :: usa :: macro :: Stocks Pétrole Brut EIA",
     "premiere_apparition": "2026-10-04"
+  },
+  {
+    "point": "21/10 :: europe :: macro :: UK CPI (inflation) data for September",
+    "premiere_apparition": "2026-10-10"
   },
   {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
@@ -648,6 +676,10 @@
     "premiere_apparition": "2026-10-09"
   },
   {
+    "point": "30/10 :: global :: geo :: G20 Foreign Ministers' Meeting",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
     "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
     "premiere_apparition": "2026-09-28"
   },
@@ -694,54 +726,6 @@
   {
     "point": "17/10 :: global :: geo :: Plénière IMFC FMI/Banque Mondiale",
     "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "09/10 :: usa :: corp :: Résultats Delta Air Lines Q3",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "09/10 :: usa :: macro :: Indice Sentiment Consommateur U. Michigan Octobre",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
-    "point": "09/10 :: usa :: macro :: US Indice Confiance Consommateurs",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
-    "point": "09/10 :: usa :: macro :: US U. Michigan Consumer Sentiment P",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "09/10 :: usa :: macro :: USA Indice Confiance Consommateur Michigan",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "09/10 :: asie :: macro :: Japon Revenus Ménages (Août)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "09/10 :: europe :: macro :: Italie Production Industrielle (Août)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "09/10 :: europe :: geo :: Conseil ECOFIN",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "09/10 :: europe :: corp :: Ordissimo réunion analystes semestrielle",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "09/10 :: europe :: corp :: AB Science résultats 1er semestre",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "09/10 :: europe :: corp :: Bluelinea chiffre d'affaires T3",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "09/10 :: europe :: mkt-n :: Conseil Affaires Économiques et Financières (ECOFIN)",
-    "premiere_apparition": "2026-10-06"
   },
   {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
@@ -856,8 +840,16 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "05/11 :: europe :: mkt-n :: Bank of England interest rate decision",
+    "premiere_apparition": "2026-10-10"
+  },
+  {
     "point": "25/10 :: global :: geo :: Élection présidentielle Brésil second tour",
     "premiere_apparition": "2026-10-05"
+  },
+  {
+    "point": "25/10 :: global :: geo :: Second round vote, Brazilian presidential election",
+    "premiere_apparition": "2026-10-10"
   },
   {
     "point": "30/10-31/10 :: global :: geo :: Réunion ministres Affaires étrangères G20",
@@ -874,5 +866,9 @@
   {
     "point": "02/11 :: usa :: tech :: Résultats ON Semiconductor (ON)",
     "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "06/11 :: usa :: macro :: US Jobs Report (NFP) for October",
+    "premiere_apparition": "2026-10-10"
   }
 ]
