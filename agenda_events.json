@@ -60,6 +60,10 @@
     "premiere_apparition": "2026-10-10"
   },
   {
+    "point": "13/10 :: usa :: corp :: Résultats T3 Grandes Banques US",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
     "premiere_apparition": "2026-09-16"
   },
@@ -152,6 +156,10 @@
     "premiere_apparition": "2026-10-10"
   },
   {
+    "point": "14/10 :: usa :: corp :: Résultats T3 Autres Grandes Banques US",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
     "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -208,6 +216,10 @@
     "premiere_apparition": "2026-10-07"
   },
   {
+    "point": "12/10 :: global :: geo :: Russie-Arabie Saoudite discussion pétrole",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
     "premiere_apparition": "2026-09-17"
   },
@@ -238,6 +250,10 @@
   {
     "point": "16/10 :: europe :: macro :: Eurozone HICP (inflation) data for September",
     "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "16/10 :: europe :: macro :: HICP Zone Euro Septembre final",
+    "premiere_apparition": "2026-10-11"
   },
   {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
@@ -700,18 +716,6 @@
     "premiere_apparition": "2026-09-28"
   },
   {
-    "point": "10/10 :: asie :: geo :: Forum économique mondial Bangkok",
-    "premiere_apparition": "2026-09-29"
-  },
-  {
-    "point": "10/10 :: usa :: macro :: Demandes Initiales Chômage",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "10/10 :: france :: corp :: Exail Technologies Résultats S1",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
     "point": "Semaine du 12/10 :: usa :: corp :: Début saison résultats T3 US",
     "premiere_apparition": "2026-09-29"
   },
@@ -852,6 +856,10 @@
     "premiere_apparition": "2026-10-10"
   },
   {
+    "point": "04/11 :: europe :: macro :: HICP Flash Zone Euro Octobre",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -906,5 +914,9 @@
   {
     "point": "09/11 :: usa :: corp :: Résultats trimestriels Barrick Mining",
     "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "01/11 :: global :: mkt-n :: Réunion OPEC+ production pétrole",
+    "premiere_apparition": "2026-10-11"
   }
 ]
