@@ -64,6 +64,22 @@
     "premiere_apparition": "2026-10-11"
   },
   {
+    "point": "13/10 :: europe :: corp :: Publicis Groupe Chiffre d'affaires T3",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "13/10 :: europe :: corp :: ISPD Network Résultats S1",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "13/10 :: europe :: corp :: Le Slip Francais Résultats S1",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "13/10 :: europe :: corp :: Smaio Résultats S1",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
     "premiere_apparition": "2026-09-16"
   },
@@ -220,6 +236,14 @@
     "premiere_apparition": "2026-10-11"
   },
   {
+    "point": "12/10 :: europe :: corp :: LVMH Chiffre d'affaires T3",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "12/10 :: global :: geo :: WTTC Global Summit Malta",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
     "premiere_apparition": "2026-09-17"
   },
@@ -362,6 +386,14 @@
   {
     "point": "15/10 :: usa :: corp :: Résultats US Bancorp (USB)",
     "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "15/10 :: europe :: macro :: Production Industrielle Zone Euro Août",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "15/10 :: usa :: macro :: Inscriptions Chômage US",
+    "premiere_apparition": "2026-10-11"
   },
   {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
@@ -524,6 +556,18 @@
     "premiere_apparition": "2026-10-10"
   },
   {
+    "point": "29/10 :: usa :: macro :: Revenus Personnels US Septembre",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "29/10 :: usa :: macro :: Coût de l'Emploi US T3",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "29/10 :: usa :: macro :: Inscriptions Chômage US",
+    "premiere_apparition": "2026-10-11"
+  },
+  {
     "point": "Fin octobre :: usa :: geo :: Élections Mi-Mandat US (impact marché)",
     "premiere_apparition": "2026-09-21"
   },
@@ -598,6 +642,10 @@
   {
     "point": "21/10 :: europe :: macro :: UK CPI (inflation) data for September",
     "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "21/10 :: canada :: macro :: Ventes au Détail Canada Août",
+    "premiere_apparition": "2026-10-11"
   },
   {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
@@ -830,6 +878,10 @@
   {
     "point": "22/10 :: europe :: corp :: Résultats Spotify Technology S.A. (SPOT)",
     "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "22/10 :: usa :: macro :: Inscriptions Chômage US",
+    "premiere_apparition": "2026-10-11"
   },
   {
     "point": "Novembre :: usa :: corp :: IPO Anthropic",
