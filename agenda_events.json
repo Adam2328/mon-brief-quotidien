@@ -84,6 +84,10 @@
     "premiere_apparition": "2026-10-12"
   },
   {
+    "point": "13/10 :: europe :: macro :: Speech Greene IMF/Banque Mondiale",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
     "premiere_apparition": "2026-09-16"
   },
@@ -180,6 +184,10 @@
     "premiere_apparition": "2026-10-11"
   },
   {
+    "point": "14/10 :: europe :: macro :: Intervention Président BCE",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
     "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -248,6 +256,14 @@
     "premiere_apparition": "2026-10-11"
   },
   {
+    "point": "12/10 :: global :: macro :: Discours Breeden actifs numériques",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "12/10 :: global :: macro :: Mann sur inflation/tarifs/taux",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
     "premiere_apparition": "2026-09-17"
   },
@@ -282,6 +298,10 @@
   {
     "point": "16/10 :: europe :: macro :: HICP Zone Euro Septembre final",
     "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "16/10 :: europe :: macro :: Bailey IIF Fireside Chat",
+    "premiere_apparition": "2026-10-12"
   },
   {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
@@ -400,6 +420,18 @@
     "premiere_apparition": "2026-10-11"
   },
   {
+    "point": "15/10 :: europe :: macro :: Discours Pill au FMI",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "15/10 :: europe :: geo :: Conférence BoE cyber-risque",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "15/10 :: global :: macro :: Panel BoE Bretton Woods",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -418,6 +450,14 @@
   {
     "point": "20/10 :: usa :: corp :: Résultats RTX Corporation (RTX)",
     "premiere_apparition": "2026-10-09"
+  },
+  {
+    "point": "20/10 :: europe :: macro :: Discours Mills sur Marchés Capitaux",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "20/10 :: europe :: macro :: Speech Greene LSE Economics",
+    "premiere_apparition": "2026-10-12"
   },
   {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
@@ -668,6 +708,10 @@
     "premiere_apparition": "2026-10-07"
   },
   {
+    "point": "23/10 :: asie :: macro :: BoJ Rapport Système Financier",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
     "point": "27-28/10 :: usa :: macro :: Réunion FOMC",
     "premiere_apparition": "2026-09-25"
   },
@@ -760,6 +804,10 @@
     "premiere_apparition": "2026-10-10"
   },
   {
+    "point": "30/10 :: europe :: macro :: Conférence BoE Croissance/Capital",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
     "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
     "premiere_apparition": "2026-09-28"
   },
@@ -836,6 +884,10 @@
     "premiere_apparition": "2026-10-09"
   },
   {
+    "point": "27/10 :: europe :: tech :: Date limite appel BCE Euro Numérique",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -886,6 +938,10 @@
   {
     "point": "22/10 :: usa :: macro :: Inscriptions Chômage US",
     "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "22/10 :: europe :: macro :: Bailey OMFIF Chat Indépendance BC",
+    "premiere_apparition": "2026-10-12"
   },
   {
     "point": "Novembre :: usa :: corp :: IPO Anthropic",
@@ -972,7 +1028,23 @@
     "premiere_apparition": "2026-10-10"
   },
   {
+    "point": "09/11 :: europe :: tech :: Date limite appel BCE Innovation Euro Numérique",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
     "point": "01/11 :: global :: mkt-n :: Réunion OPEC+ production pétrole",
     "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "15/10 :: corp :: JPMorgan Investor Seminar (IMF)",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "10/11 :: asie :: macro :: BoJ Résumé des Opinions",
+    "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "10/11 :: europe :: macro :: Conférence Observateurs BoE",
+    "premiere_apparition": "2026-10-12"
   }
 ]
