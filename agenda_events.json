@@ -1,9 +1,5 @@
 [
   {
-    "point": "30/09-01/10 :: usa :: geo :: G20 Ministres Commerce",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
     "point": "13/10 :: usa :: corp :: Résultats T3 UnitedHealth Group",
     "premiere_apparition": "2026-09-16"
   },
@@ -86,6 +82,22 @@
   {
     "point": "13/10 :: europe :: macro :: Speech Greene IMF/Banque Mondiale",
     "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "13/10 :: global :: geo :: Sommet FMI-Banque Mondiale Bangkok (début)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "13/10 :: europe :: corp :: Publicis Groupe CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "13/10 :: europe :: corp :: Ekinops CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "13/10 :: europe :: corp :: Implanet CA T3",
+    "premiere_apparition": "2026-10-13"
   },
   {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
@@ -188,6 +200,62 @@
     "premiere_apparition": "2026-10-12"
   },
   {
+    "point": "14/10 :: usa :: macro :: US Beige Book (rapport économique Fed)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Bourse Direct CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Catana Group CA T4",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Cibox Inter Active CA T3 & Rés. S1",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Drone Volt CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Exail Technologies CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Fonciere Inea CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Gecina CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Gl Events CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Mint SA Résultats S1",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Roth Mions CA S1",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Savencia CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Theraclion Résultats S1",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: europe :: corp :: Unify Group Résultats S1",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -202,66 +270,6 @@
   {
     "point": "03/11 :: usa :: corp :: Résultats trimestriels Ball Corp",
     "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "12/10 :: global :: geo :: Début Réunions Annuelles FMI/BM",
-    "premiere_apparition": "2026-09-17"
-  },
-  {
-    "point": "12/10 :: global :: mkt-n :: Réunions annuelles FMI/Banque Mondiale (début)",
-    "premiere_apparition": "2026-09-22"
-  },
-  {
-    "point": "12/10 :: usa :: mkt-n :: Jour Férié (Columbus Day)",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
-    "point": "12/10 :: global :: ai :: WBG Flagship: Small AI, Big Jobs",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "12/10 :: europe :: corp :: Valbiotis Résultats T2",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "12/10 :: asie :: corp :: HCL Technologies Résultats T2",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "12/10 :: global :: mkt-n :: IMF/World Bank Annual Meetings",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
-    "point": "12/10 :: france :: mkt-n :: Adjudication BTF France",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "12/10 :: europe :: geo :: Conseil Environnement",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "12/10 :: global :: macro :: IMF/World Bank Réunions Annuelles",
-    "premiere_apparition": "2026-10-07"
-  },
-  {
-    "point": "12/10 :: global :: geo :: Russie-Arabie Saoudite discussion pétrole",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "12/10 :: europe :: corp :: LVMH Chiffre d'affaires T3",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "12/10 :: global :: geo :: WTTC Global Summit Malta",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "12/10 :: global :: macro :: Discours Breeden actifs numériques",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "12/10 :: global :: macro :: Mann sur inflation/tarifs/taux",
-    "premiere_apparition": "2026-10-12"
   },
   {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
@@ -302,6 +310,26 @@
   {
     "point": "16/10 :: europe :: macro :: Bailey IIF Fireside Chat",
     "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "16/10 :: global :: geo :: FMI-Banque Mondiale Séance Plénière",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "16/10 :: usa :: macro :: US Industrial Production Septembre",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "16/10 :: europe :: corp :: Ipsen CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "16/10 :: usa :: corp :: Travelers Résultats T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "16/10 :: usa :: corp :: Banques régionales US Résultats T3",
+    "premiere_apparition": "2026-10-13"
   },
   {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
@@ -430,6 +458,70 @@
   {
     "point": "15/10 :: global :: macro :: Panel BoE Bretton Woods",
     "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "15/10 :: global :: geo :: FMI-Banque Mondiale Comité Développement",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: geo :: Conseil Européen Compétitivité & Énergie",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Damartex CA T1",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Eagle Football Group Résultats Annuels",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Fountaine Pajot CA T4",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Geci Intl AG Annuelle",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Gevelot Résultats S1",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Hydrogen Refueling Solutions Résultats Annuels",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: I2S CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Lagardere CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Largo CA T3 & Résultats S1",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Louis Hachette Group CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Macompta.fr Résultats Annuels",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Pernod Ricard CA T1",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: Spineway CA T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: corp :: STEF CA T3",
+    "premiere_apparition": "2026-10-13"
   },
   {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
@@ -610,30 +702,6 @@
   {
     "point": "29/10 :: usa :: macro :: Inscriptions Chômage US",
     "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "Fin octobre :: usa :: geo :: Élections Mi-Mandat US (impact marché)",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "Fin octobre :: usa :: corp :: Résultats Amazon",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "Fin octobre :: usa :: corp :: Résultats Alphabet",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "Fin octobre :: usa :: corp :: Résultats Meta",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "Début novembre :: europe :: mkt-n :: BoE Décision Politique Monétaire",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "Cette semaine :: global :: tech :: AG ONU - Débat standards IA",
-    "premiere_apparition": "2026-09-21"
   },
   {
     "point": "Cette semaine :: global :: geo :: Assemblée Générale des Nations Unies",
@@ -844,6 +912,10 @@
     "premiere_apparition": "2026-10-04"
   },
   {
+    "point": "17/10 :: global :: geo :: FMI-Banque Mondiale Comité Monétaire International",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
     "premiere_apparition": "2026-09-30"
   },
@@ -1012,6 +1084,10 @@
     "premiere_apparition": "2026-10-09"
   },
   {
+    "point": "02/11 :: europe :: mkt-n :: Journée inaugurale Paris Infraweek",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "06/11 :: usa :: macro :: US Jobs Report (NFP) for October",
     "premiere_apparition": "2026-10-10"
   },
@@ -1046,5 +1122,25 @@
   {
     "point": "10/11 :: europe :: macro :: Conférence Observateurs BoE",
     "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "27/10 - 28/10 :: usa :: macro :: Réunion FOMC Décision Taux Fed",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "29/10 - 30/10 :: asie :: macro :: Réunion BoJ Décision Taux",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "29/10 - 30/10 :: global :: geo :: Sommet Canada-UE Montréal",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "04/11 - 05/11 :: europe :: mkt-n :: Future of Finance édition 2026",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "16/11 :: europe :: mkt-n :: Financium Congrès Dirigeants Financiers",
+    "premiere_apparition": "2026-10-13"
   }
 ]
