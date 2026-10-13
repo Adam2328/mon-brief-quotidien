@@ -100,6 +100,22 @@
     "premiere_apparition": "2026-10-13"
   },
   {
+    "point": "13/10 :: asie :: macro :: BoJ Chiffres institutions financières (Sept)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "13/10 :: asie :: macro :: BoJ Indice prix biens d'entreprise (Sept)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "13/10 :: asie :: macro :: BoJ Enquête d'opinion (107ème)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "13/10 :: asie :: macro :: BoJ Chiffres de défaillances (Sept)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
     "premiere_apparition": "2026-09-16"
   },
@@ -256,6 +272,14 @@
     "premiere_apparition": "2026-10-13"
   },
   {
+    "point": "14/10 :: usa :: corp :: Résultats JPMorgan (T3)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: asie :: macro :: BoJ Comptes Banque du Japon (10 Oct)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -270,6 +294,10 @@
   {
     "point": "03/11 :: usa :: corp :: Résultats trimestriels Ball Corp",
     "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "03/11 :: global :: macro :: Réunion de politique monétaire RBA",
+    "premiere_apparition": "2026-10-13"
   },
   {
     "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
@@ -329,6 +357,10 @@
   },
   {
     "point": "16/10 :: usa :: corp :: Banques régionales US Résultats T3",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "16/10 :: asie :: macro :: BoJ Soldes de comptes courants (Sept)",
     "premiere_apparition": "2026-10-13"
   },
   {
@@ -524,6 +556,18 @@
     "premiere_apparition": "2026-10-13"
   },
   {
+    "point": "15/10 :: usa :: macro :: Annonce CPI-W US (Sept) COLA",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: europe :: macro :: CPI France (Sept)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "15/10 :: asie :: macro :: Discours membre du Conseil BoJ KOEDA",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -704,6 +748,10 @@
     "premiere_apparition": "2026-10-11"
   },
   {
+    "point": "29/10 :: asie :: macro :: BoJ Perspectives activité économique et prix",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "Cette semaine :: global :: geo :: Assemblée Générale des Nations Unies",
     "premiere_apparition": "2026-09-23"
   },
@@ -778,6 +826,10 @@
   {
     "point": "23/10 :: asie :: macro :: BoJ Rapport Système Financier",
     "premiere_apparition": "2026-10-12"
+  },
+  {
+    "point": "23/10 :: asie :: macro :: BoJ Rapport sur la stabilité financière (Oct)",
+    "premiere_apparition": "2026-10-13"
   },
   {
     "point": "27-28/10 :: usa :: macro :: Réunion FOMC",
@@ -876,6 +928,10 @@
     "premiere_apparition": "2026-10-12"
   },
   {
+    "point": "30/10 :: asie :: macro :: BoJ Statistiques paiements et règlements (Sept)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
     "premiere_apparition": "2026-09-28"
   },
@@ -960,6 +1016,14 @@
     "premiere_apparition": "2026-10-12"
   },
   {
+    "point": "27/10 :: asie :: macro :: BoJ Indice prix production services (Sept)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "27/10 :: asie :: macro :: BoJ Indicateurs Core CPI",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -1016,6 +1080,18 @@
     "premiere_apparition": "2026-10-12"
   },
   {
+    "point": "22/10 :: asie :: macro :: BoJ Enquête officielle prêts (Oct)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "22/10 :: asie :: macro :: BoJ Transactions financement titres (Sept)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "22/10 :: asie :: macro :: BoJ Comptes Banque du Japon (20 Oct)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "Novembre :: usa :: corp :: IPO Anthropic",
     "premiere_apparition": "2026-10-03"
   },
@@ -1044,6 +1120,14 @@
     "premiere_apparition": "2026-10-11"
   },
   {
+    "point": "04/11 :: asie :: macro :: BoJ Base monétaire (Oct)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "04/11 :: asie :: macro :: BoJ Comptes Banque du Japon (31 Oct)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -1058,6 +1142,10 @@
   {
     "point": "05/11 :: usa :: corp :: Résultats trimestriels MP Materials",
     "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "05/11 :: asie :: macro :: BoJ Minutes de la réunion politique monétaire",
+    "premiere_apparition": "2026-10-13"
   },
   {
     "point": "25/10 :: global :: geo :: Élection présidentielle Brésil second tour",
@@ -1085,6 +1173,14 @@
   },
   {
     "point": "02/11 :: europe :: mkt-n :: Journée inaugurale Paris Infraweek",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "02/11 :: asie :: macro :: BoJ Sources variations comptes courants (Oct)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "02/11 :: asie :: macro :: BoJ Perspectives complètes (Oct)",
     "premiere_apparition": "2026-10-13"
   },
   {
@@ -1124,6 +1220,14 @@
     "premiere_apparition": "2026-10-12"
   },
   {
+    "point": "10/11 :: usa :: macro :: Rapport CPI US (Oct)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "10/11 :: usa :: macro :: Salaires réels US (Oct)",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
     "point": "27/10 - 28/10 :: usa :: macro :: Réunion FOMC Décision Taux Fed",
     "premiere_apparition": "2026-10-13"
   },
@@ -1141,6 +1245,10 @@
   },
   {
     "point": "16/11 :: europe :: mkt-n :: Financium Congrès Dirigeants Financiers",
+    "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "Semaine du 26/10 :: usa :: corp :: Pic saison résultats entreprises US (T3)",
     "premiere_apparition": "2026-10-13"
   }
 ]
