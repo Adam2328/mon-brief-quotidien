@@ -456,6 +456,10 @@
     "premiere_apparition": "2026-10-13"
   },
   {
+    "point": "15/10 :: asie :: corp :: Résultats TSM (Taiwan Semiconductor)",
+    "premiere_apparition": "2026-10-14"
+  },
+  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -694,6 +698,10 @@
   {
     "point": "21/10 :: canada :: macro :: Ventes au Détail Canada Août",
     "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "21/10 :: usa :: corp :: Résultats Tesla",
+    "premiere_apparition": "2026-10-14"
   },
   {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
@@ -1040,6 +1048,10 @@
     "premiere_apparition": "2026-10-13"
   },
   {
+    "point": "05/11 :: usa :: corp :: Résultats Targa Resources",
+    "premiere_apparition": "2026-10-14"
+  },
+  {
     "point": "25/10 :: global :: geo :: Élection présidentielle Brésil second tour",
     "premiere_apparition": "2026-10-05"
   },
@@ -1142,5 +1154,13 @@
   {
     "point": "Semaine du 26/10 :: usa :: corp :: Pic saison résultats entreprises US (T3)",
     "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "12/10 - 18/10 :: global :: geo :: Réunions annuelles FMI et BM",
+    "premiere_apparition": "2026-10-14"
+  },
+  {
+    "point": "28/10 - 29/10 :: europe :: macro :: Réunion BCE Décision taux",
+    "premiere_apparition": "2026-10-14"
   }
 ]
