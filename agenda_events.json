@@ -1,121 +1,5 @@
 [
   {
-    "point": "13/10 :: usa :: corp :: Résultats T3 UnitedHealth Group",
-    "premiere_apparition": "2026-09-16"
-  },
-  {
-    "point": "13/10 :: usa :: corp :: Résultats Goldman Sachs",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "13/10 :: global :: geo :: Sommet Leaders Mondiaux WEF",
-    "premiere_apparition": "2026-09-29"
-  },
-  {
-    "point": "13/10 :: usa :: corp :: Résultats bancaires US Q3 (JPMorgan, Wells Fargo, Citigroup, Goldman Sachs)",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "13/10 :: usa :: corp :: JPMorgan Chase Q3 Earnings",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "13/10 :: usa :: corp :: Wells Fargo Q3 Earnings",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "13/10 :: usa :: corp :: Citigroup Q3 Earnings",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "13/10 :: usa :: corp :: Johnson & Johnson Q3 Earnings",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "13/10 :: usa :: macro :: US Existing Home Sales Sep",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "13/10 :: global :: mkt-n :: Discours Megan Greene (BoE) aux réunions FMI/BM",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "13/10 :: europe :: corp :: Galp Energia Activité T3",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "13/10 :: europe :: corp :: Flughafen Zürich Résultats",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "13/10 :: usa :: corp :: Résultats J.P. Morgan Chase & Co. Q3",
-    "premiere_apparition": "2026-10-08"
-  },
-  {
-    "point": "13/10 :: usa :: corp :: JPMorgan earnings release",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "13/10 :: usa :: corp :: Résultats T3 Grandes Banques US",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "13/10 :: europe :: corp :: Publicis Groupe Chiffre d'affaires T3",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "13/10 :: europe :: corp :: ISPD Network Résultats S1",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "13/10 :: europe :: corp :: Le Slip Francais Résultats S1",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "13/10 :: europe :: corp :: Smaio Résultats S1",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "13/10 :: usa :: corp :: Début saison résultats Q3 grandes banques",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "13/10 :: europe :: macro :: Speech Greene IMF/Banque Mondiale",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "13/10 :: global :: geo :: Sommet FMI-Banque Mondiale Bangkok (début)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "13/10 :: europe :: corp :: Publicis Groupe CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "13/10 :: europe :: corp :: Ekinops CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "13/10 :: europe :: corp :: Implanet CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "13/10 :: asie :: macro :: BoJ Chiffres institutions financières (Sept)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "13/10 :: asie :: macro :: BoJ Indice prix biens d'entreprise (Sept)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "13/10 :: asie :: macro :: BoJ Enquête d'opinion (107ème)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "13/10 :: asie :: macro :: BoJ Chiffres de défaillances (Sept)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
     "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
     "premiere_apparition": "2026-09-16"
   },
@@ -278,6 +162,10 @@
   {
     "point": "14/10 :: asie :: macro :: BoJ Comptes Banque du Japon (10 Oct)",
     "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "14/10 :: global :: geo :: Sommet Annuel FMI/Banque Mondiale Bangkok",
+    "premiere_apparition": "2026-10-14"
   },
   {
     "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
@@ -1126,6 +1014,10 @@
   {
     "point": "04/11 :: asie :: macro :: BoJ Comptes Banque du Japon (31 Oct)",
     "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "04/11 :: usa :: macro :: Publication Revenus et Dépenses Personnels US Septembre 2026",
+    "premiere_apparition": "2026-10-14"
   },
   {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
