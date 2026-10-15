@@ -1,173 +1,5 @@
 [
   {
-    "point": "14/10 :: usa :: macro :: Indice Prix Consommation US (Septembre)",
-    "premiere_apparition": "2026-09-16"
-  },
-  {
-    "point": "14/10 :: usa :: macro :: Publication IPC US (Septembre)",
-    "premiere_apparition": "2026-09-17"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Résultats ASML",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "14/10 :: usa :: macro :: Revenu Réel US Septembre",
-    "premiere_apparition": "2026-09-23"
-  },
-  {
-    "point": "14/10 :: usa :: macro :: Salaires réels US (septembre)",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Chiffre d'affaires T3 Bourse Direct",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
-    "point": "14/10 :: usa :: macro :: USA Indice Prix Consommation (CPI) septembre",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "14/10 :: usa :: macro :: Publication IPC Septembre",
-    "premiere_apparition": "2026-09-27"
-  },
-  {
-    "point": "14/10 :: global :: macro :: WBG Flagship: Mobilisation Capital Privé",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "14/10 :: usa :: mkt-n :: Publication Livre Beige FOMC",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "14/10 :: usa :: corp :: Résultats bancaires US Q3 (Bank of America, Morgan Stanley)",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "14/10 :: usa :: macro :: US Livre Beige Fed",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
-    "point": "14/10 :: usa :: corp :: Bank of America Q3 Earnings",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "14/10 :: usa :: corp :: Morgan Stanley Q3 Earnings",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "14/10 :: global :: corp :: WBG Flagship: Mobilizing Private Capital",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "14/10 :: france :: macro :: Rapport IEA Marché Huile",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "14/10 :: usa :: macro :: Bénéfices réels septembre",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "14/10 :: japon :: macro :: Masse monétaire septembre",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "14/10 :: asie :: macro :: Publication CPI/PPI Chine",
-    "premiere_apparition": "2026-10-08"
-  },
-  {
-    "point": "14/10 :: asie :: macro :: Publication Balance Commerciale Chine",
-    "premiere_apparition": "2026-10-08"
-  },
-  {
-    "point": "14/10 :: usa :: corp :: Résultats State Street (STT)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "14/10 :: usa :: macro :: US CPI (inflation) data for September",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "14/10 :: asie :: mkt-n :: Réunion opérations marché BoJ",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "14/10 :: usa :: corp :: Résultats T3 Autres Grandes Banques US",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "14/10 :: europe :: macro :: Intervention Président BCE",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "14/10 :: usa :: macro :: US Beige Book (rapport économique Fed)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Bourse Direct CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Catana Group CA T4",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Cibox Inter Active CA T3 & Rés. S1",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Drone Volt CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Exail Technologies CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Fonciere Inea CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Gecina CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Gl Events CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Mint SA Résultats S1",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Roth Mions CA S1",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Savencia CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Theraclion Résultats S1",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: europe :: corp :: Unify Group Résultats S1",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: usa :: corp :: Résultats JPMorgan (T3)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: asie :: macro :: BoJ Comptes Banque du Japon (10 Oct)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "14/10 :: global :: geo :: Sommet Annuel FMI/Banque Mondiale Bangkok",
-    "premiere_apparition": "2026-10-14"
-  },
-  {
     "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -488,6 +320,10 @@
     "premiere_apparition": "2026-10-12"
   },
   {
+    "point": "20/10 :: asie :: geo :: APEC Réunion Ministres Finances",
+    "premiere_apparition": "2026-10-15"
+  },
+  {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
     "premiere_apparition": "2026-09-21"
   },
@@ -562,6 +398,10 @@
   {
     "point": "28/10 :: europe :: macro :: Budget Royaume-Uni",
     "premiere_apparition": "2026-10-10"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: Résultats trimestriels Microsoft",
+    "premiere_apparition": "2026-10-15"
   },
   {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
@@ -642,10 +482,6 @@
   {
     "point": "29/10 :: asie :: macro :: BoJ Perspectives activité économique et prix",
     "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "Cette semaine :: global :: geo :: Assemblée Générale des Nations Unies",
-    "premiere_apparition": "2026-09-23"
   },
   {
     "point": "Semaine du 05/10 :: europe :: corp :: Résultats semestriels Exail Technologies",
@@ -920,6 +756,10 @@
     "premiere_apparition": "2026-10-13"
   },
   {
+    "point": "27/10 :: usa :: corp :: Résultats trimestriels Visa",
+    "premiere_apparition": "2026-10-15"
+  },
+  {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
     "premiere_apparition": "2026-10-01"
   },
@@ -1026,6 +866,10 @@
   {
     "point": "04/11 :: usa :: macro :: Publication Revenus et Dépenses Personnels US Septembre 2026",
     "premiere_apparition": "2026-10-14"
+  },
+  {
+    "point": "04/11 :: europe :: macro :: Flash estimation HICP Eurozone",
+    "premiere_apparition": "2026-10-15"
   },
   {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
