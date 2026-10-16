@@ -88,210 +88,6 @@
     "premiere_apparition": "2026-09-17"
   },
   {
-    "point": "15/10 :: asie :: corp :: Résultats Taiwan Semiconductor",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: Indice des prix à la production US (septembre)",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
-    "point": "15/10 :: global :: geo :: Réunion Ministres Finances G20 Bangkok",
-    "premiere_apparition": "2026-09-26"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: Indice Prix Producteurs US Septembre",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "15/10 :: global :: geo :: Réunion Comité Développement FMI/BM",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "15/10 :: europe :: macro :: Inflation HICP Eurozone Septembre Finale",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: US Ventes au Détail",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
-    "point": "15/10 :: global :: geo :: G20 Finance Ministers Meeting",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: US Retail Sales Sep",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: US PPI Sep",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: US Industrial Production Sep",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: US Producer Price Index",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: Publication IPP US (Septembre)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "15/10 :: france :: macro :: Inflation Finale (Sept)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "15/10 :: france :: mkt-n :: Adjudication OAT France",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: IPP septembre",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: Production industrielle septembre",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: Utilisation des capacités septembre",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "15/10 :: japon :: macro :: Discours de Koeda (BoJ)",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "15/10 :: europe :: geo :: Sommet des Leaders de l'UE (Jour 1)",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "15/10 :: global :: geo :: G20 Finance Ministres & Banquiers Centraux",
-    "premiere_apparition": "2026-10-07"
-  },
-  {
-    "point": "15/10 :: asie :: macro :: Publication Nouveaux Prêts Yuan / TSF Chine",
-    "premiere_apparition": "2026-10-08"
-  },
-  {
-    "point": "15/10 :: asie :: tech :: Résultats Taiwan Semi (TSM)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "15/10 :: usa :: corp :: Résultats Alaska Air Group (ALK)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "15/10 :: usa :: corp :: Résultats Charles Schwab (SCHW)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "15/10 :: usa :: corp :: Résultats US Bancorp (USB)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "15/10 :: europe :: macro :: Production Industrielle Zone Euro Août",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: Inscriptions Chômage US",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "15/10 :: europe :: macro :: Discours Pill au FMI",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "15/10 :: europe :: geo :: Conférence BoE cyber-risque",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "15/10 :: global :: macro :: Panel BoE Bretton Woods",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "15/10 :: global :: geo :: FMI-Banque Mondiale Comité Développement",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: geo :: Conseil Européen Compétitivité & Énergie",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Damartex CA T1",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Eagle Football Group Résultats Annuels",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Fountaine Pajot CA T4",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Geci Intl AG Annuelle",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Gevelot Résultats S1",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Hydrogen Refueling Solutions Résultats Annuels",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: I2S CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Lagardere CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Largo CA T3 & Résultats S1",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Louis Hachette Group CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Macompta.fr Résultats Annuels",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Pernod Ricard CA T1",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: Spineway CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: corp :: STEF CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: usa :: macro :: Annonce CPI-W US (Sept) COLA",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: europe :: macro :: CPI France (Sept)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: asie :: macro :: Discours membre du Conseil BoJ KOEDA",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "15/10 :: asie :: corp :: Résultats TSM (Taiwan Semiconductor)",
-    "premiere_apparition": "2026-10-14"
-  },
-  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -538,6 +334,10 @@
   {
     "point": "21/10 :: usa :: corp :: Résultats Tesla",
     "premiere_apparition": "2026-10-14"
+  },
+  {
+    "point": "21/10 :: usa :: corp :: Résultats Meta Platforms Q3",
+    "premiere_apparition": "2026-10-16"
   },
   {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
@@ -896,6 +696,10 @@
     "premiere_apparition": "2026-10-14"
   },
   {
+    "point": "05/11 :: usa :: corp :: Résultats Instacart Q3",
+    "premiere_apparition": "2026-10-16"
+  },
+  {
     "point": "25/10 :: global :: geo :: Élection présidentielle Brésil second tour",
     "premiere_apparition": "2026-10-05"
   },
@@ -1010,5 +814,9 @@
   {
     "point": "28/10 - 29/10 :: europe :: macro :: Réunion BCE Décision taux",
     "premiere_apparition": "2026-10-14"
+  },
+  {
+    "point": "13/11 :: usa :: macro :: Inflation PPI US (Oct)",
+    "premiere_apparition": "2026-10-16"
   }
 ]
