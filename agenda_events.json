@@ -84,6 +84,10 @@
     "premiere_apparition": "2026-10-13"
   },
   {
+    "point": "16/10 :: europe :: geo :: Sommet Conseil Européen",
+    "premiere_apparition": "2026-10-16"
+  },
+  {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
     "premiere_apparition": "2026-09-17"
   },
@@ -492,6 +496,10 @@
     "premiere_apparition": "2026-10-08"
   },
   {
+    "point": "19/10 :: europe :: corp :: Résultats entreprises européennes",
+    "premiere_apparition": "2026-10-16"
+  },
+  {
     "point": "17/10 :: global :: geo :: Plénière IMFC Annuelles FMI/BM",
     "premiere_apparition": "2026-09-30"
   },
@@ -670,6 +678,10 @@
   {
     "point": "04/11 :: europe :: macro :: Flash estimation HICP Eurozone",
     "premiere_apparition": "2026-10-15"
+  },
+  {
+    "point": "04/11 :: europe :: macro :: Inflation Eurozone (IPC Flash Octobre)",
+    "premiere_apparition": "2026-10-16"
   },
   {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
