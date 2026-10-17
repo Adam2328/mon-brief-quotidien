@@ -60,6 +60,10 @@
     "premiere_apparition": "2026-10-17"
   },
   {
+    "point": "20/10 :: usa :: macro :: Rapport Emploi et Chômage États (Sep)",
+    "premiere_apparition": "2026-10-17"
+  },
+  {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
     "premiere_apparition": "2026-09-21"
   },
@@ -222,6 +226,14 @@
   {
     "point": "29/10 :: asie :: macro :: BoJ Perspectives activité économique et prix",
     "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "29/10 :: usa :: macro :: PIB (Est. Avance) T3 2026",
+    "premiere_apparition": "2026-10-17"
+  },
+  {
+    "point": "29/10 :: usa :: macro :: Revenu et Dépenses Personnels (Sep)",
+    "premiere_apparition": "2026-10-17"
   },
   {
     "point": "21/10 :: europe :: corp :: Chiffre d'affaires T3 FDJ",
@@ -616,6 +628,14 @@
     "premiere_apparition": "2026-10-16"
   },
   {
+    "point": "04/11 :: europe :: macro :: Flash CPI Zone Euro (Oct)",
+    "premiere_apparition": "2026-10-17"
+  },
+  {
+    "point": "04/11 :: usa :: macro :: Commerce Int. Biens & Services (Sep)",
+    "premiere_apparition": "2026-10-17"
+  },
+  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -642,6 +662,10 @@
   {
     "point": "05/11 :: usa :: corp :: Résultats Instacart Q3",
     "premiere_apparition": "2026-10-16"
+  },
+  {
+    "point": "05/11 :: europe :: mkt-n :: Conférence Marchés Monétaires BCE",
+    "premiere_apparition": "2026-10-17"
   },
   {
     "point": "25/10 :: global :: geo :: Élection présidentielle Brésil second tour",
@@ -693,6 +717,10 @@
   },
   {
     "point": "06/11 :: usa :: macro :: Rapport Emploi Non-Agricole Octobre",
+    "premiere_apparition": "2026-10-17"
+  },
+  {
+    "point": "06/11 :: europe :: mkt-n :: Conférence Marchés Monétaires BCE (Jour 2)",
     "premiere_apparition": "2026-10-17"
   },
   {
