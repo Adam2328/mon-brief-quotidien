@@ -20,74 +20,6 @@
     "premiere_apparition": "2026-10-13"
   },
   {
-    "point": "16/10 :: europe :: macro :: Publication IPC Zone Euro (Septembre)",
-    "premiere_apparition": "2026-09-17"
-  },
-  {
-    "point": "16/10 :: usa :: macro :: Prix Import/Export US (septembre)",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
-    "point": "16/10 :: europe :: macro :: Inflation Eurozone (août) données finales",
-    "premiere_apparition": "2026-09-27"
-  },
-  {
-    "point": "16/10 :: europe :: macro :: Inflation CPI Eurozone Finale (Sept.)",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "16/10 :: global :: geo :: Session Plénière Annuelles FMI/BM",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "16/10 :: europe :: macro :: Eurozone Final HICP Sep",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "16/10 :: usa :: macro :: Production industrielle US (Sept)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "16/10 :: europe :: macro :: Eurozone HICP (inflation) data for September",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "16/10 :: europe :: macro :: HICP Zone Euro Septembre final",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "16/10 :: europe :: macro :: Bailey IIF Fireside Chat",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "16/10 :: global :: geo :: FMI-Banque Mondiale Séance Plénière",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "16/10 :: usa :: macro :: US Industrial Production Septembre",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "16/10 :: europe :: corp :: Ipsen CA T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "16/10 :: usa :: corp :: Travelers Résultats T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "16/10 :: usa :: corp :: Banques régionales US Résultats T3",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "16/10 :: asie :: macro :: BoJ Soldes de comptes courants (Sept)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "16/10 :: europe :: geo :: Sommet Conseil Européen",
-    "premiere_apparition": "2026-10-16"
-  },
-  {
     "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
     "premiere_apparition": "2026-09-17"
   },
@@ -122,6 +54,10 @@
   {
     "point": "20/10 :: asie :: geo :: APEC Réunion Ministres Finances",
     "premiere_apparition": "2026-10-15"
+  },
+  {
+    "point": "20/10 :: usa :: corp :: General Motors Résultats T3",
+    "premiere_apparition": "2026-10-17"
   },
   {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
@@ -204,6 +140,10 @@
     "premiere_apparition": "2026-10-15"
   },
   {
+    "point": "28/10 :: europe :: mkt-n :: BCE Conseil des Gouverneurs Jour 1",
+    "premiere_apparition": "2026-10-17"
+  },
+  {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
     "premiere_apparition": "2026-09-21"
   },
@@ -284,10 +224,6 @@
     "premiere_apparition": "2026-10-13"
   },
   {
-    "point": "Semaine du 05/10 :: europe :: corp :: Résultats semestriels Exail Technologies",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
     "point": "21/10 :: europe :: corp :: Chiffre d'affaires T3 FDJ",
     "premiere_apparition": "2026-09-25"
   },
@@ -366,14 +302,6 @@
   {
     "point": "23/10 :: asie :: macro :: BoJ Rapport sur la stabilité financière (Oct)",
     "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "27-28/10 :: usa :: macro :: Réunion FOMC",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
-    "point": "29-30/10 :: asie :: macro :: Réunion de politique monétaire BoJ",
-    "premiere_apparition": "2026-09-25"
   },
   {
     "point": "Semaine du 28/09 :: usa :: corp :: Résultats Micron (MU)",
@@ -636,6 +564,10 @@
     "premiere_apparition": "2026-10-13"
   },
   {
+    "point": "22/10 :: usa :: corp :: Procter & Gamble Résultats T3",
+    "premiere_apparition": "2026-10-17"
+  },
+  {
     "point": "Novembre :: usa :: corp :: IPO Anthropic",
     "premiere_apparition": "2026-10-03"
   },
@@ -760,6 +692,10 @@
     "premiere_apparition": "2026-10-15"
   },
   {
+    "point": "06/11 :: usa :: macro :: Rapport Emploi Non-Agricole Octobre",
+    "premiere_apparition": "2026-10-17"
+  },
+  {
     "point": "27/10-28/10 :: usa :: mkt-n :: Réunion FOMC / Décision taux Fed",
     "premiere_apparition": "2026-10-10"
   },
@@ -830,5 +766,9 @@
   {
     "point": "13/11 :: usa :: macro :: Inflation PPI US (Oct)",
     "premiere_apparition": "2026-10-16"
+  },
+  {
+    "point": "31/10 :: global :: geo :: G20 Réunion Ministres Affaires Étrangères Jour 2",
+    "premiere_apparition": "2026-10-17"
   }
 ]
