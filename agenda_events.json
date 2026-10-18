@@ -148,6 +148,14 @@
     "premiere_apparition": "2026-10-17"
   },
   {
+    "point": "28/10 :: usa :: mkt-n :: Réunion FOMC (décision taux)",
+    "premiere_apparition": "2026-10-18"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: Publication résultats KLA Corporation",
+    "premiere_apparition": "2026-10-18"
+  },
+  {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
     "premiere_apparition": "2026-09-21"
   },
@@ -234,6 +242,10 @@
   {
     "point": "29/10 :: usa :: macro :: Revenu et Dépenses Personnels (Sep)",
     "premiere_apparition": "2026-10-17"
+  },
+  {
+    "point": "29/10 :: europe :: mkt-n :: Réunion BCE (décision taux)",
+    "premiere_apparition": "2026-10-18"
   },
   {
     "point": "21/10 :: europe :: corp :: Chiffre d'affaires T3 FDJ",
@@ -438,18 +450,6 @@
   {
     "point": "19/10 :: europe :: corp :: Résultats entreprises européennes",
     "premiere_apparition": "2026-10-16"
-  },
-  {
-    "point": "17/10 :: global :: geo :: Plénière IMFC Annuelles FMI/BM",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "17/10 :: global :: geo :: Plénière IMFC FMI/Banque Mondiale",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "17/10 :: global :: geo :: FMI-Banque Mondiale Comité Monétaire International",
-    "premiere_apparition": "2026-10-13"
   },
   {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
@@ -666,6 +666,14 @@
   {
     "point": "05/11 :: europe :: mkt-n :: Conférence Marchés Monétaires BCE",
     "premiere_apparition": "2026-10-17"
+  },
+  {
+    "point": "05/11 :: europe :: mkt-n :: Réunion Banque d'Angleterre (décision taux)",
+    "premiere_apparition": "2026-10-18"
+  },
+  {
+    "point": "05/11 :: asie :: tech :: GGX Finance Summit (transition finance, IA)",
+    "premiere_apparition": "2026-10-18"
   },
   {
     "point": "25/10 :: global :: geo :: Élection présidentielle Brésil second tour",
