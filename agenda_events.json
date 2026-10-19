@@ -20,10 +20,6 @@
     "premiere_apparition": "2026-10-13"
   },
   {
-    "point": "18/10 :: global :: geo :: Fin Réunions Annuelles FMI/BM",
-    "premiere_apparition": "2026-09-17"
-  },
-  {
     "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
     "premiere_apparition": "2026-09-21"
   },
@@ -62,6 +58,42 @@
   {
     "point": "20/10 :: usa :: macro :: Rapport Emploi et Chômage États (Sep)",
     "premiere_apparition": "2026-10-17"
+  },
+  {
+    "point": "20/10 :: europe :: corp :: EssilorLuxottica Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "20/10 :: europe :: corp :: Michelin Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "20/10 :: europe :: corp :: OVH Groupe Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "20/10 :: europe :: corp :: VusionGroup Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "20/10 :: europe :: corp :: Vivendi Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "20/10 :: usa :: macro :: Mises en chantier & Permis de construire (Sept)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "20/10 :: europe :: macro :: Comptes courants Eurozone (Août)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "20/10 :: europe :: macro :: Indice ZEW climat économique (Octobre)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "20/10 :: uk :: macro :: Taux de chômage UK (Septembre)",
+    "premiere_apparition": "2026-10-19"
   },
   {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
@@ -154,6 +186,30 @@
   {
     "point": "28/10 :: usa :: corp :: Publication résultats KLA Corporation",
     "premiere_apparition": "2026-10-18"
+  },
+  {
+    "point": "28/10 :: usa :: macro :: Wholesale Inventories (Sept P)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: Philip Morris International Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: Thermo Fisher Scientific Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: Texas Instruments Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: IBM Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "28/10 :: usa :: corp :: Abbott Laboratories Résultats T3",
+    "premiere_apparition": "2026-10-19"
   },
   {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
@@ -252,6 +308,18 @@
     "premiere_apparition": "2026-10-18"
   },
   {
+    "point": "29/10 :: usa :: macro :: Personal Income & Spending (Septembre)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "29/10 :: asie :: macro :: Japon Taux de chômage (Septembre)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "29/10 :: asie :: macro :: Japon Production industrielle (Sept P)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
     "point": "21/10 :: europe :: corp :: Chiffre d'affaires T3 FDJ",
     "premiere_apparition": "2026-09-25"
   },
@@ -308,6 +376,10 @@
     "premiere_apparition": "2026-10-16"
   },
   {
+    "point": "21/10 :: europe :: geo :: BCE Présidente Lagarde Intervention",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
     "premiere_apparition": "2026-09-25"
   },
@@ -330,6 +402,30 @@
   {
     "point": "23/10 :: asie :: macro :: BoJ Rapport sur la stabilité financière (Oct)",
     "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "23/10 :: europe :: corp :: Sodexo Résultats annuels",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "23/10 :: europe :: corp :: Planisware Chiffre d'affaires T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "23/10 :: europe :: corp :: Maisons du Monde Chiffre d'affaires T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "23/10 :: europe :: corp :: Gaztransport Technigaz Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "23/10 :: usa :: macro :: Confiance consommateurs U. Michigan (Octobre)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "23/10 :: europe :: macro :: Indices PMI manufacturier/services (Octobre)",
+    "premiere_apparition": "2026-10-19"
   },
   {
     "point": "Semaine du 28/09 :: usa :: corp :: Résultats Micron (MU)",
@@ -456,6 +552,34 @@
     "premiere_apparition": "2026-10-16"
   },
   {
+    "point": "19/10 :: europe :: corp :: Virbac SA Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "19/10 :: europe :: corp :: Mon Courtier Energie Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "19/10 :: europe :: corp :: European Medical Solutions Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "19/10 :: europe :: corp :: Egide Résultats S1",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "19/10 :: europe :: corp :: Freelance.com Résultats S1",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "19/10 :: europe :: corp :: Diagnostic Medical Systems Résultats T3",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "19/10 :: asie :: macro :: Chine Ventes de Détail (Septembre)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
     "premiere_apparition": "2026-09-30"
   },
@@ -510,6 +634,26 @@
   {
     "point": "27/10 :: usa :: corp :: Résultats trimestriels Visa",
     "premiere_apparition": "2026-10-15"
+  },
+  {
+    "point": "27/10 :: usa :: macro :: Durable Goods Orders (Sept P)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "27/10 :: usa :: macro :: S&P/Case-Shiller Home Price Index (Août)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "27/10 :: usa :: macro :: Confiance des consommateurs (Octobre)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "27/10 :: usa :: macro :: New Home Sales (Septembre)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "27/10 :: usa :: tech :: Richmond Fed Manufacturing Index (Octobre)",
+    "premiere_apparition": "2026-10-19"
   },
   {
     "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
@@ -582,6 +726,18 @@
   {
     "point": "22/10 :: usa :: corp :: Procter & Gamble Résultats T3",
     "premiere_apparition": "2026-10-17"
+  },
+  {
+    "point": "22/10 :: usa :: macro :: Leading Indicators (Septembre)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "22/10 :: asie :: macro :: Inflation CPI Japon (Septembre)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "22/10 :: europe :: macro :: Climat des affaires France (Octobre)",
+    "premiere_apparition": "2026-10-19"
   },
   {
     "point": "Novembre :: usa :: corp :: IPO Anthropic",
@@ -834,5 +990,9 @@
   {
     "point": "30/10 - 31/10 :: usa :: geo :: G20 Foreign Ministers Meeting",
     "premiere_apparition": "2026-10-18"
+  },
+  {
+    "point": "26/10 :: asie :: macro :: Japon Leading Indicators (Août F)",
+    "premiere_apparition": "2026-10-19"
   }
 ]
