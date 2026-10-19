@@ -96,6 +96,10 @@
     "premiere_apparition": "2026-10-19"
   },
   {
+    "point": "20/10 :: europe :: macro :: ZEW Sentiment Économique Allemagne",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
     "premiere_apparition": "2026-09-21"
   },
@@ -425,6 +429,14 @@
   },
   {
     "point": "23/10 :: europe :: macro :: Indices PMI manufacturier/services (Octobre)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "23/10 :: europe :: macro :: PMI Flash Zone Euro",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "23/10 :: usa :: macro :: PMI Flash États-Unis",
     "premiere_apparition": "2026-10-19"
   },
   {
@@ -840,6 +852,10 @@
     "premiere_apparition": "2026-10-18"
   },
   {
+    "point": "05/11 :: usa :: macro :: Inscriptions hebdomadaires chômage US",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
     "point": "25/10 :: global :: geo :: Élection présidentielle Brésil second tour",
     "premiere_apparition": "2026-10-05"
   },
@@ -932,6 +948,10 @@
     "premiere_apparition": "2026-10-13"
   },
   {
+    "point": "10/11 :: europe :: geo :: Forum de Paris sur la paix",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
     "point": "27/10 - 28/10 :: usa :: macro :: Réunion FOMC Décision Taux Fed",
     "premiere_apparition": "2026-10-13"
   },
@@ -993,6 +1013,14 @@
   },
   {
     "point": "26/10 :: asie :: macro :: Japon Leading Indicators (Août F)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "11/11 :: europe :: geo :: Forum de Paris sur la paix (fin)",
+    "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "Mi-novembre :: asie :: geo :: Sommet APEC (proposition Sommet Ukraine)",
     "premiere_apparition": "2026-10-19"
   }
 ]
