@@ -324,6 +324,10 @@
     "premiere_apparition": "2026-10-19"
   },
   {
+    "point": "29/10 :: usa :: macro :: PIB USA (estimation avancée T3)",
+    "premiere_apparition": "2026-10-20"
+  },
+  {
     "point": "21/10 :: europe :: corp :: Chiffre d'affaires T3 FDJ",
     "premiere_apparition": "2026-09-25"
   },
@@ -440,46 +444,6 @@
     "premiere_apparition": "2026-10-19"
   },
   {
-    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Micron (MU)",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Nike (NKE)",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Accenture (ACN)",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Jabil (JBL)",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "Semaine du 28/09 :: usa :: corp :: Résultats FactSet (FDS)",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Conagra Brands (CAG)",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "Semaine du 28/09 :: usa :: corp :: Résultats McCormick (MKC)",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "Semaine du 28/09 :: usa :: corp :: Résultats Cal-Maine Foods (CALM)",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "Semaine du 28/09 :: global :: geo :: Reprise pourparlers US-Iran",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "05/10-06/10 :: europe :: mkt-n :: Conférence Politique Monétaire BCE",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
     "point": "30/10 :: asie :: macro :: Décision taux Banque du Japon",
     "premiere_apparition": "2026-09-28"
   },
@@ -532,64 +496,8 @@
     "premiere_apparition": "2026-10-13"
   },
   {
-    "point": "07/10 - 09/10 :: asie :: tech, ai :: Sommet Asie Milken Institute",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
-    "point": "19/10 - 22/10 :: global :: tech, ai :: Sommet Mondial IA et Digital",
-    "premiere_apparition": "2026-09-28"
-  },
-  {
     "point": "Semaine du 12/10 :: usa :: corp :: Début saison résultats T3 US",
     "premiere_apparition": "2026-09-29"
-  },
-  {
-    "point": "19/10 :: global :: ai :: Sommet mondial IA et numérique",
-    "premiere_apparition": "2026-09-29"
-  },
-  {
-    "point": "19/10 :: europe :: tech :: Oslo Innovation Week",
-    "premiere_apparition": "2026-10-02"
-  },
-  {
-    "point": "19/10 :: france :: mkt-n :: Adjudication BTF France",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "19/10 :: asie :: macro :: Publication PIB Chine T3",
-    "premiere_apparition": "2026-10-08"
-  },
-  {
-    "point": "19/10 :: europe :: corp :: Résultats entreprises européennes",
-    "premiere_apparition": "2026-10-16"
-  },
-  {
-    "point": "19/10 :: europe :: corp :: Virbac SA Résultats T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "19/10 :: europe :: corp :: Mon Courtier Energie Résultats T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "19/10 :: europe :: corp :: European Medical Solutions Résultats T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "19/10 :: europe :: corp :: Egide Résultats S1",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "19/10 :: europe :: corp :: Freelance.com Résultats S1",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "19/10 :: europe :: corp :: Diagnostic Medical Systems Résultats T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "19/10 :: asie :: macro :: Chine Ventes de Détail (Septembre)",
-    "premiere_apparition": "2026-10-19"
   },
   {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
@@ -912,6 +820,10 @@
     "premiere_apparition": "2026-10-17"
   },
   {
+    "point": "06/11 :: usa :: macro :: Rapport sur l'emploi USA (Oct)",
+    "premiere_apparition": "2026-10-20"
+  },
+  {
     "point": "27/10-28/10 :: usa :: mkt-n :: Réunion FOMC / Décision taux Fed",
     "premiere_apparition": "2026-10-10"
   },
@@ -950,6 +862,10 @@
   {
     "point": "10/11 :: europe :: geo :: Forum de Paris sur la paix",
     "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "10/11 :: usa :: macro :: Indice des prix à la consommation USA (Oct)",
+    "premiere_apparition": "2026-10-20"
   },
   {
     "point": "27/10 - 28/10 :: usa :: macro :: Réunion FOMC Décision Taux Fed",
