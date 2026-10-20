@@ -100,6 +100,22 @@
     "premiere_apparition": "2026-10-19"
   },
   {
+    "point": "20/10 :: europe :: macro :: Prix Production Allemagne Sept.",
+    "premiere_apparition": "2026-10-20"
+  },
+  {
+    "point": "20/10 :: europe :: macro :: Indice ZEW Sentiment Octobre",
+    "premiere_apparition": "2026-10-20"
+  },
+  {
+    "point": "20/10 :: usa :: corp :: SpaceX Résultats T3",
+    "premiere_apparition": "2026-10-20"
+  },
+  {
+    "point": "20/10 :: usa :: macro :: Publication \"Beige Book\" Fed",
+    "premiere_apparition": "2026-10-20"
+  },
+  {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
     "premiere_apparition": "2026-09-21"
   },
@@ -386,6 +402,10 @@
   {
     "point": "21/10 :: europe :: geo :: BCE Présidente Lagarde Intervention",
     "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "21/10 :: usa :: corp :: Lam Research Résultats T1",
+    "premiere_apparition": "2026-10-20"
   },
   {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
@@ -716,6 +736,10 @@
     "premiere_apparition": "2026-10-17"
   },
   {
+    "point": "04/11 :: usa :: macro :: Publication Inflation PCE Sept.",
+    "premiere_apparition": "2026-10-20"
+  },
+  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -821,6 +845,10 @@
   },
   {
     "point": "06/11 :: usa :: macro :: Rapport sur l'emploi USA (Oct)",
+    "premiere_apparition": "2026-10-20"
+  },
+  {
+    "point": "06/11 :: usa :: macro :: Rapport Emploi NFP Oct.",
     "premiere_apparition": "2026-10-20"
   },
   {
