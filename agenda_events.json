@@ -20,100 +20,8 @@
     "premiere_apparition": "2026-10-13"
   },
   {
-    "point": "20/10 :: europe :: macro :: Publication PIB Eurozone (Q2)",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "20/10 :: asie :: macro :: Publication PIB Chine T3",
-    "premiere_apparition": "2026-09-29"
-  },
-  {
-    "point": "20/10 :: usa :: corp :: Netflix Résultats T3",
-    "premiere_apparition": "2026-10-07"
-  },
-  {
-    "point": "20/10 :: usa :: corp :: Résultats Tesla (TSLA)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "20/10 :: usa :: corp :: Résultats RTX Corporation (RTX)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "20/10 :: europe :: macro :: Discours Mills sur Marchés Capitaux",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "20/10 :: europe :: macro :: Speech Greene LSE Economics",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "20/10 :: asie :: geo :: APEC Réunion Ministres Finances",
-    "premiere_apparition": "2026-10-15"
-  },
-  {
-    "point": "20/10 :: usa :: corp :: General Motors Résultats T3",
-    "premiere_apparition": "2026-10-17"
-  },
-  {
-    "point": "20/10 :: usa :: macro :: Rapport Emploi et Chômage États (Sep)",
-    "premiere_apparition": "2026-10-17"
-  },
-  {
-    "point": "20/10 :: europe :: corp :: EssilorLuxottica Résultats T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "20/10 :: europe :: corp :: Michelin Résultats T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "20/10 :: europe :: corp :: OVH Groupe Résultats T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "20/10 :: europe :: corp :: VusionGroup Résultats T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "20/10 :: europe :: corp :: Vivendi Résultats T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "20/10 :: usa :: macro :: Mises en chantier & Permis de construire (Sept)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "20/10 :: europe :: macro :: Comptes courants Eurozone (Août)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "20/10 :: europe :: macro :: Indice ZEW climat économique (Octobre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "20/10 :: uk :: macro :: Taux de chômage UK (Septembre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "20/10 :: europe :: macro :: ZEW Sentiment Économique Allemagne",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "20/10 :: europe :: macro :: Prix Production Allemagne Sept.",
-    "premiere_apparition": "2026-10-20"
-  },
-  {
-    "point": "20/10 :: europe :: macro :: Indice ZEW Sentiment Octobre",
-    "premiere_apparition": "2026-10-20"
-  },
-  {
-    "point": "20/10 :: usa :: corp :: SpaceX Résultats T3",
-    "premiere_apparition": "2026-10-20"
-  },
-  {
-    "point": "20/10 :: usa :: macro :: Publication \"Beige Book\" Fed",
-    "premiere_apparition": "2026-10-20"
+    "point": "03/11 :: europe :: mkt-n :: Future of Health Europe",
+    "premiere_apparition": "2026-10-21"
   },
   {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
@@ -232,6 +140,14 @@
     "premiere_apparition": "2026-10-19"
   },
   {
+    "point": "28/10 :: usa :: tech :: Space Economy Summit",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "28/10 :: usa :: mkt-n :: Antitrust Summit US",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
     "premiere_apparition": "2026-09-21"
   },
@@ -342,6 +258,10 @@
   {
     "point": "29/10 :: usa :: macro :: PIB USA (estimation avancée T3)",
     "premiere_apparition": "2026-10-20"
+  },
+  {
+    "point": "29/10 :: europe :: geo :: Conseil Transport Energie",
+    "premiere_apparition": "2026-10-21"
   },
   {
     "point": "21/10 :: europe :: corp :: Chiffre d'affaires T3 FDJ",
@@ -516,10 +436,6 @@
     "premiere_apparition": "2026-10-13"
   },
   {
-    "point": "Semaine du 12/10 :: usa :: corp :: Début saison résultats T3 US",
-    "premiere_apparition": "2026-09-29"
-  },
-  {
     "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
     "premiere_apparition": "2026-09-30"
   },
@@ -680,6 +596,10 @@
     "premiere_apparition": "2026-10-19"
   },
   {
+    "point": "22/10 :: europe :: geo :: Réunion informelle ministres Commerce",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
     "point": "Novembre :: usa :: corp :: IPO Anthropic",
     "premiere_apparition": "2026-10-03"
   },
@@ -740,6 +660,18 @@
     "premiere_apparition": "2026-10-20"
   },
   {
+    "point": "04/11 :: europe :: mkt-n :: AI in Health Summit",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "04/11 :: europe :: mkt-n :: Cardiovascular Health Summit",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "04/11 :: usa :: corp :: Résultats Goodyear",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -786,6 +718,14 @@
   {
     "point": "05/11 :: usa :: macro :: Inscriptions hebdomadaires chômage US",
     "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "05/11 :: usa :: corp :: Résultats Parker Hannifin",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "05/11 :: global :: tech :: Webinar Réduire dépendance eau IA",
+    "premiere_apparition": "2026-10-21"
   },
   {
     "point": "25/10 :: global :: geo :: Élection présidentielle Brésil second tour",
@@ -896,6 +836,10 @@
     "premiere_apparition": "2026-10-20"
   },
   {
+    "point": "10/11 :: usa :: macro :: Rapport IPC Octobre",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
     "point": "27/10 - 28/10 :: usa :: macro :: Réunion FOMC Décision Taux Fed",
     "premiere_apparition": "2026-10-13"
   },
@@ -958,6 +902,10 @@
   {
     "point": "26/10 :: asie :: macro :: Japon Leading Indicators (Août F)",
     "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "26/10 :: europe :: geo :: Conseil Agriculture et Pêche",
+    "premiere_apparition": "2026-10-21"
   },
   {
     "point": "11/11 :: europe :: geo :: Forum de Paris sur la paix (fin)",
