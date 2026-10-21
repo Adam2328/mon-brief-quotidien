@@ -328,6 +328,22 @@
     "premiere_apparition": "2026-10-20"
   },
   {
+    "point": "21/10 :: europe :: corp :: Bureau Veritas publication Q3",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "21/10 :: europe :: corp :: Carrefour publication Q3",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "21/10 :: europe :: corp :: Klépierre publication Q3",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "21/10 :: europe :: corp :: Edenred publication Q3",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
     "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
     "premiere_apparition": "2026-09-25"
   },
@@ -914,5 +930,25 @@
   {
     "point": "Mi-novembre :: asie :: geo :: Sommet APEC (proposition Sommet Ukraine)",
     "premiere_apparition": "2026-10-19"
+  },
+  {
+    "point": "Semaine du 02/11 :: usa :: corp :: Block Inc. résultats",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "Semaine du 02/11 :: usa :: tech :: Meta Platforms résultats",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "17/11 :: asie :: global :: Début APEC CEO Summit",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "18/11 :: usa :: mkt-n :: Publication minutes réunion FOMC",
+    "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "18/11 :: asie :: global :: Début APEC Sommet Leaders",
+    "premiere_apparition": "2026-10-21"
   }
 ]
