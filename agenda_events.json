@@ -24,6 +24,10 @@
     "premiere_apparition": "2026-10-21"
   },
   {
+    "point": "03/11 :: usa :: macro :: Rapport JOLTS ouvertures postes",
+    "premiere_apparition": "2026-10-22"
+  },
+  {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
     "premiere_apparition": "2026-09-21"
   },
@@ -261,86 +265,6 @@
   },
   {
     "point": "29/10 :: europe :: geo :: Conseil Transport Energie",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "21/10 :: europe :: corp :: Chiffre d'affaires T3 FDJ",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
-    "point": "21/10 :: global :: geo :: Sommet mondial économie verte",
-    "premiere_apparition": "2026-09-29"
-  },
-  {
-    "point": "21/10 :: europe :: macro :: Publication Inflation CPI UK Septembre",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "21/10 :: usa :: corp :: Résultats Thermo Fisher Scientific (Q3)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "21/10 :: usa :: corp :: Résultats Danaher Corporation (Q3)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "21/10 :: usa :: corp :: Résultats AT&T Inc. (Q3)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "21/10 :: usa :: corp :: Résultats Abbott Laboratories (Q3)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "21/10 :: usa :: corp :: Résultats Moody's Corporation (Q3)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "21/10 :: usa :: macro :: Demandes Hypothèques MBA",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "21/10 :: usa :: macro :: Stocks Pétrole Brut EIA",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "21/10 :: europe :: macro :: UK CPI (inflation) data for September",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "21/10 :: canada :: macro :: Ventes au Détail Canada Août",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "21/10 :: usa :: corp :: Résultats Tesla",
-    "premiere_apparition": "2026-10-14"
-  },
-  {
-    "point": "21/10 :: usa :: corp :: Résultats Meta Platforms Q3",
-    "premiere_apparition": "2026-10-16"
-  },
-  {
-    "point": "21/10 :: europe :: geo :: BCE Présidente Lagarde Intervention",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "21/10 :: usa :: corp :: Lam Research Résultats T1",
-    "premiere_apparition": "2026-10-20"
-  },
-  {
-    "point": "21/10 :: europe :: corp :: Bureau Veritas publication Q3",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "21/10 :: europe :: corp :: Carrefour publication Q3",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "21/10 :: europe :: corp :: Klépierre publication Q3",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "21/10 :: europe :: corp :: Edenred publication Q3",
     "premiere_apparition": "2026-10-21"
   },
   {
@@ -688,6 +612,10 @@
     "premiere_apparition": "2026-10-21"
   },
   {
+    "point": "04/11 :: europe :: corp :: Selectirente publication résultats T3",
+    "premiere_apparition": "2026-10-22"
+  },
+  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -742,6 +670,10 @@
   {
     "point": "05/11 :: global :: tech :: Webinar Réduire dépendance eau IA",
     "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "05/11 :: usa :: macro :: Données productivité et coûts US",
+    "premiere_apparition": "2026-10-22"
   },
   {
     "point": "25/10 :: global :: geo :: Élection présidentielle Brésil second tour",
@@ -904,6 +836,10 @@
     "premiere_apparition": "2026-10-16"
   },
   {
+    "point": "13/11 :: usa :: macro :: Publication IPP US (prix production)",
+    "premiere_apparition": "2026-10-22"
+  },
+  {
     "point": "31/10 :: global :: geo :: G20 Réunion Ministres Affaires Étrangères Jour 2",
     "premiere_apparition": "2026-10-17"
   },
@@ -950,5 +886,9 @@
   {
     "point": "18/11 :: asie :: global :: Début APEC Sommet Leaders",
     "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "10-12/11 :: global :: mkt-n :: Salon Immobilier Investissement Abu Dhabi",
+    "premiere_apparition": "2026-10-22"
   }
 ]
