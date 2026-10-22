@@ -740,6 +740,10 @@
     "premiere_apparition": "2026-10-20"
   },
   {
+    "point": "06/11 :: global :: macro :: Mise à jour CPI OCDE",
+    "premiere_apparition": "2026-10-22"
+  },
+  {
     "point": "27/10-28/10 :: usa :: mkt-n :: Réunion FOMC / Décision taux Fed",
     "premiere_apparition": "2026-10-10"
   },
@@ -889,6 +893,10 @@
   },
   {
     "point": "10-12/11 :: global :: mkt-n :: Salon Immobilier Investissement Abu Dhabi",
+    "premiere_apparition": "2026-10-22"
+  },
+  {
+    "point": "05-06/11 :: europe :: mkt-n :: Conférence BCE Marchés Monétaires",
     "premiere_apparition": "2026-10-22"
   }
 ]
