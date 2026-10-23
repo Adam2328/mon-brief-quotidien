@@ -1,9 +1,5 @@
 [
   {
-    "point": "28/10-29/10 :: europe :: mkt-n :: Réunion BCE / Décision Taux",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
     "point": "03/11 :: usa :: geo :: Élections de mi-mandat US",
     "premiere_apparition": "2026-09-16"
   },
@@ -452,92 +448,8 @@
     "premiere_apparition": "2026-10-19"
   },
   {
-    "point": "29/10-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision Taux",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
     "point": "29/10-30/10 :: asie :: macro :: Réunion politique monétaire BoJ",
     "premiere_apparition": "2026-10-05"
-  },
-  {
-    "point": "02/10 :: corp :: Bonduelle Résultats Annuels",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
-    "point": "05/10 :: corp :: Advini Résultats Semestriels",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
-    "point": "12/10 :: corp :: Valbiotis Résultats T2",
-    "premiere_apparition": "2026-10-01"
-  },
-  {
-    "point": "22/10 :: usa :: corp :: Résultats d'entreprises (ex: Honeywell, P&G)",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
-    "point": "22/10 :: usa :: macro :: Demandes Initiales Chômage",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "22/10 :: usa :: macro :: Indice Avancé CB",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "22/10 :: usa :: macro :: Stocks Gaz Naturel EIA",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "22/10 :: france :: macro :: Climat Conjoncturel (Oct)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "22/10 :: usa :: corp :: Résultats Honeywell International (HON)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "22/10 :: europe :: corp :: Résultats Spotify Technology S.A. (SPOT)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "22/10 :: usa :: macro :: Inscriptions Chômage US",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "22/10 :: europe :: macro :: Bailey OMFIF Chat Indépendance BC",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "22/10 :: asie :: macro :: BoJ Enquête officielle prêts (Oct)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "22/10 :: asie :: macro :: BoJ Transactions financement titres (Sept)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "22/10 :: asie :: macro :: BoJ Comptes Banque du Japon (20 Oct)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "22/10 :: usa :: corp :: Procter & Gamble Résultats T3",
-    "premiere_apparition": "2026-10-17"
-  },
-  {
-    "point": "22/10 :: usa :: macro :: Leading Indicators (Septembre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "22/10 :: asie :: macro :: Inflation CPI Japon (Septembre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "22/10 :: europe :: macro :: Climat des affaires France (Octobre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "22/10 :: europe :: geo :: Réunion informelle ministres Commerce",
-    "premiere_apparition": "2026-10-21"
   },
   {
     "point": "Novembre :: usa :: corp :: IPO Anthropic",
@@ -614,6 +526,10 @@
   {
     "point": "04/11 :: europe :: corp :: Selectirente publication résultats T3",
     "premiere_apparition": "2026-10-22"
+  },
+  {
+    "point": "04/11 :: asie :: macro :: PMI Services Général Chine S&P Global (Octobre)",
+    "premiere_apparition": "2026-10-23"
   },
   {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
@@ -710,6 +626,10 @@
   {
     "point": "02/11 :: asie :: macro :: BoJ Perspectives complètes (Oct)",
     "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "02/11 :: usa :: tech :: Résultats Apple (Q3)",
+    "premiere_apparition": "2026-10-23"
   },
   {
     "point": "06/11 :: usa :: macro :: US Jobs Report (NFP) for October",
@@ -846,6 +766,10 @@
   {
     "point": "31/10 :: global :: geo :: G20 Réunion Ministres Affaires Étrangères Jour 2",
     "premiere_apparition": "2026-10-17"
+  },
+  {
+    "point": "31/10 :: asie :: macro :: Indice PMI officiel Chine (Octobre)",
+    "premiere_apparition": "2026-10-23"
   },
   {
     "point": "19/10 - 21/10 :: asie :: geo :: APEC Finance Ministers Meeting",
