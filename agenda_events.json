@@ -264,74 +264,6 @@
     "premiere_apparition": "2026-10-21"
   },
   {
-    "point": "23/10 :: europe :: corp :: Résultats T3 Ipsos",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
-    "point": "23/10 :: asie :: macro :: Japan National CPI",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
-    "point": "23/10 :: france :: macro :: Indice PMI Composite Flash (Oct)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "23/10 :: europe :: macro :: Ventes Détail & Confiance Conso UK",
-    "premiere_apparition": "2026-10-07"
-  },
-  {
-    "point": "23/10 :: asie :: macro :: BoJ Rapport Système Financier",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "23/10 :: asie :: macro :: BoJ Rapport sur la stabilité financière (Oct)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "23/10 :: europe :: corp :: Sodexo Résultats annuels",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "23/10 :: europe :: corp :: Planisware Chiffre d'affaires T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "23/10 :: europe :: corp :: Maisons du Monde Chiffre d'affaires T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "23/10 :: europe :: corp :: Gaztransport Technigaz Résultats T3",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "23/10 :: usa :: macro :: Confiance consommateurs U. Michigan (Octobre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "23/10 :: europe :: macro :: Indices PMI manufacturier/services (Octobre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "23/10 :: europe :: macro :: PMI Flash Zone Euro",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "23/10 :: usa :: macro :: PMI Flash États-Unis",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "23/10 :: europe :: corp :: Eni Résultats T3 2026",
-    "premiere_apparition": "2026-10-23"
-  },
-  {
-    "point": "23/10 :: europe :: corp :: Volvo Group Résultats T3 2026",
-    "premiere_apparition": "2026-10-23"
-  },
-  {
-    "point": "23/10 :: europe :: corp :: Intrum Résultats T3 2026",
-    "premiere_apparition": "2026-10-23"
-  },
-  {
     "point": "30/10 :: asie :: macro :: Décision taux Banque du Japon",
     "premiere_apparition": "2026-09-28"
   },
@@ -644,6 +576,10 @@
     "premiere_apparition": "2026-10-23"
   },
   {
+    "point": "02/11 :: usa :: corp :: Résultats Meta Platforms",
+    "premiere_apparition": "2026-10-24"
+  },
+  {
     "point": "06/11 :: usa :: macro :: US Jobs Report (NFP) for October",
     "premiere_apparition": "2026-10-10"
   },
@@ -688,8 +624,20 @@
     "premiere_apparition": "2026-10-12"
   },
   {
+    "point": "09/11 :: usa :: corp :: Résultats Constellation Energy",
+    "premiere_apparition": "2026-10-24"
+  },
+  {
+    "point": "09/11 :: usa :: corp :: Résultats KKR & Co.",
+    "premiere_apparition": "2026-10-24"
+  },
+  {
     "point": "01/11 :: global :: mkt-n :: Réunion OPEC+ production pétrole",
     "premiere_apparition": "2026-10-11"
+  },
+  {
+    "point": "01/11 :: usa :: global :: Economic Futures Summit",
+    "premiere_apparition": "2026-10-24"
   },
   {
     "point": "15/10 :: corp :: JPMorgan Investor Seminar (IMF)",
@@ -834,5 +782,13 @@
   {
     "point": "05-06/11 :: europe :: mkt-n :: Conférence BCE Marchés Monétaires",
     "premiere_apparition": "2026-10-22"
+  },
+  {
+    "point": "12/11 :: usa :: corp :: Résultats Applied Materials",
+    "premiere_apparition": "2026-10-24"
+  },
+  {
+    "point": "14/11 :: global :: global :: Global Business Summit Jakarta",
+    "premiere_apparition": "2026-10-24"
   }
 ]
