@@ -396,10 +396,6 @@
     "premiere_apparition": "2026-10-05"
   },
   {
-    "point": "Novembre :: usa :: corp :: IPO Anthropic",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
     "point": "Semaine du 19/10 :: global :: corp :: Saison Résultats Entreprises (Semaine 4)",
     "premiere_apparition": "2026-10-04"
   },
@@ -766,6 +762,10 @@
   {
     "point": "17/11 :: asie :: global :: Début APEC CEO Summit",
     "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "17/11 :: global :: geo :: Sommet PDG APEC Shenzhen",
+    "premiere_apparition": "2026-10-25"
   },
   {
     "point": "18/11 :: usa :: mkt-n :: Publication minutes réunion FOMC",
