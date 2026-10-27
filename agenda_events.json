@@ -28,6 +28,10 @@
     "premiere_apparition": "2026-10-26"
   },
   {
+    "point": "03/11 :: usa :: corp :: Résultats Compass Pathways",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
     "point": "28/10 :: usa :: mkt-n :: FOMC Décision Taux Intérêt",
     "premiere_apparition": "2026-09-21"
   },
@@ -432,8 +436,12 @@
     "premiere_apparition": "2026-10-26"
   },
   {
-    "point": "29/10-30/10 :: asie :: macro :: Réunion politique monétaire BoJ",
-    "premiere_apparition": "2026-10-05"
+    "point": "27/10 :: usa :: macro :: Commandes biens durables confiance conso ventes logements neufs",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
+    "point": "27/10 :: europe :: macro :: Enquête BCE conditions crédit bancaire",
+    "premiere_apparition": "2026-10-27"
   },
   {
     "point": "04/11 :: europe :: macro :: Riksbank Décision Taux",
@@ -512,6 +520,10 @@
     "premiere_apparition": "2026-10-26"
   },
   {
+    "point": "04/11 :: usa :: geo :: Economic Summit Maryland",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -580,10 +592,6 @@
     "premiere_apparition": "2026-10-26"
   },
   {
-    "point": "30/10-31/10 :: global :: geo :: Réunion ministres Affaires étrangères G20",
-    "premiere_apparition": "2026-10-05"
-  },
-  {
     "point": "29/11 :: europe :: geo :: Élections anticipées Espagne",
     "premiere_apparition": "2026-10-05"
   },
@@ -618,6 +626,10 @@
   {
     "point": "02/11 :: europe :: corp :: Chiffre d'affaires T3 Forvia",
     "premiere_apparition": "2026-10-26"
+  },
+  {
+    "point": "02/11 :: usa :: corp :: Résultats Apple, Palantir, AMD",
+    "premiere_apparition": "2026-10-27"
   },
   {
     "point": "06/11 :: usa :: macro :: US Jobs Report (NFP) for October",
@@ -720,6 +732,10 @@
     "premiere_apparition": "2026-10-21"
   },
   {
+    "point": "10/11 :: usa :: macro :: Indice Prix Consommation US (CPI) (Oct)",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
     "point": "27/10 - 28/10 :: usa :: macro :: Réunion FOMC Décision Taux Fed",
     "premiere_apparition": "2026-10-13"
   },
@@ -776,6 +792,10 @@
     "premiere_apparition": "2026-10-26"
   },
   {
+    "point": "13/11 :: usa :: macro :: Indice Prix Production US (PPI) (Oct)",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
     "point": "31/10 :: global :: geo :: G20 Réunion Ministres Affaires Étrangères Jour 2",
     "premiere_apparition": "2026-10-17"
   },
@@ -790,18 +810,6 @@
   {
     "point": "30/10 - 31/10 :: usa :: geo :: G20 Foreign Ministers Meeting",
     "premiere_apparition": "2026-10-18"
-  },
-  {
-    "point": "26/10 :: asie :: macro :: Japon Leading Indicators (Août F)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "26/10 :: europe :: geo :: Conseil Agriculture et Pêche",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "26/10 :: global :: corp :: Résultats Lumibird, SergeFerrari, Verimatrix, Charwood Energy",
-    "premiere_apparition": "2026-10-26"
   },
   {
     "point": "11/11 :: europe :: geo :: Forum de Paris sur la paix (fin)",
@@ -838,6 +846,10 @@
   {
     "point": "18/11 :: europe :: macro :: Inflation HICP Complète Zone Euro Oct",
     "premiere_apparition": "2026-10-26"
+  },
+  {
+    "point": "18/11 :: europe :: macro :: HICP Final Zone Euro (Oct)",
+    "premiere_apparition": "2026-10-27"
   },
   {
     "point": "10-12/11 :: global :: mkt-n :: Salon Immobilier Investissement Abu Dhabi",
@@ -878,5 +890,33 @@
   {
     "point": "18-19/11 :: asie :: geo :: Sommet des Leaders Économiques APEC",
     "premiere_apparition": "2026-10-26"
+  },
+  {
+    "point": "27-28/10 :: usa :: mkt-n :: Réunion FOMC / Décision taux Fed",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
+    "point": "28-29/10 :: europe :: mkt-n :: Réunion BCE / Décision taux",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
+    "point": "29-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision taux",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
+    "point": "Fin Octobre :: usa :: corp :: Résultats Amazon, Alphabet, Microsoft",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
+    "point": "01-03/11 :: usa :: geo :: Economic Futures Summit San Francisco",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
+    "point": "Semaine du 09/11 :: global :: tech :: Anthropic IPO Roadshow",
+    "premiere_apparition": "2026-10-27"
+  },
+  {
+    "point": "Semaine du 16/11 :: global :: tech :: Anthropic IPO cotation potentielle",
+    "premiere_apparition": "2026-10-27"
   }
 ]
