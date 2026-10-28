@@ -348,102 +348,6 @@
     "premiere_apparition": "2026-10-26"
   },
   {
-    "point": "27/10 :: usa :: corp :: Résultats S&P Global Q3",
-    "premiere_apparition": "2026-09-30"
-  },
-  {
-    "point": "27/10 :: usa :: macro :: Réunion FOMC / Décision taux Fed",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
-    "point": "27/10 :: usa :: macro :: Publication Services Producer Price Index US (Septembre)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "27/10 :: usa :: macro :: Début réunion FOMC (Jour 1)",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "27/10 :: japon :: macro :: Services PPI septembre",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "27/10 :: europe :: corp :: Résultats Trimestriels HSBC",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "27/10 :: usa :: corp :: Microsoft Résultats T3",
-    "premiere_apparition": "2026-10-07"
-  },
-  {
-    "point": "27/10 :: usa :: corp :: Résultats Alphabet Inc. Q3",
-    "premiere_apparition": "2026-10-08"
-  },
-  {
-    "point": "27/10 :: usa :: corp :: Résultats PayPal Holdings (PYPL)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "27/10 :: usa :: corp :: Résultats Boeing Company (BA)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "27/10 :: europe :: tech :: Date limite appel BCE Euro Numérique",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "27/10 :: asie :: macro :: BoJ Indice prix production services (Sept)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "27/10 :: asie :: macro :: BoJ Indicateurs Core CPI",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "27/10 :: usa :: corp :: Résultats trimestriels Visa",
-    "premiere_apparition": "2026-10-15"
-  },
-  {
-    "point": "27/10 :: usa :: macro :: Durable Goods Orders (Sept P)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "27/10 :: usa :: macro :: S&P/Case-Shiller Home Price Index (Août)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "27/10 :: usa :: macro :: Confiance des consommateurs (Octobre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "27/10 :: usa :: macro :: New Home Sales (Septembre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "27/10 :: usa :: tech :: Richmond Fed Manufacturing Index (Octobre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "27/10 :: europe :: corp :: Résultats Verallia T3",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "27/10 :: europe :: corp :: Chiffre d'affaires T3 Alten",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "27/10 :: europe :: corp :: Chiffre d'affaires T3 Linedata Services",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "27/10 :: usa :: macro :: Commandes biens durables confiance conso ventes logements neufs",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
-    "point": "27/10 :: europe :: macro :: Enquête BCE conditions crédit bancaire",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
     "point": "04/11 :: europe :: macro :: Riksbank Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -826,6 +730,10 @@
   {
     "point": "Semaine du 02/11 :: usa :: tech :: Meta Platforms résultats",
     "premiere_apparition": "2026-10-21"
+  },
+  {
+    "point": "Semaine du 02/11 :: usa :: corp :: Résultats d'entreprises Tech Majeures",
+    "premiere_apparition": "2026-10-28"
   },
   {
     "point": "17/11 :: asie :: global :: Début APEC CEO Summit",
