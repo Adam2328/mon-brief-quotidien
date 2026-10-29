@@ -56,6 +56,10 @@
     "premiere_apparition": "2026-10-29"
   },
   {
+    "point": "03/11 :: europe :: macro :: Prévisions d'inflation Belgique",
+    "premiere_apparition": "2026-10-29"
+  },
+  {
     "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
     "premiere_apparition": "2026-09-21"
   },
@@ -756,6 +760,10 @@
     "premiere_apparition": "2026-10-29"
   },
   {
+    "point": "18/11 :: europe :: macro :: Publication inflation CPI Royaume-Uni",
+    "premiere_apparition": "2026-10-29"
+  },
+  {
     "point": "10-12/11 :: global :: mkt-n :: Salon Immobilier Investissement Abu Dhabi",
     "premiere_apparition": "2026-10-22"
   },
@@ -845,6 +853,10 @@
   },
   {
     "point": "Semaine du 16/11 :: usa :: corp :: Résultats Copart (CPRT)",
+    "premiere_apparition": "2026-10-29"
+  },
+  {
+    "point": "13-14/11 :: global :: geo, mkt-n, tech :: World Strategic Forum Miami",
     "premiere_apparition": "2026-10-29"
   }
 ]
