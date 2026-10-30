@@ -60,140 +60,8 @@
     "premiere_apparition": "2026-10-29"
   },
   {
-    "point": "29/10 :: asie :: mkt-n :: BoJ Décision Politique Monétaire",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: Publication PIB US (Q3, Avance)",
-    "premiere_apparition": "2026-09-21"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: Revenus et dépenses des ménages US (septembre)",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
-    "point": "29/10 :: europe :: macro :: Décision de taux BCE",
-    "premiere_apparition": "2026-09-25"
-  },
-  {
-    "point": "29/10 :: europe :: macro :: Publication PIB Eurozone (T3, est. Flash)",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
-    "point": "29/10 :: asie :: macro :: Réunion Banque du Japon",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
-    "point": "29/10 :: europe :: macro :: Eurozone Preliminary GDP Q3",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
-    "point": "29/10 :: asie :: macro :: Début réunion BoJ (Jour 1)",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "29/10 :: global :: geo :: Sommet Canada-UE (Jour 1)",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "29/10 :: global :: geo :: Sommet Russie-Afrique (Jour 2)",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: Indice des Prix PCE US (Sept)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "29/10 :: usa :: corp :: Résultats Amazon.com (AMZN)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "29/10 :: usa :: corp :: Résultats Coinbase Global (COIN)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "29/10 :: usa :: tech :: Résultats Cloudflare (NET)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "29/10 :: europe :: mkt-n :: BCE meeting and interest rate decision",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: US GDP Q3 Advance Estimate",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: Revenus Personnels US Septembre",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: Coût de l'Emploi US T3",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: Inscriptions Chômage US",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "29/10 :: asie :: macro :: BoJ Perspectives activité économique et prix",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: PIB (Est. Avance) T3 2026",
-    "premiere_apparition": "2026-10-17"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: Revenu et Dépenses Personnels (Sep)",
-    "premiere_apparition": "2026-10-17"
-  },
-  {
-    "point": "29/10 :: europe :: mkt-n :: Réunion BCE (décision taux)",
-    "premiere_apparition": "2026-10-18"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: US GDP T3 2026 Estimation Préliminaire",
-    "premiere_apparition": "2026-10-18"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: Personal Income & Spending (Septembre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "29/10 :: asie :: macro :: Japon Taux de chômage (Septembre)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "29/10 :: asie :: macro :: Japon Production industrielle (Sept P)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: PIB USA (estimation avancée T3)",
-    "premiere_apparition": "2026-10-20"
-  },
-  {
-    "point": "29/10 :: europe :: geo :: Conseil Transport Energie",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: Dépenses Mensuelles US (Sept.)",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "29/10 :: europe :: corp :: Chiffre d'affaires T3 Eutelsat Communications",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "29/10 :: europe :: corp :: Chiffre d'affaires T3 Manitou BF",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "29/10 :: usa :: macro :: Inflation PCE USA (Septembre)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "29/10 :: europe :: macro :: PIB Zone Euro T3 (Estim. Flash)",
-    "premiere_apparition": "2026-10-29"
+    "point": "03/11 :: usa :: corp :: AMD Résultats Trimestriels",
+    "premiere_apparition": "2026-10-30"
   },
   {
     "point": "30/10 :: asie :: macro :: Décision taux Banque du Japon",
@@ -524,6 +392,10 @@
     "premiere_apparition": "2026-10-29"
   },
   {
+    "point": "02/11 :: usa :: macro :: US JOLTS Job Openings",
+    "premiere_apparition": "2026-10-30"
+  },
+  {
     "point": "06/11 :: usa :: macro :: US Jobs Report (NFP) for October",
     "premiere_apparition": "2026-10-10"
   },
@@ -732,6 +604,14 @@
     "premiere_apparition": "2026-10-25"
   },
   {
+    "point": "17/11 :: usa :: corp :: Home Depot Résultats Trimestriels",
+    "premiere_apparition": "2026-10-30"
+  },
+  {
+    "point": "17/11 :: usa :: corp :: Disney Résultats Trimestriels",
+    "premiere_apparition": "2026-10-30"
+  },
+  {
     "point": "18/11 :: usa :: mkt-n :: Publication minutes réunion FOMC",
     "premiere_apparition": "2026-10-21"
   },
@@ -762,6 +642,14 @@
   {
     "point": "18/11 :: europe :: macro :: Publication inflation CPI Royaume-Uni",
     "premiere_apparition": "2026-10-29"
+  },
+  {
+    "point": "18/11 :: usa :: corp :: Cisco Systems Résultats Trimestriels",
+    "premiere_apparition": "2026-10-30"
+  },
+  {
+    "point": "18/11 :: usa :: corp :: TJX Companies Résultats Trimestriels",
+    "premiere_apparition": "2026-10-30"
   },
   {
     "point": "10-12/11 :: global :: mkt-n :: Salon Immobilier Investissement Abu Dhabi",
@@ -858,5 +746,9 @@
   {
     "point": "13-14/11 :: global :: geo, mkt-n, tech :: World Strategic Forum Miami",
     "premiere_apparition": "2026-10-29"
+  },
+  {
+    "point": "19/11 :: usa :: corp :: Walmart Résultats Trimestriels",
+    "premiere_apparition": "2026-10-30"
   }
 ]
