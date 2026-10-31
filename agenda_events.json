@@ -64,64 +64,16 @@
     "premiere_apparition": "2026-10-30"
   },
   {
-    "point": "30/10 :: asie :: macro :: Décision taux Banque du Japon",
-    "premiere_apparition": "2026-09-28"
+    "point": "03/11 :: usa :: geo :: US Midterm Elections",
+    "premiere_apparition": "2026-10-31"
   },
   {
-    "point": "30/10 :: asie :: macro :: Décision taux BoJ",
-    "premiere_apparition": "2026-09-29"
+    "point": "03/11 :: europe :: corp :: bioMérieux Résultats T3",
+    "premiere_apparition": "2026-10-31"
   },
   {
-    "point": "30/10 :: asie :: mkt-n :: BoJ Monetary Policy Statement",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
-    "point": "30/10 :: usa :: macro :: US Employment Cost Index Q3",
-    "premiere_apparition": "2026-10-03"
-  },
-  {
-    "point": "30/10 :: usa :: macro :: Publication Indice Coût Emploi US (T3)",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "30/10 :: global :: geo :: Sommet Canada-UE (Jour 2)",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "30/10 :: global :: geo :: Réunion Ministres Affaires Étrangères G20 (Jour 1)",
-    "premiere_apparition": "2026-10-06"
-  },
-  {
-    "point": "30/10 :: europe :: macro :: PIB T3 & Inflation Flash Zone Euro",
-    "premiere_apparition": "2026-10-07"
-  },
-  {
-    "point": "30/10 :: asie :: mkt-n :: Décision de politique monétaire BoJ + Rapport Perspectives",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "30/10 :: europe :: macro :: PIB Flash Eurozone Q3",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "30/10 :: global :: geo :: G20 Foreign Ministers' Meeting",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "30/10 :: europe :: macro :: Conférence BoE Croissance/Capital",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "30/10 :: asie :: macro :: BoJ Statistiques paiements et règlements (Sept)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "30/10 :: europe :: corp :: Chiffre d'affaires T3 bioMérieux",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "30/10 :: usa :: corp :: Résultats Exxonmobil (XOM)",
-    "premiere_apparition": "2026-10-29"
+    "point": "03/11 :: europe :: corp :: Rubis Résultats T3",
+    "premiere_apparition": "2026-10-31"
   },
   {
     "point": "04/11 :: europe :: macro :: Riksbank Décision Taux",
@@ -248,6 +200,18 @@
     "premiere_apparition": "2026-10-29"
   },
   {
+    "point": "04/11 :: europe :: corp :: Solvay Résultats T3",
+    "premiere_apparition": "2026-10-31"
+  },
+  {
+    "point": "04/11 :: europe :: corp :: Selectirente Chiffre d'Affaires T3",
+    "premiere_apparition": "2026-10-31"
+  },
+  {
+    "point": "04/11 :: usa :: corp :: Costco Résultats T3",
+    "premiere_apparition": "2026-10-31"
+  },
+  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -314,6 +278,26 @@
   {
     "point": "05/11 :: global :: geo :: Forum Économique CCIFC",
     "premiere_apparition": "2026-10-26"
+  },
+  {
+    "point": "05/11 :: europe :: corp :: Engie Résultats T3",
+    "premiere_apparition": "2026-10-31"
+  },
+  {
+    "point": "05/11 :: europe :: corp :: Legrand Résultats T3",
+    "premiere_apparition": "2026-10-31"
+  },
+  {
+    "point": "05/11 :: europe :: corp :: Veolia Environnement Résultats T3",
+    "premiere_apparition": "2026-10-31"
+  },
+  {
+    "point": "05/11 :: europe :: corp :: Bouygues Résultats T3",
+    "premiere_apparition": "2026-10-31"
+  },
+  {
+    "point": "05/11 :: usa :: corp :: ConocoPhillips Résultats T3",
+    "premiere_apparition": "2026-10-31"
   },
   {
     "point": "29/11 :: europe :: geo :: Élections anticipées Espagne",
@@ -396,6 +380,10 @@
     "premiere_apparition": "2026-10-30"
   },
   {
+    "point": "02/11 :: europe :: corp :: Coface Résultats T3",
+    "premiere_apparition": "2026-10-31"
+  },
+  {
     "point": "06/11 :: usa :: macro :: US Jobs Report (NFP) for October",
     "premiere_apparition": "2026-10-10"
   },
@@ -434,6 +422,10 @@
   {
     "point": "06/11 :: usa :: macro :: Mise à jour Dette Mensuelle US (Nov.)",
     "premiere_apparition": "2026-10-26"
+  },
+  {
+    "point": "06/11 :: europe :: corp :: Getlink Résultats T3",
+    "premiere_apparition": "2026-10-31"
   },
   {
     "point": "27/10-28/10 :: usa :: mkt-n :: Réunion FOMC / Décision taux Fed",
@@ -750,5 +742,9 @@
   {
     "point": "19/11 :: usa :: corp :: Walmart Résultats Trimestriels",
     "premiere_apparition": "2026-10-30"
+  },
+  {
+    "point": "08/11 :: asie :: mkt-n :: Diwali (Fermeture Marchés Singapour)",
+    "premiere_apparition": "2026-10-31"
   }
 ]
