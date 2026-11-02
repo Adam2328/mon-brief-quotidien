@@ -746,5 +746,13 @@
   {
     "point": "08/11 :: asie :: mkt-n :: Diwali (Fermeture Marchés Singapour)",
     "premiere_apparition": "2026-10-31"
+  },
+  {
+    "point": "25/11 :: europe :: mkt-n :: Réunion non-monétaire BCE",
+    "premiere_apparition": "2026-11-02"
+  },
+  {
+    "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
+    "premiere_apparition": "2026-11-02"
   }
 ]
