@@ -76,6 +76,10 @@
     "premiere_apparition": "2026-10-31"
   },
   {
+    "point": "03/11 :: europe :: corp :: Résultats Ferrari",
+    "premiere_apparition": "2026-11-02"
+  },
+  {
     "point": "04/11 :: europe :: macro :: Riksbank Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -300,6 +304,14 @@
     "premiere_apparition": "2026-10-31"
   },
   {
+    "point": "05/11 :: europe :: corp :: Résultats Deutsche Telekom",
+    "premiere_apparition": "2026-11-02"
+  },
+  {
+    "point": "05/11 :: europe :: corp :: Résultats ArcelorMittal",
+    "premiere_apparition": "2026-11-02"
+  },
+  {
     "point": "29/11 :: europe :: geo :: Élections anticipées Espagne",
     "premiere_apparition": "2026-10-05"
   },
@@ -444,14 +456,6 @@
     "premiere_apparition": "2026-10-24"
   },
   {
-    "point": "01/11 :: global :: mkt-n :: Réunion OPEC+ production pétrole",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "01/11 :: usa :: global :: Economic Futures Summit",
-    "premiere_apparition": "2026-10-24"
-  },
-  {
     "point": "15/10 :: corp :: JPMorgan Investor Seminar (IMF)",
     "premiere_apparition": "2026-10-12"
   },
@@ -548,6 +552,10 @@
     "premiere_apparition": "2026-10-27"
   },
   {
+    "point": "13/11 :: europe :: mkt-n :: Conférence Immobilier Pan-Européen Londres",
+    "premiere_apparition": "2026-11-02"
+  },
+  {
     "point": "19/10 - 21/10 :: asie :: geo :: APEC Finance Ministers Meeting",
     "premiere_apparition": "2026-10-18"
   },
@@ -642,6 +650,10 @@
   {
     "point": "12/11 :: usa :: corp :: Résultats Applied Materials",
     "premiere_apparition": "2026-10-24"
+  },
+  {
+    "point": "12/11 :: europe :: macro :: Est. Flash PIB/Emploi Zone Euro Q3",
+    "premiere_apparition": "2026-11-02"
   },
   {
     "point": "14/11 :: global :: global :: Global Business Summit Jakarta",
