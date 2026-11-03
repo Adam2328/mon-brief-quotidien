@@ -316,86 +316,6 @@
     "premiere_apparition": "2026-10-05"
   },
   {
-    "point": "02/11 :: usa :: tech :: Résultats Palantir (PLTR)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "02/11 :: usa :: tech :: Résultats ON Semiconductor (ON)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "02/11 :: europe :: mkt-n :: Journée inaugurale Paris Infraweek",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "02/11 :: asie :: macro :: BoJ Sources variations comptes courants (Oct)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "02/11 :: asie :: macro :: BoJ Perspectives complètes (Oct)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "02/11 :: usa :: tech :: Résultats Apple (Q3)",
-    "premiere_apparition": "2026-10-23"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats Meta Platforms",
-    "premiere_apparition": "2026-10-24"
-  },
-  {
-    "point": "02/11 :: europe :: corp :: Chiffre d'affaires T3 Forvia",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats Apple, Palantir, AMD",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats Marriott Intl (MAR)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats IDEXX Labs (IDXX)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats Estée Lauder (EL)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats Public Service Ent (PEG)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats Vertex Pharma (VRTX)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats Diamondback Energy (FANG)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats Clorox (CLX)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats Celanese (CE)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "02/11 :: usa :: corp :: Résultats Loews Corp (L)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "02/11 :: usa :: macro :: US JOLTS Job Openings",
-    "premiere_apparition": "2026-10-30"
-  },
-  {
-    "point": "02/11 :: europe :: corp :: Coface Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
     "point": "06/11 :: usa :: macro :: US Jobs Report (NFP) for October",
     "premiere_apparition": "2026-10-10"
   },
@@ -440,6 +360,10 @@
     "premiere_apparition": "2026-10-31"
   },
   {
+    "point": "06/11 :: usa :: macro :: US Non-Farm Payrolls Oct",
+    "premiere_apparition": "2026-11-03"
+  },
+  {
     "point": "09/11 :: usa :: corp :: Résultats trimestriels Barrick Mining",
     "premiere_apparition": "2026-10-10"
   },
@@ -454,10 +378,6 @@
   {
     "point": "09/11 :: usa :: corp :: Résultats KKR & Co.",
     "premiere_apparition": "2026-10-24"
-  },
-  {
-    "point": "15/10 :: corp :: JPMorgan Investor Seminar (IMF)",
-    "premiere_apparition": "2026-10-12"
   },
   {
     "point": "10/11 :: asie :: macro :: BoJ Résumé des Opinions",
@@ -640,6 +560,10 @@
     "premiere_apparition": "2026-10-30"
   },
   {
+    "point": "18/11 :: asie :: geo :: APEC Economic Leaders Summit",
+    "premiere_apparition": "2026-11-03"
+  },
+  {
     "point": "10-12/11 :: global :: mkt-n :: Salon Immobilier Investissement Abu Dhabi",
     "premiere_apparition": "2026-10-22"
   },
@@ -752,7 +676,15 @@
     "premiere_apparition": "2026-11-02"
   },
   {
+    "point": "25/11 :: europe :: macro :: ECB Non-Monetary Policy Meeting",
+    "premiere_apparition": "2026-11-03"
+  },
+  {
     "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
     "premiere_apparition": "2026-11-02"
+  },
+  {
+    "point": "26/11 :: europe :: macro :: ECB General Council Meeting",
+    "premiere_apparition": "2026-11-03"
   }
 ]
