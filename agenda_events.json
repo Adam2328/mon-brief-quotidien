@@ -1,85 +1,5 @@
 [
   {
-    "point": "03/11 :: usa :: geo :: Élections de mi-mandat US",
-    "premiere_apparition": "2026-09-16"
-  },
-  {
-    "point": "03/11 :: global :: mkt-n :: Décision de taux RBA",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "03/11 :: usa :: corp :: Résultats trimestriels Ball Corp",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "03/11 :: global :: macro :: Réunion de politique monétaire RBA",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "03/11 :: europe :: mkt-n :: Future of Health Europe",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "03/11 :: usa :: macro :: Rapport JOLTS ouvertures postes",
-    "premiere_apparition": "2026-10-22"
-  },
-  {
-    "point": "03/11 :: europe :: corp :: Chiffre d'affaires annuel Omer-Decugis",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "03/11 :: usa :: corp :: Résultats Compass Pathways",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
-    "point": "03/11 :: usa :: corp :: Résultats Shopify (SHOP)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "03/11 :: usa :: corp :: Résultats Pfizer (PFE)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "03/11 :: usa :: corp :: Résultats Advanced Micro Devices (AMD)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "03/11 :: usa :: corp :: Résultats Arista Networks (ANET)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "03/11 :: usa :: corp :: Résultats Booking Holdings (BKNG)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "03/11 :: usa :: corp :: Résultats Amgen (AMGN)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "03/11 :: europe :: macro :: Prévisions d'inflation Belgique",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "03/11 :: usa :: corp :: AMD Résultats Trimestriels",
-    "premiere_apparition": "2026-10-30"
-  },
-  {
-    "point": "03/11 :: usa :: geo :: US Midterm Elections",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "03/11 :: europe :: corp :: bioMérieux Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "03/11 :: europe :: corp :: Rubis Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "03/11 :: europe :: corp :: Résultats Ferrari",
-    "premiere_apparition": "2026-11-02"
-  },
-  {
     "point": "04/11 :: europe :: macro :: Riksbank Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -214,6 +134,14 @@
   {
     "point": "04/11 :: usa :: corp :: Costco Résultats T3",
     "premiere_apparition": "2026-10-31"
+  },
+  {
+    "point": "04/11 :: usa :: geo :: Élections mi-mandat US",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "04/11 :: europe :: corp :: Résultats trimestriels Jacquet Metals",
+    "premiere_apparition": "2026-11-04"
   },
   {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
@@ -364,6 +292,10 @@
     "premiere_apparition": "2026-11-03"
   },
   {
+    "point": "06/11 :: europe :: corp :: Résultats T3 Aperam",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
     "point": "09/11 :: usa :: corp :: Résultats trimestriels Barrick Mining",
     "premiere_apparition": "2026-10-10"
   },
@@ -412,35 +344,23 @@
     "premiere_apparition": "2026-10-27"
   },
   {
-    "point": "27/10 - 28/10 :: usa :: macro :: Réunion FOMC Décision Taux Fed",
-    "premiere_apparition": "2026-10-13"
+    "point": "10/11 :: asie :: macro :: Synthèse réunion BoJ Octobre",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "10/11 :: europe :: corp :: Mise à jour BKW Groupe",
+    "premiere_apparition": "2026-11-04"
   },
   {
     "point": "27/10 - 28/10 :: usa :: macro :: FOMC Meeting Décision Taux",
     "premiere_apparition": "2026-10-18"
   },
   {
-    "point": "29/10 - 30/10 :: asie :: macro :: Réunion BoJ Décision Taux",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "29/10 - 30/10 :: global :: geo :: Sommet Canada-UE Montréal",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
     "point": "29/10 - 30/10 :: asie :: macro :: Bank of Japan Monetary Meeting",
     "premiere_apparition": "2026-10-18"
   },
   {
-    "point": "04/11 - 05/11 :: europe :: mkt-n :: Future of Finance édition 2026",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
     "point": "16/11 :: europe :: mkt-n :: Financium Congrès Dirigeants Financiers",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "Semaine du 26/10 :: usa :: corp :: Pic saison résultats entreprises US (T3)",
     "premiere_apparition": "2026-10-13"
   },
   {
@@ -474,6 +394,10 @@
   {
     "point": "13/11 :: europe :: mkt-n :: Conférence Immobilier Pan-Européen Londres",
     "premiere_apparition": "2026-11-02"
+  },
+  {
+    "point": "13/11 :: europe :: mkt-n :: Conférence immobilier paneuropéen Londres",
+    "premiere_apparition": "2026-11-04"
   },
   {
     "point": "19/10 - 21/10 :: asie :: geo :: APEC Finance Ministers Meeting",
@@ -580,6 +504,10 @@
     "premiere_apparition": "2026-11-02"
   },
   {
+    "point": "12/11 :: asie :: macro :: Indice prix biens production Japon Octobre",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
     "point": "14/11 :: global :: global :: Global Business Summit Jakarta",
     "premiere_apparition": "2026-10-24"
   },
@@ -678,6 +606,14 @@
   {
     "point": "25/11 :: europe :: macro :: ECB Non-Monetary Policy Meeting",
     "premiere_apparition": "2026-11-03"
+  },
+  {
+    "point": "25/11 :: usa :: macro :: 2e estimation PIB US T3",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "25/11 :: usa :: macro :: Indice prix PCE US Octobre",
+    "premiere_apparition": "2026-11-04"
   },
   {
     "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
