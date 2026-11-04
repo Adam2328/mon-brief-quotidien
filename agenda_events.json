@@ -144,6 +144,14 @@
     "premiere_apparition": "2026-11-04"
   },
   {
+    "point": "04/11 :: afrique :: geo :: Élections municipales Afrique du Sud (vote en cours)",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "04/11 :: europe :: corp :: Résultats trimestriels BMW AG",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -240,6 +248,14 @@
     "premiere_apparition": "2026-11-02"
   },
   {
+    "point": "05/11 :: usa :: corp :: Résultats trimestriels Kimberly-Clark",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "05/11 :: usa :: corp :: Résultats trimestriels Mattel",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
     "point": "29/11 :: europe :: geo :: Élections anticipées Espagne",
     "premiere_apparition": "2026-10-05"
   },
@@ -293,6 +309,10 @@
   },
   {
     "point": "06/11 :: europe :: corp :: Résultats T3 Aperam",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "06/11 :: global :: tech :: Panel intersessions ONU Science Technologie",
     "premiere_apparition": "2026-11-04"
   },
   {
@@ -352,6 +372,14 @@
     "premiere_apparition": "2026-11-04"
   },
   {
+    "point": "10/11 :: europe :: corp :: Chiffre d'affaires ClarAnova T1",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "10/11 :: europe :: mkt-n :: Conférence Leadership et Gestion",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
     "point": "27/10 - 28/10 :: usa :: macro :: FOMC Meeting Décision Taux",
     "premiere_apparition": "2026-10-18"
   },
@@ -362,6 +390,10 @@
   {
     "point": "16/11 :: europe :: mkt-n :: Financium Congrès Dirigeants Financiers",
     "premiere_apparition": "2026-10-13"
+  },
+  {
+    "point": "16/11 :: europe :: geo :: Conférence Internationale Jeunes Leaders",
+    "premiere_apparition": "2026-11-04"
   },
   {
     "point": "12/10 - 18/10 :: global :: geo :: Réunions annuelles FMI et BM",
@@ -397,6 +429,10 @@
   },
   {
     "point": "13/11 :: europe :: mkt-n :: Conférence immobilier paneuropéen Londres",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "13/11 :: europe :: mkt-n :: Conférence Finance et Économie Commerciale",
     "premiere_apparition": "2026-11-04"
   },
   {
@@ -442,6 +478,18 @@
   {
     "point": "17/11 :: usa :: corp :: Disney Résultats Trimestriels",
     "premiere_apparition": "2026-10-30"
+  },
+  {
+    "point": "17/11 :: usa :: tech :: Résultats trimestriels NVIDIA",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "17/11 :: europe :: macro :: Chiffres emploi Royaume-Uni",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "17/11 :: usa :: macro :: Ventes au détail US",
+    "premiere_apparition": "2026-11-04"
   },
   {
     "point": "18/11 :: usa :: mkt-n :: Publication minutes réunion FOMC",
@@ -505,6 +553,14 @@
   },
   {
     "point": "12/11 :: asie :: macro :: Indice prix biens production Japon Octobre",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "12/11 :: europe :: macro :: Estimation finale PIB Eurozone T3",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "12/11 :: europe :: macro :: Publication PIB Royaume-Uni T3",
     "premiere_apparition": "2026-11-04"
   },
   {
@@ -596,8 +652,16 @@
     "premiere_apparition": "2026-10-30"
   },
   {
+    "point": "19/11 :: usa :: macro :: Publication minutes dernière réunion FOMC",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
     "point": "08/11 :: asie :: mkt-n :: Diwali (Fermeture Marchés Singapour)",
     "premiere_apparition": "2026-10-31"
+  },
+  {
+    "point": "08/11 :: afrique :: geo :: Résultats définitifs élections municipales Afrique du Sud",
+    "premiere_apparition": "2026-11-04"
   },
   {
     "point": "25/11 :: europe :: mkt-n :: Réunion non-monétaire BCE",
@@ -622,5 +686,37 @@
   {
     "point": "26/11 :: europe :: macro :: ECB General Council Meeting",
     "premiere_apparition": "2026-11-03"
+  },
+  {
+    "point": "04/11-05/11 :: global :: tech :: Réunion ONU Gouvernance des Données",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "Jusqu'au 05/11 :: europe :: ai :: Sommet Mondial sur le Futur de l'IA",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "Cette semaine :: europe :: macro :: Débats succession Présidence BCE",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "Semaine du 03/11 :: usa :: geo :: Conséquences élections mi-mandat US sur marchés",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "07/11-08/11 :: europe :: mkt-n :: Conférence World of Trading",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "11/11-12/11 :: europe :: ai :: Conférence IA, Leadership et Gestion",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "11/11-12/11 :: europe :: mkt-n :: Conférence Économie, Finance et Gestion",
+    "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "23-24/11 :: global :: geo :: Conseil commerce et développement ONU",
+    "premiere_apparition": "2026-11-04"
   }
 ]
