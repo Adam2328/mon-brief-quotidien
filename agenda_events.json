@@ -1,157 +1,5 @@
 [
   {
-    "point": "04/11 :: europe :: macro :: Riksbank Décision Taux",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "04/11 :: usa :: macro :: Revenu et Dépenses Personnelles US (Sept)",
-    "premiere_apparition": "2026-10-09"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Résultats trimestriels Circle Internet Group",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Résultats trimestriels AMH",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "04/11 :: europe :: macro :: HICP Flash Zone Euro Octobre",
-    "premiere_apparition": "2026-10-11"
-  },
-  {
-    "point": "04/11 :: asie :: macro :: BoJ Base monétaire (Oct)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "04/11 :: asie :: macro :: BoJ Comptes Banque du Japon (31 Oct)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "04/11 :: usa :: macro :: Publication Revenus et Dépenses Personnels US Septembre 2026",
-    "premiere_apparition": "2026-10-14"
-  },
-  {
-    "point": "04/11 :: europe :: macro :: Flash estimation HICP Eurozone",
-    "premiere_apparition": "2026-10-15"
-  },
-  {
-    "point": "04/11 :: europe :: macro :: Inflation Eurozone (IPC Flash Octobre)",
-    "premiere_apparition": "2026-10-16"
-  },
-  {
-    "point": "04/11 :: europe :: macro :: Flash CPI Zone Euro (Oct)",
-    "premiere_apparition": "2026-10-17"
-  },
-  {
-    "point": "04/11 :: usa :: macro :: Commerce Int. Biens & Services (Sep)",
-    "premiere_apparition": "2026-10-17"
-  },
-  {
-    "point": "04/11 :: usa :: macro :: Publication Inflation PCE Sept.",
-    "premiere_apparition": "2026-10-20"
-  },
-  {
-    "point": "04/11 :: europe :: mkt-n :: AI in Health Summit",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "04/11 :: europe :: mkt-n :: Cardiovascular Health Summit",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Résultats Goodyear",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "04/11 :: europe :: corp :: Selectirente publication résultats T3",
-    "premiere_apparition": "2026-10-22"
-  },
-  {
-    "point": "04/11 :: asie :: macro :: PMI Services Général Chine S&P Global (Octobre)",
-    "premiere_apparition": "2026-10-23"
-  },
-  {
-    "point": "04/11 :: usa :: macro :: Mise à jour Commerce US (Sept.)",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "04/11 :: usa :: geo :: Economic Summit Maryland",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
-    "point": "04/11 :: usa :: macro :: Revenus & Dépenses Perso. USA (Sept)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Résultats Uber (UBER)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Résultats Datadog (DDOG)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Résultats CVS Health (CVS)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: europe :: corp :: Résultats Novo Nordisk (NVO)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Résultats McDonald's (MCD)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: asie :: corp :: Résultats Arm Holdings (ARM)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Résultats Qualcomm (QCOM)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Résultats McKesson (MCK)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: global :: corp :: Résultats MercadoLibre (MELI)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Résultats Motorola Solutions (MSI)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "04/11 :: europe :: corp :: Solvay Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "04/11 :: europe :: corp :: Selectirente Chiffre d'Affaires T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "04/11 :: usa :: corp :: Costco Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "04/11 :: usa :: geo :: Élections mi-mandat US",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "04/11 :: europe :: corp :: Résultats trimestriels Jacquet Metals",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "04/11 :: afrique :: geo :: Élections municipales Afrique du Sud (vote en cours)",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "04/11 :: europe :: corp :: Résultats trimestriels BMW AG",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
     "point": "05/11 :: europe :: macro :: BoE Décision Taux",
     "premiere_apparition": "2026-10-04"
   },
@@ -316,6 +164,10 @@
     "premiere_apparition": "2026-11-04"
   },
   {
+    "point": "06/11 :: europe :: corp :: Résultats trimestriels entreprises diverses",
+    "premiere_apparition": "2026-11-05"
+  },
+  {
     "point": "09/11 :: usa :: corp :: Résultats trimestriels Barrick Mining",
     "premiere_apparition": "2026-10-10"
   },
@@ -380,6 +232,10 @@
     "premiere_apparition": "2026-11-04"
   },
   {
+    "point": "10/11 :: global :: corp :: BKW 9M Business Update Call",
+    "premiere_apparition": "2026-11-05"
+  },
+  {
     "point": "27/10 - 28/10 :: usa :: macro :: FOMC Meeting Décision Taux",
     "premiere_apparition": "2026-10-18"
   },
@@ -394,14 +250,6 @@
   {
     "point": "16/11 :: europe :: geo :: Conférence Internationale Jeunes Leaders",
     "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "12/10 - 18/10 :: global :: geo :: Réunions annuelles FMI et BM",
-    "premiere_apparition": "2026-10-14"
-  },
-  {
-    "point": "28/10 - 29/10 :: europe :: macro :: Réunion BCE Décision taux",
-    "premiere_apparition": "2026-10-14"
   },
   {
     "point": "28/10 - 29/10 :: europe :: macro :: ECB Monetary Policy Meeting",
@@ -434,6 +282,10 @@
   {
     "point": "13/11 :: europe :: mkt-n :: Conférence Finance et Économie Commerciale",
     "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "13/11 :: europe :: mkt-n :: Conférence Kepler Cheuvreux Immobilier",
+    "premiere_apparition": "2026-11-05"
   },
   {
     "point": "19/10 - 21/10 :: asie :: geo :: APEC Finance Ministers Meeting",
