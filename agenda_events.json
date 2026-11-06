@@ -1,109 +1,5 @@
 [
   {
-    "point": "05/11 :: europe :: macro :: BoE Décision Taux",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "05/11 :: europe :: macro :: Banque Norvège Décision Taux",
-    "premiere_apparition": "2026-10-04"
-  },
-  {
-    "point": "05/11 :: europe :: mkt-n :: Bank of England interest rate decision",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "05/11 :: usa :: corp :: Résultats trimestriels MP Materials",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "05/11 :: asie :: macro :: BoJ Minutes de la réunion politique monétaire",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "05/11 :: usa :: corp :: Résultats Targa Resources",
-    "premiere_apparition": "2026-10-14"
-  },
-  {
-    "point": "05/11 :: usa :: corp :: Résultats Instacart Q3",
-    "premiere_apparition": "2026-10-16"
-  },
-  {
-    "point": "05/11 :: europe :: mkt-n :: Conférence Marchés Monétaires BCE",
-    "premiere_apparition": "2026-10-17"
-  },
-  {
-    "point": "05/11 :: europe :: mkt-n :: Réunion Banque d'Angleterre (décision taux)",
-    "premiere_apparition": "2026-10-18"
-  },
-  {
-    "point": "05/11 :: asie :: tech :: GGX Finance Summit (transition finance, IA)",
-    "premiere_apparition": "2026-10-18"
-  },
-  {
-    "point": "05/11 :: europe :: macro :: BoE Monetary Policy Meeting",
-    "premiere_apparition": "2026-10-18"
-  },
-  {
-    "point": "05/11 :: usa :: macro :: Inscriptions hebdomadaires chômage US",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "05/11 :: usa :: corp :: Résultats Parker Hannifin",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "05/11 :: global :: tech :: Webinar Réduire dépendance eau IA",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "05/11 :: usa :: macro :: Données productivité et coûts US",
-    "premiere_apparition": "2026-10-22"
-  },
-  {
-    "point": "05/11 :: europe :: corp :: Publication financière T3 NRJ Group",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "05/11 :: global :: geo :: Forum Économique CCIFC",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "05/11 :: europe :: corp :: Engie Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "05/11 :: europe :: corp :: Legrand Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "05/11 :: europe :: corp :: Veolia Environnement Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "05/11 :: europe :: corp :: Bouygues Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "05/11 :: usa :: corp :: ConocoPhillips Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "05/11 :: europe :: corp :: Résultats Deutsche Telekom",
-    "premiere_apparition": "2026-11-02"
-  },
-  {
-    "point": "05/11 :: europe :: corp :: Résultats ArcelorMittal",
-    "premiere_apparition": "2026-11-02"
-  },
-  {
-    "point": "05/11 :: usa :: corp :: Résultats trimestriels Kimberly-Clark",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "05/11 :: usa :: corp :: Résultats trimestriels Mattel",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
     "point": "29/11 :: europe :: geo :: Élections anticipées Espagne",
     "premiere_apparition": "2026-10-05"
   },
@@ -234,6 +130,10 @@
   {
     "point": "10/11 :: global :: corp :: BKW 9M Business Update Call",
     "premiere_apparition": "2026-11-05"
+  },
+  {
+    "point": "10/11 :: USA :: corp :: Résultats CoreWeave",
+    "premiere_apparition": "2026-11-06"
   },
   {
     "point": "27/10 - 28/10 :: usa :: macro :: FOMC Meeting Décision Taux",
@@ -416,6 +316,10 @@
     "premiere_apparition": "2026-11-04"
   },
   {
+    "point": "12/11 :: USA :: corp :: Résultats Cisco",
+    "premiere_apparition": "2026-11-06"
+  },
+  {
     "point": "14/11 :: global :: global :: Global Business Summit Jakarta",
     "premiere_apparition": "2026-10-24"
   },
@@ -530,6 +434,14 @@
   {
     "point": "25/11 :: usa :: macro :: Indice prix PCE US Octobre",
     "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "25/11 :: USA :: macro :: Dépenses PCE USA (Octobre)",
+    "premiere_apparition": "2026-11-06"
+  },
+  {
+    "point": "25/11 :: USA :: macro :: PIB USA Q3 (2e estim.)",
+    "premiere_apparition": "2026-11-06"
   },
   {
     "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
