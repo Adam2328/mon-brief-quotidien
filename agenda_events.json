@@ -4,66 +4,6 @@
     "premiere_apparition": "2026-10-05"
   },
   {
-    "point": "06/11 :: usa :: macro :: US Jobs Report (NFP) for October",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "06/11 :: usa :: macro :: Rapport emploi US (non-farm payrolls octobre)",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "06/11 :: usa :: macro :: Publication NFP US (Oct)",
-    "premiere_apparition": "2026-10-15"
-  },
-  {
-    "point": "06/11 :: usa :: macro :: Rapport Emploi Non-Agricole Octobre",
-    "premiere_apparition": "2026-10-17"
-  },
-  {
-    "point": "06/11 :: europe :: mkt-n :: Conférence Marchés Monétaires BCE (Jour 2)",
-    "premiere_apparition": "2026-10-17"
-  },
-  {
-    "point": "06/11 :: usa :: macro :: Rapport sur l'emploi USA (Oct)",
-    "premiere_apparition": "2026-10-20"
-  },
-  {
-    "point": "06/11 :: usa :: macro :: Rapport Emploi NFP Oct.",
-    "premiere_apparition": "2026-10-20"
-  },
-  {
-    "point": "06/11 :: global :: macro :: Mise à jour CPI OCDE",
-    "premiere_apparition": "2026-10-22"
-  },
-  {
-    "point": "06/11 :: usa :: macro :: Taux de chômage US (Oct.)",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "06/11 :: usa :: macro :: Mise à jour Dette Mensuelle US (Nov.)",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "06/11 :: europe :: corp :: Getlink Résultats T3",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "06/11 :: usa :: macro :: US Non-Farm Payrolls Oct",
-    "premiere_apparition": "2026-11-03"
-  },
-  {
-    "point": "06/11 :: europe :: corp :: Résultats T3 Aperam",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "06/11 :: global :: tech :: Panel intersessions ONU Science Technologie",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "06/11 :: europe :: corp :: Résultats trimestriels entreprises diverses",
-    "premiere_apparition": "2026-11-05"
-  },
-  {
     "point": "09/11 :: usa :: corp :: Résultats trimestriels Barrick Mining",
     "premiere_apparition": "2026-10-10"
   },
@@ -78,6 +18,10 @@
   {
     "point": "09/11 :: usa :: corp :: Résultats KKR & Co.",
     "premiere_apparition": "2026-10-24"
+  },
+  {
+    "point": "09/11 :: usa :: corp :: Résultats Take-Two et Skydance",
+    "premiere_apparition": "2026-11-07"
   },
   {
     "point": "10/11 :: asie :: macro :: BoJ Résumé des Opinions",
@@ -188,6 +132,10 @@
     "premiere_apparition": "2026-11-05"
   },
   {
+    "point": "13/11 :: europe :: macro :: Révision PIB Eurozone T3",
+    "premiere_apparition": "2026-11-07"
+  },
+  {
     "point": "19/10 - 21/10 :: asie :: geo :: APEC Finance Ministers Meeting",
     "premiere_apparition": "2026-10-18"
   },
@@ -288,6 +236,10 @@
     "premiere_apparition": "2026-11-03"
   },
   {
+    "point": "18/11 :: europe :: macro :: Inflation Eurozone Octobre (finale)",
+    "premiere_apparition": "2026-11-07"
+  },
+  {
     "point": "10-12/11 :: global :: mkt-n :: Salon Immobilier Investissement Abu Dhabi",
     "premiere_apparition": "2026-10-22"
   },
@@ -372,6 +324,10 @@
     "premiere_apparition": "2026-10-27"
   },
   {
+    "point": "Semaine du 09/11 :: europe :: macro :: Publication PIB UK T3",
+    "premiere_apparition": "2026-11-07"
+  },
+  {
     "point": "Semaine du 16/11 :: global :: tech :: Anthropic IPO cotation potentielle",
     "premiere_apparition": "2026-10-27"
   },
@@ -442,6 +398,10 @@
   {
     "point": "25/11 :: USA :: macro :: PIB USA Q3 (2e estim.)",
     "premiere_apparition": "2026-11-06"
+  },
+  {
+    "point": "25/11 :: usa :: macro :: Révision PIB US T3",
+    "premiere_apparition": "2026-11-07"
   },
   {
     "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
