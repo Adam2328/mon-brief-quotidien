@@ -4,40 +4,8 @@
     "premiere_apparition": "2026-10-05"
   },
   {
-    "point": "09/11 :: usa :: corp :: Résultats trimestriels Barrick Mining",
-    "premiere_apparition": "2026-10-10"
-  },
-  {
-    "point": "09/11 :: europe :: tech :: Date limite appel BCE Innovation Euro Numérique",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "09/11 :: usa :: corp :: Résultats Constellation Energy",
-    "premiere_apparition": "2026-10-24"
-  },
-  {
-    "point": "09/11 :: usa :: corp :: Résultats KKR & Co.",
-    "premiere_apparition": "2026-10-24"
-  },
-  {
-    "point": "09/11 :: usa :: corp :: Résultats Take-Two et Skydance",
-    "premiere_apparition": "2026-11-07"
-  },
-  {
-    "point": "09/11 :: europe :: mkt-n :: Indice Sentix confiance investisseurs",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "09/11 :: europe :: corp :: UniCredit Résultats T3",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "09/11 :: europe :: corp :: Hannover Re Résultats T3",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "09/11 :: usa :: mkt-n :: Discours Thomas Barkin (Fed Richmond)",
-    "premiere_apparition": "2026-11-08"
+    "point": "29/11 :: global :: mkt-n :: Réunion JMMC OPEC+",
+    "premiere_apparition": "2026-11-10"
   },
   {
     "point": "10/11 :: asie :: macro :: BoJ Résumé des Opinions",
@@ -112,14 +80,6 @@
     "premiere_apparition": "2026-11-08"
   },
   {
-    "point": "27/10 - 28/10 :: usa :: macro :: FOMC Meeting Décision Taux",
-    "premiere_apparition": "2026-10-18"
-  },
-  {
-    "point": "29/10 - 30/10 :: asie :: macro :: Bank of Japan Monetary Meeting",
-    "premiere_apparition": "2026-10-18"
-  },
-  {
     "point": "16/11 :: europe :: mkt-n :: Financium Congrès Dirigeants Financiers",
     "premiere_apparition": "2026-10-13"
   },
@@ -130,10 +90,6 @@
   {
     "point": "16/11 :: asie :: mkt-n :: Discours Takata (BoJ Board Member)",
     "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "28/10 - 29/10 :: europe :: macro :: ECB Monetary Policy Meeting",
-    "premiere_apparition": "2026-10-18"
   },
   {
     "point": "13/11 :: usa :: macro :: Inflation PPI US (Oct)",
@@ -180,12 +136,8 @@
     "premiere_apparition": "2026-11-08"
   },
   {
-    "point": "19/10 - 21/10 :: asie :: geo :: APEC Finance Ministers Meeting",
-    "premiere_apparition": "2026-10-18"
-  },
-  {
-    "point": "30/10 - 31/10 :: usa :: geo :: G20 Foreign Ministers Meeting",
-    "premiere_apparition": "2026-10-18"
+    "point": "13/11 :: europe :: macro :: Publication PIB Zone Euro (Q3)",
+    "premiere_apparition": "2026-11-10"
   },
   {
     "point": "11/11 :: europe :: geo :: Forum de Paris sur la paix (fin)",
@@ -204,8 +156,12 @@
     "premiere_apparition": "2026-11-08"
   },
   {
-    "point": "Mi-novembre :: asie :: geo :: Sommet APEC (proposition Sommet Ukraine)",
-    "premiere_apparition": "2026-10-19"
+    "point": "11/11 :: global :: mkt-n :: Rapport mensuel OPEP (MOMR)",
+    "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "11/11 :: usa :: corp :: Résultats IMUX",
+    "premiere_apparition": "2026-11-10"
   },
   {
     "point": "Semaine du 02/11 :: usa :: corp :: Block Inc. résultats",
@@ -296,6 +252,10 @@
     "premiere_apparition": "2026-11-07"
   },
   {
+    "point": "18/11 :: europe :: macro :: Publication CPI finale Zone Euro (Oct)",
+    "premiere_apparition": "2026-11-10"
+  },
+  {
     "point": "10-12/11 :: global :: mkt-n :: Salon Immobilier Investissement Abu Dhabi",
     "premiere_apparition": "2026-10-22"
   },
@@ -330,6 +290,14 @@
   {
     "point": "12/11 :: uk :: macro :: PIB T3 première estimation",
     "premiere_apparition": "2026-11-08"
+  },
+  {
+    "point": "12/11 :: usa :: corp :: Résultats FRMI",
+    "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "12/11 :: usa :: corp :: Résultats TWST",
+    "premiere_apparition": "2026-11-10"
   },
   {
     "point": "14/11 :: global :: global :: Global Business Summit Jakarta",
@@ -428,14 +396,6 @@
     "premiere_apparition": "2026-11-04"
   },
   {
-    "point": "08/11 :: asie :: mkt-n :: Diwali (Fermeture Marchés Singapour)",
-    "premiere_apparition": "2026-10-31"
-  },
-  {
-    "point": "08/11 :: afrique :: geo :: Résultats définitifs élections municipales Afrique du Sud",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
     "point": "25/11 :: europe :: mkt-n :: Réunion non-monétaire BCE",
     "premiere_apparition": "2026-11-02"
   },
@@ -510,5 +470,29 @@
   {
     "point": "Semaine du 23/11 :: asie :: mkt-n :: Discours Tamura (BoJ Board Member)",
     "premiere_apparition": "2026-11-08"
+  },
+  {
+    "point": "14/11-16/11 :: asie :: geo :: Réunion ABAC APEC",
+    "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "17/11-18/11 :: asie :: geo :: Sommet des PDG de l'APEC",
+    "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "18/11-19/11 :: asie :: geo :: Réunion Leaders Économiques APEC",
+    "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "18/11-19/11 :: usa :: geo :: Sommet T20 US",
+    "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "20/11 :: europe :: macro :: Confiance Consommateur / Ventes Détail UK",
+    "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "01/12 :: europe :: macro :: Publication Flash CPI Zone Euro (Nov)",
+    "premiere_apparition": "2026-11-10"
   }
 ]
