@@ -12,110 +12,6 @@
     "premiere_apparition": "2026-11-10"
   },
   {
-    "point": "10/11 :: asie :: macro :: BoJ Résumé des Opinions",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "10/11 :: europe :: macro :: Conférence Observateurs BoE",
-    "premiere_apparition": "2026-10-12"
-  },
-  {
-    "point": "10/11 :: usa :: macro :: Rapport CPI US (Oct)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "10/11 :: usa :: macro :: Salaires réels US (Oct)",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "10/11 :: europe :: geo :: Forum de Paris sur la paix",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "10/11 :: usa :: macro :: Indice des prix à la consommation USA (Oct)",
-    "premiere_apparition": "2026-10-20"
-  },
-  {
-    "point": "10/11 :: usa :: macro :: Rapport IPC Octobre",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "10/11 :: usa :: macro :: Indice Prix Consommation US (CPI) (Oct)",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
-    "point": "10/11 :: asie :: macro :: Synthèse réunion BoJ Octobre",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "10/11 :: europe :: corp :: Mise à jour BKW Groupe",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "10/11 :: europe :: corp :: Chiffre d'affaires ClarAnova T1",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "10/11 :: europe :: mkt-n :: Conférence Leadership et Gestion",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "10/11 :: global :: corp :: BKW 9M Business Update Call",
-    "premiere_apparition": "2026-11-05"
-  },
-  {
-    "point": "10/11 :: USA :: corp :: Résultats CoreWeave",
-    "premiere_apparition": "2026-11-06"
-  },
-  {
-    "point": "10/11 :: europe :: corp :: Infineon Technologies Résultats annuels",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "10/11 :: europe :: corp :: Vodafone Group Résultats S1",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "10/11 :: france :: macro :: Taux chômage T3",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "10/11 :: usa :: mkt-n :: Discours Jeff Schmid (Fed Kansas City)",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "10/11 :: usa :: mkt-n :: Adjudication Trésor US 10 ans",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "10/11 :: usa :: mkt-n :: Discours Lorie Logan Fed Dallas",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "10/11 :: usa :: mkt-n :: Discours Michelle Bowman Fed",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "10/11 :: europe :: mkt-n :: Discours Christopher Waller Fed",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "10/11 :: global :: corp :: Résultats Embraer T3",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "10/11 :: global :: corp :: Résultats Petrobras T3",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "10/11 :: asie :: corp :: Résultats SoftBank T2",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "10/11 :: global :: tech :: Prévisions marché énergie Wood Mackenzie",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
     "point": "16/11 :: europe :: mkt-n :: Financium Congrès Dirigeants Financiers",
     "premiere_apparition": "2026-10-13"
   },
@@ -240,6 +136,10 @@
     "premiere_apparition": "2026-11-04"
   },
   {
+    "point": "17/11 :: europe :: corp :: Résultats Alstom S1",
+    "premiere_apparition": "2026-11-11"
+  },
+  {
     "point": "18/11 :: usa :: mkt-n :: Publication minutes réunion FOMC",
     "premiere_apparition": "2026-10-21"
   },
@@ -342,6 +242,18 @@
   {
     "point": "12/11 :: europe :: macro :: Production manufacturière UK",
     "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "12/11 :: europe :: corp :: Résultats Eiffage T3",
+    "premiere_apparition": "2026-11-11"
+  },
+  {
+    "point": "12/11 :: europe :: corp :: Résultats Hera S.p.A. T3",
+    "premiere_apparition": "2026-11-11"
+  },
+  {
+    "point": "12/11 :: europe :: corp :: Résultats Valneva SE T3",
+    "premiere_apparition": "2026-11-11"
   },
   {
     "point": "14/11 :: global :: global :: Global Business Summit Jakarta",
@@ -476,12 +388,20 @@
     "premiere_apparition": "2026-11-10"
   },
   {
+    "point": "25/11 :: usa :: macro :: Publication Inflation PCE US",
+    "premiere_apparition": "2026-11-11"
+  },
+  {
     "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
     "premiere_apparition": "2026-11-02"
   },
   {
     "point": "26/11 :: europe :: macro :: ECB General Council Meeting",
     "premiere_apparition": "2026-11-03"
+  },
+  {
+    "point": "26/11 :: usa :: mkt-n :: Thanksgiving (Fermeture Marchés)",
+    "premiere_apparition": "2026-11-11"
   },
   {
     "point": "04/11-05/11 :: global :: tech :: Réunion ONU Gouvernance des Données",
