@@ -72,38 +72,6 @@
     "premiere_apparition": "2026-11-10"
   },
   {
-    "point": "11/11 :: europe :: geo :: Forum de Paris sur la paix (fin)",
-    "premiere_apparition": "2026-10-19"
-  },
-  {
-    "point": "11/11 :: global :: geo :: Veterans Day (marché obligataire US fermé)",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "11/11 :: europe :: macro :: Inflation Allemagne définitive octobre",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "11/11 :: usa :: corp :: Applied Materials Résultats annuels",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "11/11 :: global :: mkt-n :: Rapport mensuel OPEP (MOMR)",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "11/11 :: usa :: corp :: Résultats IMUX",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "Semaine du 02/11 :: usa :: corp :: Block Inc. résultats",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "Semaine du 02/11 :: usa :: tech :: Meta Platforms résultats",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
     "point": "Semaine du 02/11 :: usa :: corp :: Résultats d'entreprises Tech Majeures",
     "premiere_apparition": "2026-10-28"
   },
@@ -190,6 +158,14 @@
   {
     "point": "18/11 :: europe :: macro :: Publication CPI finale Zone Euro (Oct)",
     "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "18/11 :: europe :: macro :: Eurozone CPI Complet Oct",
+    "premiere_apparition": "2026-11-12"
+  },
+  {
+    "point": "18/11 :: usa :: geo :: T20 U.S. Sommet (Think20)",
+    "premiere_apparition": "2026-11-12"
   },
   {
     "point": "10-12/11 :: global :: mkt-n :: Salon Immobilier Investissement Abu Dhabi",
@@ -468,6 +444,10 @@
     "premiere_apparition": "2026-11-10"
   },
   {
+    "point": "01/12 :: europe :: macro :: Eurozone CPI Flash Novembre",
+    "premiere_apparition": "2026-11-12"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -502,5 +482,9 @@
   {
     "point": "17/12 :: asie :: mkt-n :: Décision taux BoJ",
     "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "04/12 :: usa :: macro :: Rapport Emploi US (NFP)",
+    "premiere_apparition": "2026-11-12"
   }
 ]
