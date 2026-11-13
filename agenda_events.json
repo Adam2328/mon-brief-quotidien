@@ -108,6 +108,10 @@
     "premiere_apparition": "2026-11-11"
   },
   {
+    "point": "17/11 :: usa :: macro :: US Retail Sales (Oct)",
+    "premiere_apparition": "2026-11-13"
+  },
+  {
     "point": "18/11 :: usa :: mkt-n :: Publication minutes réunion FOMC",
     "premiere_apparition": "2026-10-21"
   },
@@ -166,70 +170,6 @@
   {
     "point": "18/11 :: usa :: geo :: T20 U.S. Sommet (Think20)",
     "premiere_apparition": "2026-11-12"
-  },
-  {
-    "point": "10-12/11 :: global :: mkt-n :: Salon Immobilier Investissement Abu Dhabi",
-    "premiere_apparition": "2026-10-22"
-  },
-  {
-    "point": "05-06/11 :: europe :: mkt-n :: Conférence BCE Marchés Monétaires",
-    "premiere_apparition": "2026-10-22"
-  },
-  {
-    "point": "12/11 :: usa :: corp :: Résultats Applied Materials",
-    "premiere_apparition": "2026-10-24"
-  },
-  {
-    "point": "12/11 :: europe :: macro :: Est. Flash PIB/Emploi Zone Euro Q3",
-    "premiere_apparition": "2026-11-02"
-  },
-  {
-    "point": "12/11 :: asie :: macro :: Indice prix biens production Japon Octobre",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "12/11 :: europe :: macro :: Estimation finale PIB Eurozone T3",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "12/11 :: europe :: macro :: Publication PIB Royaume-Uni T3",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "12/11 :: USA :: corp :: Résultats Cisco",
-    "premiere_apparition": "2026-11-06"
-  },
-  {
-    "point": "12/11 :: uk :: macro :: PIB T3 première estimation",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "12/11 :: usa :: corp :: Résultats FRMI",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "12/11 :: usa :: corp :: Résultats TWST",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "12/11 :: usa :: mkt-n :: Adjudication Trésor US 30 ans",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "12/11 :: europe :: macro :: Production manufacturière UK",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "12/11 :: europe :: corp :: Résultats Eiffage T3",
-    "premiere_apparition": "2026-11-11"
-  },
-  {
-    "point": "12/11 :: europe :: corp :: Résultats Hera S.p.A. T3",
-    "premiere_apparition": "2026-11-11"
-  },
-  {
-    "point": "12/11 :: europe :: corp :: Résultats Valneva SE T3",
-    "premiere_apparition": "2026-11-11"
   },
   {
     "point": "14/11 :: global :: global :: Global Business Summit Jakarta",
@@ -484,7 +424,43 @@
     "premiere_apparition": "2026-11-10"
   },
   {
+    "point": "17/12 :: asie :: mkt-n :: BoJ Début Réunion Politique Monétaire",
+    "premiere_apparition": "2026-11-13"
+  },
+  {
     "point": "04/12 :: usa :: macro :: Rapport Emploi US (NFP)",
     "premiere_apparition": "2026-11-12"
+  },
+  {
+    "point": "04/12 :: usa :: macro :: US Non-Farm Payrolls (Nov)",
+    "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "08/12 :: usa :: mkt-n :: FOMC Début Réunion",
+    "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "10/12 :: usa :: macro :: US CPI (Nov)",
+    "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "15/12 :: usa :: macro :: US PPI (Nov)",
+    "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "16/12 :: usa :: macro :: US Retail Sales (Nov)",
+    "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "16/12 :: europe :: macro :: UK CPI (Nov)",
+    "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "16/12 :: europe :: mkt-n :: BCE Début Réunion Politique Monétaire",
+    "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "18/12 :: asie :: mkt-n :: BoJ Décision Taux",
+    "premiere_apparition": "2026-11-13"
   }
 ]
