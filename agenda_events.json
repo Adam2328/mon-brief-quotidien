@@ -24,54 +24,6 @@
     "premiere_apparition": "2026-11-08"
   },
   {
-    "point": "13/11 :: usa :: macro :: Inflation PPI US (Oct)",
-    "premiere_apparition": "2026-10-16"
-  },
-  {
-    "point": "13/11 :: usa :: macro :: Publication IPP US (prix production)",
-    "premiere_apparition": "2026-10-22"
-  },
-  {
-    "point": "13/11 :: europe :: corp :: Résultats T3 IDI",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "13/11 :: usa :: macro :: Indice Prix Production US (PPI) (Oct)",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
-    "point": "13/11 :: europe :: mkt-n :: Conférence Immobilier Pan-Européen Londres",
-    "premiere_apparition": "2026-11-02"
-  },
-  {
-    "point": "13/11 :: europe :: mkt-n :: Conférence immobilier paneuropéen Londres",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "13/11 :: europe :: mkt-n :: Conférence Finance et Économie Commerciale",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "13/11 :: europe :: mkt-n :: Conférence Kepler Cheuvreux Immobilier",
-    "premiere_apparition": "2026-11-05"
-  },
-  {
-    "point": "13/11 :: europe :: macro :: Révision PIB Eurozone T3",
-    "premiere_apparition": "2026-11-07"
-  },
-  {
-    "point": "13/11 :: europe :: macro :: Estimation Flash PIB et emploi",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "13/11 :: france :: macro :: Indice prix consommation définitif octobre",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
-    "point": "13/11 :: europe :: macro :: Publication PIB Zone Euro (Q3)",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
     "point": "Semaine du 02/11 :: usa :: corp :: Résultats d'entreprises Tech Majeures",
     "premiere_apparition": "2026-10-28"
   },
@@ -256,6 +208,10 @@
     "premiere_apparition": "2026-10-29"
   },
   {
+    "point": "Semaine du 16/11 :: usa :: corp :: Résultats d'entreprises importantes",
+    "premiere_apparition": "2026-11-14"
+  },
+  {
     "point": "13-14/11 :: global :: geo, mkt-n, tech :: World Strategic Forum Miami",
     "premiere_apparition": "2026-10-29"
   },
@@ -388,6 +344,10 @@
     "premiere_apparition": "2026-11-12"
   },
   {
+    "point": "01/12 :: europe :: macro :: Publication Inflation Flash (Nov 2026)",
+    "premiere_apparition": "2026-11-14"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -434,6 +394,10 @@
   {
     "point": "04/12 :: usa :: macro :: US Non-Farm Payrolls (Nov)",
     "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "04/12 :: usa :: macro :: Publication NFP (Nov 2026)",
+    "premiere_apparition": "2026-11-14"
   },
   {
     "point": "08/12 :: usa :: mkt-n :: FOMC Début Réunion",
