@@ -124,6 +124,10 @@
     "premiere_apparition": "2026-11-12"
   },
   {
+    "point": "18/11 :: usa :: ai :: Anthropic IPO Prix Final",
+    "premiere_apparition": "2026-11-16"
+  },
+  {
     "point": "13/11-14/11 :: global :: geo :: World Strategic Forum Miami",
     "premiere_apparition": "2026-10-26"
   },
@@ -208,6 +212,10 @@
     "premiere_apparition": "2026-11-14"
   },
   {
+    "point": "Semaine du 16/11 :: global :: geo :: Sommet APEC Shenzhen",
+    "premiere_apparition": "2026-11-16"
+  },
+  {
     "point": "13-14/11 :: global :: geo, mkt-n, tech :: World Strategic Forum Miami",
     "premiere_apparition": "2026-10-29"
   },
@@ -218,6 +226,10 @@
   {
     "point": "19/11 :: usa :: macro :: Publication minutes dernière réunion FOMC",
     "premiere_apparition": "2026-11-04"
+  },
+  {
+    "point": "19/11 :: usa :: ai :: Anthropic IPO Début Cotation",
+    "premiere_apparition": "2026-11-16"
   },
   {
     "point": "25/11 :: europe :: mkt-n :: Réunion non-monétaire BCE",
