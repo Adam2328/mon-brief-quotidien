@@ -12,18 +12,6 @@
     "premiere_apparition": "2026-11-10"
   },
   {
-    "point": "16/11 :: europe :: mkt-n :: Financium Congrès Dirigeants Financiers",
-    "premiere_apparition": "2026-10-13"
-  },
-  {
-    "point": "16/11 :: europe :: geo :: Conférence Internationale Jeunes Leaders",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "16/11 :: asie :: mkt-n :: Discours Takata (BoJ Board Member)",
-    "premiere_apparition": "2026-11-08"
-  },
-  {
     "point": "Semaine du 02/11 :: usa :: corp :: Résultats d'entreprises Tech Majeures",
     "premiere_apparition": "2026-10-28"
   },
@@ -126,30 +114,6 @@
   {
     "point": "18/11 :: usa :: ai :: Anthropic IPO Prix Final",
     "premiere_apparition": "2026-11-16"
-  },
-  {
-    "point": "13/11-14/11 :: global :: geo :: World Strategic Forum Miami",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "Mi-Novembre :: usa :: tech :: IPO Anthropic",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "30-31/10 :: global :: geo :: Réunion Ministres Affaires Étrangères G20",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "Après 10/11 :: usa :: corp :: Début marketing IPO Anthropic",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "17-18/11 :: asie :: geo :: Sommet des PDG APEC Shenzhen",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "18-19/11 :: asie :: geo :: Sommet des Leaders Économiques APEC",
-    "premiere_apparition": "2026-10-26"
   },
   {
     "point": "27-28/10 :: usa :: mkt-n :: Réunion FOMC / Décision taux Fed",
@@ -388,6 +352,14 @@
     "premiere_apparition": "2026-11-10"
   },
   {
+    "point": "09/12 :: usa :: macro :: Réunion FOMC (décision taux)",
+    "premiere_apparition": "2026-11-17"
+  },
+  {
+    "point": "09/12 :: global :: macro :: Décision taux Banque du Canada",
+    "premiere_apparition": "2026-11-17"
+  },
+  {
     "point": "17/12 :: europe :: mkt-n :: Décision taux BCE",
     "premiere_apparition": "2026-11-10"
   },
@@ -402,6 +374,10 @@
   {
     "point": "17/12 :: asie :: mkt-n :: BoJ Début Réunion Politique Monétaire",
     "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "17/12 :: europe :: macro :: Réunion MPC Banque d'Angleterre",
+    "premiere_apparition": "2026-11-17"
   },
   {
     "point": "04/12 :: usa :: macro :: Rapport Emploi US (NFP)",
@@ -448,6 +424,10 @@
     "premiere_apparition": "2026-11-13"
   },
   {
+    "point": "18/12 :: asie :: macro :: Réunion politique monétaire BoJ",
+    "premiere_apparition": "2026-11-17"
+  },
+  {
     "point": "07/12 :: europe :: macro :: PIB Eurozone Q3 2026 (Est. complètes)",
     "premiere_apparition": "2026-11-15"
   },
@@ -458,5 +438,9 @@
   {
     "point": "17-18/12 :: asie :: mkt-n :: Réunion BoJ / Décision taux",
     "premiere_apparition": "2026-11-15"
+  },
+  {
+    "point": "14/12 :: global :: geo, macro :: Sommet des dirigeants G20",
+    "premiere_apparition": "2026-11-17"
   }
 ]
