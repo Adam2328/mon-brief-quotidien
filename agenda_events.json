@@ -12,6 +12,10 @@
     "premiere_apparition": "2026-11-10"
   },
   {
+    "point": "29/11 :: global :: geo :: 11ème Sommet économique mondial",
+    "premiere_apparition": "2026-11-17"
+  },
+  {
     "point": "Semaine du 02/11 :: usa :: corp :: Résultats d'entreprises Tech Majeures",
     "premiere_apparition": "2026-10-28"
   },
@@ -50,6 +54,14 @@
   {
     "point": "17/11 :: usa :: macro :: US Retail Sales (Oct)",
     "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "17/11 :: global :: geo :: Sommet APEC CEO",
+    "premiere_apparition": "2026-11-17"
+  },
+  {
+    "point": "17/11 :: usa :: mkt-n :: CPI Global Summit",
+    "premiere_apparition": "2026-11-17"
   },
   {
     "point": "18/11 :: usa :: mkt-n :: Publication minutes réunion FOMC",
@@ -114,6 +126,10 @@
   {
     "point": "18/11 :: usa :: ai :: Anthropic IPO Prix Final",
     "premiere_apparition": "2026-11-16"
+  },
+  {
+    "point": "18/11 :: usa :: corp :: Résultats Palo Alto Networks",
+    "premiere_apparition": "2026-11-17"
   },
   {
     "point": "27-28/10 :: usa :: mkt-n :: Réunion FOMC / Décision taux Fed",
@@ -196,6 +212,10 @@
     "premiere_apparition": "2026-11-16"
   },
   {
+    "point": "19/11 :: asie :: corp :: Résultats Alibaba Group Holding",
+    "premiere_apparition": "2026-11-17"
+  },
+  {
     "point": "25/11 :: europe :: mkt-n :: Réunion non-monétaire BCE",
     "premiere_apparition": "2026-11-02"
   },
@@ -238,6 +258,14 @@
   {
     "point": "25/11 :: usa :: macro :: PIB Q3 2026 (2ème est.)",
     "premiere_apparition": "2026-11-15"
+  },
+  {
+    "point": "25/11 :: europe :: geo :: Conseil des gouverneurs BCE (non-monétaire)",
+    "premiere_apparition": "2026-11-17"
+  },
+  {
+    "point": "25/11 :: usa :: corp :: Résultats Deere & Company",
+    "premiere_apparition": "2026-11-17"
   },
   {
     "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
@@ -328,6 +356,10 @@
     "premiere_apparition": "2026-11-14"
   },
   {
+    "point": "01/12 :: usa :: geo :: Audition Huang",
+    "premiere_apparition": "2026-11-17"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -380,6 +412,10 @@
     "premiere_apparition": "2026-11-17"
   },
   {
+    "point": "17/12 :: europe :: macro :: Décision de taux Banque d'Angleterre",
+    "premiere_apparition": "2026-11-17"
+  },
+  {
     "point": "04/12 :: usa :: macro :: Rapport Emploi US (NFP)",
     "premiere_apparition": "2026-11-12"
   },
@@ -425,6 +461,10 @@
   },
   {
     "point": "18/12 :: asie :: macro :: Réunion politique monétaire BoJ",
+    "premiere_apparition": "2026-11-17"
+  },
+  {
+    "point": "18/12 :: asie :: macro :: Décision de taux Banque du Japon",
     "premiere_apparition": "2026-11-17"
   },
   {
