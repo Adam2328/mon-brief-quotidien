@@ -20,50 +20,6 @@
     "premiere_apparition": "2026-10-28"
   },
   {
-    "point": "17/11 :: asie :: global :: Début APEC CEO Summit",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "17/11 :: global :: geo :: Sommet PDG APEC Shenzhen",
-    "premiere_apparition": "2026-10-25"
-  },
-  {
-    "point": "17/11 :: usa :: corp :: Home Depot Résultats Trimestriels",
-    "premiere_apparition": "2026-10-30"
-  },
-  {
-    "point": "17/11 :: usa :: corp :: Disney Résultats Trimestriels",
-    "premiere_apparition": "2026-10-30"
-  },
-  {
-    "point": "17/11 :: usa :: tech :: Résultats trimestriels NVIDIA",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "17/11 :: europe :: macro :: Chiffres emploi Royaume-Uni",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "17/11 :: usa :: macro :: Ventes au détail US",
-    "premiere_apparition": "2026-11-04"
-  },
-  {
-    "point": "17/11 :: europe :: corp :: Résultats Alstom S1",
-    "premiere_apparition": "2026-11-11"
-  },
-  {
-    "point": "17/11 :: usa :: macro :: US Retail Sales (Oct)",
-    "premiere_apparition": "2026-11-13"
-  },
-  {
-    "point": "17/11 :: global :: geo :: Sommet APEC CEO",
-    "premiere_apparition": "2026-11-17"
-  },
-  {
-    "point": "17/11 :: usa :: mkt-n :: CPI Global Summit",
-    "premiere_apparition": "2026-11-17"
-  },
-  {
     "point": "18/11 :: usa :: mkt-n :: Publication minutes réunion FOMC",
     "premiere_apparition": "2026-10-21"
   },
@@ -132,36 +88,20 @@
     "premiere_apparition": "2026-11-17"
   },
   {
-    "point": "27-28/10 :: usa :: mkt-n :: Réunion FOMC / Décision taux Fed",
-    "premiere_apparition": "2026-10-27"
+    "point": "18/11 :: usa :: macro :: Mises en chantier & Permis construire US",
+    "premiere_apparition": "2026-11-18"
   },
   {
-    "point": "28-29/10 :: europe :: mkt-n :: Réunion BCE / Décision taux",
-    "premiere_apparition": "2026-10-27"
+    "point": "18/11 :: usa :: mkt-n :: Résultats entreprises US (Palo Alto, TJX, Progressive, Lowe's)",
+    "premiere_apparition": "2026-11-18"
   },
   {
-    "point": "29-30/10 :: asie :: mkt-n :: Réunion BoJ / Décision taux",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
-    "point": "Fin Octobre :: usa :: corp :: Résultats Amazon, Alphabet, Microsoft",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
-    "point": "01-03/11 :: usa :: geo :: Economic Futures Summit San Francisco",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
-    "point": "Semaine du 09/11 :: global :: tech :: Anthropic IPO Roadshow",
-    "premiere_apparition": "2026-10-27"
+    "point": "18/11 :: europe :: mkt-n :: Résultats entreprises Europe (Soitec, Altamir, Figeac Aéro, ACTIA, SSE, Experian)",
+    "premiere_apparition": "2026-11-18"
   },
   {
     "point": "Semaine du 09/11 :: europe :: macro :: Publication PIB UK T3",
     "premiere_apparition": "2026-11-07"
-  },
-  {
-    "point": "Semaine du 16/11 :: global :: tech :: Anthropic IPO cotation potentielle",
-    "premiere_apparition": "2026-10-27"
   },
   {
     "point": "Semaine du 16/11 :: usa :: corp :: Résultats Cisco Systems (CSCO)",
@@ -214,6 +154,10 @@
   {
     "point": "19/11 :: asie :: corp :: Résultats Alibaba Group Holding",
     "premiere_apparition": "2026-11-17"
+  },
+  {
+    "point": "19/11 :: europe :: macro :: Production industrielle Suisse T3",
+    "premiere_apparition": "2026-11-18"
   },
   {
     "point": "25/11 :: europe :: mkt-n :: Réunion non-monétaire BCE",
@@ -360,6 +304,22 @@
     "premiere_apparition": "2026-11-17"
   },
   {
+    "point": "01/12 :: global :: geo :: Accord commercial Canada-Indonésie (CEPA)",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "01/12 :: usa :: macro :: Inflation PCE US Octobre",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "01/12 :: europe :: macro :: Chiffres d'affaires détail Suisse Octobre",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "01/12 :: europe :: macro :: Indices PMI Suisse Novembre",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -374,6 +334,22 @@
   {
     "point": "24/11 :: usa :: macro :: Rapport ADP Emploi US",
     "premiere_apparition": "2026-11-10"
+  },
+  {
+    "point": "24/11 :: europe :: corp :: Résultats annuels Trigano",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "24/11 :: europe :: corp :: Détachement acompte dividendes ABC Arbitrage",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "24/11 :: europe :: corp :: Résultats T3 Valneva SE",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "24/11 :: europe :: corp :: Marche affaires EFG International",
+    "premiere_apparition": "2026-11-18"
   },
   {
     "point": "02/12 :: europe :: corp :: Versement acompte dividende LVMH",
@@ -426,6 +402,10 @@
   {
     "point": "04/12 :: usa :: macro :: Publication NFP (Nov 2026)",
     "premiere_apparition": "2026-11-14"
+  },
+  {
+    "point": "04/12 :: usa :: macro :: Créations d'emplois non-agricoles US (NFP)",
+    "premiere_apparition": "2026-11-18"
   },
   {
     "point": "08/12 :: usa :: mkt-n :: FOMC Début Réunion",
@@ -486,5 +466,65 @@
   {
     "point": "14-15/12 :: global :: geo :: Sommet des leaders G20",
     "premiere_apparition": "2026-11-17"
+  },
+  {
+    "point": "23/11 :: europe :: corp :: CA T3 Inventiva",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "23/11 :: europe :: corp :: CA T3 Dekuple",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "23/11 :: europe :: corp :: CA T3 Freelance.com",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "23/11 :: europe :: corp :: Résultats T3 Addex",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "23/11 :: europe :: corp :: Marche affaires T3 Epic",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "23/11 :: europe :: corp :: Marche affaires Julius Bär",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "27/11 :: france :: macro :: Inflation préliminaire France Novembre",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "27/11 :: usa :: macro :: Stocks pétroliers et gaz US EIA",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "30/11 :: europe :: macro :: Baromètre conjoncturel KOF Novembre",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "30/11 :: europe :: macro :: PIB Suisse T3",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "03/12 :: usa :: macro :: Challenger Suppressions Emplois US",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "03/12 :: usa :: macro :: Inscriptions chômage US hebdomadaires",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "03/12 :: usa :: macro :: Indices PMI & ISM Services US Novembre",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "03/12 :: usa :: macro :: Commandes biens durables/industrie US Octobre",
+    "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "06/12-09/12 :: global :: geo :: US-Africa Business Summit",
+    "premiere_apparition": "2026-11-18"
   }
 ]
