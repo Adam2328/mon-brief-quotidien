@@ -16,88 +16,8 @@
     "premiere_apparition": "2026-11-17"
   },
   {
-    "point": "Semaine du 02/11 :: usa :: corp :: Résultats d'entreprises Tech Majeures",
-    "premiere_apparition": "2026-10-28"
-  },
-  {
-    "point": "18/11 :: usa :: mkt-n :: Publication minutes réunion FOMC",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "18/11 :: asie :: global :: Début APEC Sommet Leaders",
-    "premiere_apparition": "2026-10-21"
-  },
-  {
-    "point": "18/11 :: europe :: macro :: Inflation HICP Complète Zone Euro Oct",
-    "premiere_apparition": "2026-10-26"
-  },
-  {
-    "point": "18/11 :: europe :: macro :: HICP Final Zone Euro (Oct)",
-    "premiere_apparition": "2026-10-27"
-  },
-  {
-    "point": "18/11 :: corp :: tech :: Résultats Nvidia",
-    "premiere_apparition": "2026-10-28"
-  },
-  {
-    "point": "18/11 :: europe :: macro :: HICP Eurozone (Oct, final)",
-    "premiere_apparition": "2026-10-28"
-  },
-  {
-    "point": "18/11 :: usa :: macro :: Balance Commerciale USA (Sept)",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "18/11 :: europe :: macro :: Publication inflation CPI Royaume-Uni",
-    "premiere_apparition": "2026-10-29"
-  },
-  {
-    "point": "18/11 :: usa :: corp :: Cisco Systems Résultats Trimestriels",
-    "premiere_apparition": "2026-10-30"
-  },
-  {
-    "point": "18/11 :: usa :: corp :: TJX Companies Résultats Trimestriels",
-    "premiere_apparition": "2026-10-30"
-  },
-  {
-    "point": "18/11 :: asie :: geo :: APEC Economic Leaders Summit",
-    "premiere_apparition": "2026-11-03"
-  },
-  {
-    "point": "18/11 :: europe :: macro :: Inflation Eurozone Octobre (finale)",
-    "premiere_apparition": "2026-11-07"
-  },
-  {
-    "point": "18/11 :: europe :: macro :: Publication CPI finale Zone Euro (Oct)",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "18/11 :: europe :: macro :: Eurozone CPI Complet Oct",
-    "premiere_apparition": "2026-11-12"
-  },
-  {
-    "point": "18/11 :: usa :: geo :: T20 U.S. Sommet (Think20)",
-    "premiere_apparition": "2026-11-12"
-  },
-  {
-    "point": "18/11 :: usa :: ai :: Anthropic IPO Prix Final",
-    "premiere_apparition": "2026-11-16"
-  },
-  {
-    "point": "18/11 :: usa :: corp :: Résultats Palo Alto Networks",
-    "premiere_apparition": "2026-11-17"
-  },
-  {
-    "point": "18/11 :: usa :: macro :: Mises en chantier & Permis construire US",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "18/11 :: usa :: mkt-n :: Résultats entreprises US (Palo Alto, TJX, Progressive, Lowe's)",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "18/11 :: europe :: mkt-n :: Résultats entreprises Europe (Soitec, Altamir, Figeac Aéro, ACTIA, SSE, Experian)",
-    "premiere_apparition": "2026-11-18"
+    "point": "29/11 :: global :: mkt-n :: Réunion du Comité Ministériel OPEC+",
+    "premiere_apparition": "2026-11-19"
   },
   {
     "point": "Semaine du 09/11 :: europe :: macro :: Publication PIB UK T3",
@@ -158,6 +78,10 @@
   {
     "point": "19/11 :: europe :: macro :: Production industrielle Suisse T3",
     "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "19/11 :: asie :: geo :: Sommet des leaders APEC Shenzhen",
+    "premiere_apparition": "2026-11-19"
   },
   {
     "point": "25/11 :: europe :: mkt-n :: Réunion non-monétaire BCE",
@@ -392,6 +316,10 @@
     "premiere_apparition": "2026-11-17"
   },
   {
+    "point": "17/12 :: europe :: macro :: Inflation Eurozone (HICP Finale)",
+    "premiere_apparition": "2026-11-19"
+  },
+  {
     "point": "04/12 :: usa :: macro :: Rapport Emploi US (NFP)",
     "premiere_apparition": "2026-11-12"
   },
@@ -420,8 +348,16 @@
     "premiere_apparition": "2026-11-15"
   },
   {
+    "point": "10/12 :: usa :: macro :: Indice Prix Consommation US (CPI)",
+    "premiere_apparition": "2026-11-19"
+  },
+  {
     "point": "15/12 :: usa :: macro :: US PPI (Nov)",
     "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "15/12 :: usa :: macro :: Indice Prix Production US (PPI)",
+    "premiere_apparition": "2026-11-19"
   },
   {
     "point": "16/12 :: usa :: macro :: US Retail Sales (Nov)",
@@ -526,5 +462,13 @@
   {
     "point": "06/12-09/12 :: global :: geo :: US-Africa Business Summit",
     "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "08/12-09/12 :: usa :: mkt-n :: Réunion FOMC Fed, Décision Taux",
+    "premiere_apparition": "2026-11-19"
+  },
+  {
+    "point": "16/12-17/12 :: europe :: mkt-n :: Réunion Conseil des Gouverneurs BCE, Décision Taux",
+    "premiere_apparition": "2026-11-19"
   }
 ]
