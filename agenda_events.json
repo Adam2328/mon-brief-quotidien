@@ -84,6 +84,10 @@
     "premiere_apparition": "2026-11-17"
   },
   {
+    "point": "25/11 :: usa :: macro :: Revenus et Dépenses Personnelles US (Oct)",
+    "premiere_apparition": "2026-11-21"
+  },
+  {
     "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
     "premiere_apparition": "2026-11-02"
   },
@@ -150,14 +154,6 @@
   {
     "point": "18/11-19/11 :: usa :: geo :: Sommet T20 US",
     "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "20/11 :: europe :: macro :: Confiance Consommateur / Ventes Détail UK",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "20/11 :: europe :: macro :: Confiance Consommateurs Flash (Nov 2026)",
-    "premiere_apparition": "2026-11-15"
   },
   {
     "point": "01/12 :: europe :: macro :: Publication Flash CPI Zone Euro (Nov)",
@@ -282,6 +278,10 @@
   {
     "point": "17/12 :: asie :: mkt-n :: Réunion de Politique Monétaire Banque du Japon (Jour 1)",
     "premiere_apparition": "2026-11-20"
+  },
+  {
+    "point": "17/12 :: global :: geo :: Sommet UE - Discussion Succession BCE",
+    "premiere_apparition": "2026-11-21"
   },
   {
     "point": "04/12 :: usa :: macro :: Rapport Emploi US (NFP)",
