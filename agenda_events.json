@@ -88,6 +88,14 @@
     "premiere_apparition": "2026-11-21"
   },
   {
+    "point": "25/11 :: asie :: macro :: Adjudication obligations japonaises",
+    "premiere_apparition": "2026-11-22"
+  },
+  {
+    "point": "25/11 :: usa :: macro :: Publication Livre Beige de la Fed",
+    "premiere_apparition": "2026-11-22"
+  },
+  {
     "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
     "premiere_apparition": "2026-11-02"
   },
@@ -98,6 +106,10 @@
   {
     "point": "26/11 :: usa :: mkt-n :: Thanksgiving (Fermeture Marchés)",
     "premiere_apparition": "2026-11-11"
+  },
+  {
+    "point": "26/11 :: usa :: mkt-n :: Marchés actions fermés (Thanksgiving)",
+    "premiere_apparition": "2026-11-22"
   },
   {
     "point": "04/11-05/11 :: global :: tech :: Réunion ONU Gouvernance des Données",
@@ -192,6 +204,10 @@
     "premiere_apparition": "2026-11-20"
   },
   {
+    "point": "01/12 :: usa :: macro :: Publication JOLTS (Offres d'emploi)",
+    "premiere_apparition": "2026-11-22"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -242,6 +258,10 @@
   {
     "point": "09/12 :: global :: macro :: Décision taux Banque du Canada",
     "premiere_apparition": "2026-11-17"
+  },
+  {
+    "point": "09/12 :: usa :: macro :: Décision taux FED + Projections",
+    "premiere_apparition": "2026-11-22"
   },
   {
     "point": "17/12 :: europe :: mkt-n :: Décision taux BCE",
@@ -404,12 +424,20 @@
     "premiere_apparition": "2026-11-18"
   },
   {
+    "point": "23/11 :: global :: geo :: Tensions géopolitiques Moyen-Orient",
+    "premiere_apparition": "2026-11-22"
+  },
+  {
     "point": "27/11 :: france :: macro :: Inflation préliminaire France Novembre",
     "premiere_apparition": "2026-11-18"
   },
   {
     "point": "27/11 :: usa :: macro :: Stocks pétroliers et gaz US EIA",
     "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "27/11 :: usa :: mkt-n :: Marchés actions fermeture anticipée",
+    "premiere_apparition": "2026-11-22"
   },
   {
     "point": "30/11 :: europe :: macro :: Baromètre conjoncturel KOF Novembre",
