@@ -208,6 +208,10 @@
     "premiere_apparition": "2026-11-22"
   },
   {
+    "point": "01/12 :: usa :: macro :: Enquête JOLTS US",
+    "premiere_apparition": "2026-11-23"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -248,6 +252,10 @@
     "premiere_apparition": "2026-11-10"
   },
   {
+    "point": "02/12 :: usa :: macro :: Rapport national sur l'emploi ADP US",
+    "premiere_apparition": "2026-11-23"
+  },
+  {
     "point": "09/12 :: usa :: mkt-n :: Décision taux FOMC",
     "premiere_apparition": "2026-11-10"
   },
@@ -262,6 +270,10 @@
   {
     "point": "09/12 :: usa :: macro :: Décision taux FED + Projections",
     "premiere_apparition": "2026-11-22"
+  },
+  {
+    "point": "09/12 :: usa :: macro :: Conférence de presse du Président de la Fed",
+    "premiere_apparition": "2026-11-23"
   },
   {
     "point": "17/12 :: europe :: mkt-n :: Décision taux BCE",
@@ -304,6 +316,14 @@
     "premiere_apparition": "2026-11-21"
   },
   {
+    "point": "17/12 :: europe :: macro :: IPC final Zone Euro (Données de novembre)",
+    "premiere_apparition": "2026-11-23"
+  },
+  {
+    "point": "17/12 :: asie :: macro :: Réunion de la BoJ (Jour 1)",
+    "premiere_apparition": "2026-11-23"
+  },
+  {
     "point": "04/12 :: usa :: macro :: Rapport Emploi US (NFP)",
     "premiere_apparition": "2026-11-12"
   },
@@ -336,6 +356,10 @@
     "premiere_apparition": "2026-11-19"
   },
   {
+    "point": "10/12 :: usa :: macro :: Comptes financiers des États-Unis (Z.1)",
+    "premiere_apparition": "2026-11-23"
+  },
+  {
     "point": "15/12 :: usa :: macro :: US PPI (Nov)",
     "premiere_apparition": "2026-11-13"
   },
@@ -362,6 +386,10 @@
   {
     "point": "16/12 :: usa :: macro :: US Ventes au Détail Mensuelles Avancées",
     "premiere_apparition": "2026-11-20"
+  },
+  {
+    "point": "16/12 :: europe :: macro :: Réunion de la BCE (Jour 1)",
+    "premiere_apparition": "2026-11-23"
   },
   {
     "point": "18/12 :: asie :: mkt-n :: BoJ Décision Taux",
@@ -440,6 +468,10 @@
     "premiere_apparition": "2026-11-22"
   },
   {
+    "point": "27/11 :: usa :: mkt-n :: Marché actions US ferme tôt (Post-Thanksgiving)",
+    "premiere_apparition": "2026-11-23"
+  },
+  {
     "point": "30/11 :: europe :: macro :: Baromètre conjoncturel KOF Novembre",
     "premiere_apparition": "2026-11-18"
   },
@@ -482,5 +514,9 @@
   {
     "point": "23/12 :: usa :: macro :: US Revenus et Dépenses Personnelles (PCE)",
     "premiere_apparition": "2026-11-20"
+  },
+  {
+    "point": "11/12 :: usa :: macro :: Actifs et passifs banques US (H.8)",
+    "premiere_apparition": "2026-11-23"
   }
 ]
