@@ -96,6 +96,18 @@
     "premiere_apparition": "2026-11-22"
   },
   {
+    "point": "25/11 :: europe :: corp :: LDC Résultats S1",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "25/11 :: europe :: corp :: PERNOD RICARD Détachement solde dividendes",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "25/11 :: europe :: corp :: ARAMIS GROUP Résultats annuels",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
     "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
     "premiere_apparition": "2026-11-02"
   },
@@ -110,6 +122,26 @@
   {
     "point": "26/11 :: usa :: mkt-n :: Marchés actions fermés (Thanksgiving)",
     "premiere_apparition": "2026-11-22"
+  },
+  {
+    "point": "26/11 :: europe :: corp :: GRAINES VOLTZ CA T4",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "26/11 :: europe :: corp :: ABIONYX PHARMA SA CA T3",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "26/11 :: europe :: corp :: SIGNAUX GIROD CA T4",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "26/11 :: europe :: corp :: EUTELSAT COMM. Assemblée Générale Annuelle",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "26/11 :: europe :: corp :: PRECIA CA T3",
+    "premiere_apparition": "2026-11-24"
   },
   {
     "point": "04/11-05/11 :: global :: tech :: Réunion ONU Gouvernance des Données",
@@ -212,6 +244,10 @@
     "premiere_apparition": "2026-11-23"
   },
   {
+    "point": "01/12 :: global :: tech :: Aeromart Toulouse (jusqu'au 3/12)",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -248,12 +284,32 @@
     "premiere_apparition": "2026-11-20"
   },
   {
+    "point": "24/11 :: europe :: macro :: PMI Flash Zone Euro/France/Allemagne",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "24/11 :: uk :: macro :: PMI Flash Royaume-Uni",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "24/11 :: usa :: macro :: PMI Flash États-Unis",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "24/11 :: usa :: macro :: Confiance Consommateurs Conference Board",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
     "point": "02/12 :: europe :: corp :: Versement acompte dividende LVMH",
     "premiere_apparition": "2026-11-10"
   },
   {
     "point": "02/12 :: usa :: macro :: Rapport national sur l'emploi ADP US",
     "premiere_apparition": "2026-11-23"
+  },
+  {
+    "point": "02/12 :: australie :: macro :: IPC Australie (Octobre)",
+    "premiere_apparition": "2026-11-24"
   },
   {
     "point": "09/12 :: usa :: mkt-n :: Décision taux FOMC",
@@ -324,6 +380,10 @@
     "premiere_apparition": "2026-11-23"
   },
   {
+    "point": "17/12 :: europe :: macro :: Réunion Conseil Gouverneurs BCE",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
     "point": "04/12 :: usa :: macro :: Rapport Emploi US (NFP)",
     "premiere_apparition": "2026-11-12"
   },
@@ -340,8 +400,16 @@
     "premiere_apparition": "2026-11-18"
   },
   {
+    "point": "04/12 :: global :: macro :: Réunion MPC Banque Réserve Inde",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
     "point": "08/12 :: usa :: mkt-n :: FOMC Début Réunion",
     "premiere_apparition": "2026-11-13"
+  },
+  {
+    "point": "08/12 :: australie :: macro :: Réunion RBA Politique Monétaire",
+    "premiere_apparition": "2026-11-24"
   },
   {
     "point": "10/12 :: usa :: macro :: US CPI (Nov)",
@@ -408,6 +476,10 @@
     "premiere_apparition": "2026-11-15"
   },
   {
+    "point": "07/12 :: global :: tech :: ICHOM (jusqu'au 9/12)",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
     "point": "08-09/12 :: usa :: mkt-n :: Réunion FOMC / Décision taux",
     "premiere_apparition": "2026-11-15"
   },
@@ -428,34 +500,6 @@
     "premiere_apparition": "2026-11-17"
   },
   {
-    "point": "23/11 :: europe :: corp :: CA T3 Inventiva",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "23/11 :: europe :: corp :: CA T3 Dekuple",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "23/11 :: europe :: corp :: CA T3 Freelance.com",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "23/11 :: europe :: corp :: Résultats T3 Addex",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "23/11 :: europe :: corp :: Marche affaires T3 Epic",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "23/11 :: europe :: corp :: Marche affaires Julius Bär",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "23/11 :: global :: geo :: Tensions géopolitiques Moyen-Orient",
-    "premiere_apparition": "2026-11-22"
-  },
-  {
     "point": "27/11 :: france :: macro :: Inflation préliminaire France Novembre",
     "premiere_apparition": "2026-11-18"
   },
@@ -470,6 +514,22 @@
   {
     "point": "27/11 :: usa :: mkt-n :: Marché actions US ferme tôt (Post-Thanksgiving)",
     "premiere_apparition": "2026-11-23"
+  },
+  {
+    "point": "27/11 :: usa :: mkt-n :: Black Friday Début saison achats",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "27/11 :: asie :: macro :: Inflation Tokyo (Japon)",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "27/11 :: europe :: corp :: LAURENT-PERRIER Résultats S1",
+    "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "27/11 :: europe :: corp :: BIOPHYTIS Assemblée Générale Mixte",
+    "premiere_apparition": "2026-11-24"
   },
   {
     "point": "30/11 :: europe :: macro :: Baromètre conjoncturel KOF Novembre",
@@ -518,5 +578,9 @@
   {
     "point": "11/12 :: usa :: macro :: Actifs et passifs banques US (H.8)",
     "premiere_apparition": "2026-11-23"
+  },
+  {
+    "point": "06/12 :: global :: ai :: NeurIPS (jusqu'au 12/12)",
+    "premiere_apparition": "2026-11-24"
   }
 ]
