@@ -252,6 +252,18 @@
     "premiere_apparition": "2026-11-25"
   },
   {
+    "point": "01/12 :: global :: geo :: Nouveaux tarifs douaniers US/Chine/UE",
+    "premiere_apparition": "2026-11-25"
+  },
+  {
+    "point": "01/12 :: usa :: corp :: Résultats Trip.com Group (TCOM)",
+    "premiere_apparition": "2026-11-25"
+  },
+  {
+    "point": "01/12 :: europe :: corp :: Résultats Quadient SA & Compagnie des Alpes",
+    "premiere_apparition": "2026-11-25"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -402,6 +414,10 @@
   {
     "point": "15/12 :: global :: geo :: Sommet des Leaders du G20 Miami (Jour 2)",
     "premiere_apparition": "2026-11-20"
+  },
+  {
+    "point": "15/12 :: usa :: macro :: Publication IPP US (PPI)",
+    "premiere_apparition": "2026-11-25"
   },
   {
     "point": "16/12 :: usa :: macro :: US Retail Sales (Nov)",
