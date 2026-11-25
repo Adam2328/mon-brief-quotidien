@@ -248,6 +248,10 @@
     "premiere_apparition": "2026-11-24"
   },
   {
+    "point": "01/12 :: usa :: macro :: Indice PMI Manufacturier ISM (novembre)",
+    "premiere_apparition": "2026-11-25"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -258,46 +262,6 @@
   {
     "point": "Jusqu'au 12/11 :: global :: tech :: Web Summit Digital Economy",
     "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "24/11 :: usa :: macro :: Rapport ADP Emploi US",
-    "premiere_apparition": "2026-11-10"
-  },
-  {
-    "point": "24/11 :: europe :: corp :: Résultats annuels Trigano",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "24/11 :: europe :: corp :: Détachement acompte dividendes ABC Arbitrage",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "24/11 :: europe :: corp :: Résultats T3 Valneva SE",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "24/11 :: europe :: corp :: Marche affaires EFG International",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "24/11 :: usa :: corp :: Dell Technologies Résultats Trimestriels",
-    "premiere_apparition": "2026-11-20"
-  },
-  {
-    "point": "24/11 :: europe :: macro :: PMI Flash Zone Euro/France/Allemagne",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
-    "point": "24/11 :: uk :: macro :: PMI Flash Royaume-Uni",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
-    "point": "24/11 :: usa :: macro :: PMI Flash États-Unis",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
-    "point": "24/11 :: usa :: macro :: Confiance Consommateurs Conference Board",
-    "premiere_apparition": "2026-11-24"
   },
   {
     "point": "02/12 :: europe :: corp :: Versement acompte dividende LVMH",
@@ -574,6 +538,10 @@
   {
     "point": "23/12 :: usa :: macro :: US Revenus et Dépenses Personnelles (PCE)",
     "premiere_apparition": "2026-11-20"
+  },
+  {
+    "point": "23/12 :: usa :: macro :: PIB US T3 (troisième estimation)",
+    "premiere_apparition": "2026-11-25"
   },
   {
     "point": "11/12 :: usa :: macro :: Actifs et passifs banques US (H.8)",
