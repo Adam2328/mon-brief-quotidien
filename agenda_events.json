@@ -32,42 +32,6 @@
     "premiere_apparition": "2026-11-16"
   },
   {
-    "point": "26/11 :: europe :: mkt-n :: Réunion Conseil Général BCE",
-    "premiere_apparition": "2026-11-02"
-  },
-  {
-    "point": "26/11 :: europe :: macro :: ECB General Council Meeting",
-    "premiere_apparition": "2026-11-03"
-  },
-  {
-    "point": "26/11 :: usa :: mkt-n :: Thanksgiving (Fermeture Marchés)",
-    "premiere_apparition": "2026-11-11"
-  },
-  {
-    "point": "26/11 :: usa :: mkt-n :: Marchés actions fermés (Thanksgiving)",
-    "premiere_apparition": "2026-11-22"
-  },
-  {
-    "point": "26/11 :: europe :: corp :: GRAINES VOLTZ CA T4",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
-    "point": "26/11 :: europe :: corp :: ABIONYX PHARMA SA CA T3",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
-    "point": "26/11 :: europe :: corp :: SIGNAUX GIROD CA T4",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
-    "point": "26/11 :: europe :: corp :: EUTELSAT COMM. Assemblée Générale Annuelle",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
-    "point": "26/11 :: europe :: corp :: PRECIA CA T3",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
     "point": "Semaine du 23/11 :: asie :: macro :: Indice prix services producteurs (SPPI) oct",
     "premiere_apparition": "2026-11-08"
   },
@@ -160,6 +124,22 @@
     "premiere_apparition": "2026-11-26"
   },
   {
+    "point": "01/12 :: usa :: corp :: Marvell Technology Earnings",
+    "premiere_apparition": "2026-11-27"
+  },
+  {
+    "point": "01/12 :: usa :: corp :: Okta Earnings",
+    "premiere_apparition": "2026-11-27"
+  },
+  {
+    "point": "01/12 :: usa :: corp :: MongoDB Earnings",
+    "premiere_apparition": "2026-11-27"
+  },
+  {
+    "point": "01/12 :: usa :: corp :: NetApp Earnings",
+    "premiere_apparition": "2026-11-27"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -186,6 +166,14 @@
   {
     "point": "02/12 :: usa :: corp :: Résultats Salesforce",
     "premiere_apparition": "2026-11-26"
+  },
+  {
+    "point": "02/12 :: canada :: corp :: Scotiabank Q4 Earnings",
+    "premiere_apparition": "2026-11-27"
+  },
+  {
+    "point": "02/12 :: canada :: corp :: BMO Q4 Earnings",
+    "premiere_apparition": "2026-11-27"
   },
   {
     "point": "09/12 :: usa :: mkt-n :: Décision taux FOMC",
@@ -276,6 +264,10 @@
     "premiere_apparition": "2026-11-26"
   },
   {
+    "point": "17/12 :: usa :: corp :: Cintas Corporation Earnings",
+    "premiere_apparition": "2026-11-27"
+  },
+  {
     "point": "04/12 :: usa :: macro :: Rapport Emploi US (NFP)",
     "premiere_apparition": "2026-11-12"
   },
@@ -294,6 +286,10 @@
   {
     "point": "04/12 :: global :: macro :: Réunion MPC Banque Réserve Inde",
     "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "04/12 :: canada :: corp :: National Bank Q4 Earnings",
+    "premiere_apparition": "2026-11-27"
   },
   {
     "point": "08/12 :: usa :: mkt-n :: FOMC Début Réunion",
@@ -482,6 +478,18 @@
   {
     "point": "03/12 :: usa :: macro :: Commandes biens durables/industrie US Octobre",
     "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "03/12 :: canada :: corp :: RBC Q4 Earnings",
+    "premiere_apparition": "2026-11-27"
+  },
+  {
+    "point": "03/12 :: canada :: corp :: TD Q4 Earnings",
+    "premiere_apparition": "2026-11-27"
+  },
+  {
+    "point": "03/12 :: canada :: corp :: CIBC Q4 Earnings",
+    "premiere_apparition": "2026-11-27"
   },
   {
     "point": "06/12-09/12 :: global :: geo :: US-Africa Business Summit",
