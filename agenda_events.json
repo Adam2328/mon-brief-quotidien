@@ -152,6 +152,22 @@
     "premiere_apparition": "2026-11-28"
   },
   {
+    "point": "01/12 :: usa :: macro :: US JOLTS Job Openings (Oct)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "01/12 :: usa :: macro :: US ISM Manufacturing PMI (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "01/12 :: asie :: corp :: NIO Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "01/12 :: usa :: corp :: GitLab Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -216,6 +232,10 @@
     "premiere_apparition": "2026-11-28"
   },
   {
+    "point": "02/12 :: usa :: macro :: US ADP Employment Change (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "09/12 :: usa :: mkt-n :: Décision taux FOMC",
     "premiere_apparition": "2026-11-10"
   },
@@ -241,6 +261,10 @@
   },
   {
     "point": "09/12 :: asie :: macro :: Chine Inflation (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "09/12 :: global :: mkt-n :: Bank of Canada Rate Decision",
     "premiere_apparition": "2026-11-28"
   },
   {
@@ -312,6 +336,10 @@
     "premiere_apparition": "2026-11-27"
   },
   {
+    "point": "17/12 :: europe :: geo :: Sommet Leaders Européens Jour 1",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "04/12 :: usa :: macro :: Rapport Emploi US (NFP)",
     "premiere_apparition": "2026-11-12"
   },
@@ -373,6 +401,58 @@
   },
   {
     "point": "08/12 :: asie :: macro :: Australie Décision Taux (RBA)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: Academy Sports Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: AeroVironment Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: AutoZone Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: Braze Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: Broadcom Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: Casey's General Stores Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: mkt-n :: FOMC Meeting Day 1",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: G-III Apparel Group Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: GameStop Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: Korn Ferry Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: global :: mkt-n :: RBA Monetary Policy Meeting",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: Synopsys Earnings",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: usa :: corp :: Thor Industries Earnings",
     "premiere_apparition": "2026-11-28"
   },
   {
@@ -452,6 +532,10 @@
     "premiere_apparition": "2026-11-26"
   },
   {
+    "point": "16/12 :: europe :: mkt-n :: BCE Conseil Gouverneurs Jour 1",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "18/12 :: asie :: mkt-n :: BoJ Décision Taux",
     "premiere_apparition": "2026-11-13"
   },
@@ -466,6 +550,10 @@
   {
     "point": "18/12 :: usa :: corp :: Résultats Carnival Corporation",
     "premiere_apparition": "2026-11-26"
+  },
+  {
+    "point": "18/12 :: europe :: geo :: Sommet Leaders Européens Jour 2",
+    "premiere_apparition": "2026-11-28"
   },
   {
     "point": "07/12 :: europe :: macro :: PIB Eurozone Q3 2026 (Est. complètes)",
