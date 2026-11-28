@@ -140,6 +140,18 @@
     "premiere_apparition": "2026-11-27"
   },
   {
+    "point": "01/12 :: europe :: corp :: Quadient SA Résultats T3",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "01/12 :: usa :: corp :: CrowdStrike Holdings Résultats T3",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "01/12 :: europe :: macro :: Zone Euro PMI Manufacturier Final (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "10/11-11/11 :: asie :: tech :: Sommet Finnovex Moyen-Orient",
     "premiere_apparition": "2026-11-10"
   },
@@ -176,6 +188,34 @@
     "premiere_apparition": "2026-11-27"
   },
   {
+    "point": "02/12 :: europe :: corp :: Wavestone Résultats S1",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "02/12 :: europe :: corp :: Inditex Résultats",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "02/12 :: usa :: corp :: Costco Wholesale Résultats",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "02/12 :: usa :: corp :: Bank of Montreal Résultats",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "02/12 :: usa :: corp :: Bank of Nova Scotia Résultats",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "02/12 :: europe :: macro :: Zone Euro Taux Chômage (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "02/12 :: usa :: macro :: ADP Créations d'Emplois (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "09/12 :: usa :: mkt-n :: Décision taux FOMC",
     "premiere_apparition": "2026-11-10"
   },
@@ -198,6 +238,10 @@
   {
     "point": "09/12 :: usa :: corp :: Résultats Broadcom",
     "premiere_apparition": "2026-11-26"
+  },
+  {
+    "point": "09/12 :: asie :: macro :: Chine Inflation (Nov)",
+    "premiere_apparition": "2026-11-28"
   },
   {
     "point": "17/12 :: europe :: mkt-n :: Décision taux BCE",
@@ -292,12 +336,44 @@
     "premiere_apparition": "2026-11-27"
   },
   {
+    "point": "04/12 :: asie :: macro :: RBI Décision Taux",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "04/12 :: europe :: macro :: France Production Industrielle (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "04/12 :: europe :: macro :: France Balance Commerciale (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "04/12 :: europe :: macro :: Zone Euro Ventes Détail (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "04/12 :: usa :: macro :: Taux Chômage (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "04/12 :: usa :: macro :: Confiance Consommateurs Michigan Prelim (Déc)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "08/12 :: usa :: mkt-n :: FOMC Début Réunion",
     "premiere_apparition": "2026-11-13"
   },
   {
     "point": "08/12 :: australie :: macro :: Réunion RBA Politique Monétaire",
     "premiere_apparition": "2026-11-24"
+  },
+  {
+    "point": "08/12 :: asie :: macro :: Chine Balance Commerciale (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "08/12 :: asie :: macro :: Australie Décision Taux (RBA)",
+    "premiere_apparition": "2026-11-28"
   },
   {
     "point": "10/12 :: usa :: macro :: US CPI (Nov)",
@@ -322,6 +398,10 @@
   {
     "point": "10/12 :: usa :: corp :: Résultats Costco Wholesale",
     "premiere_apparition": "2026-11-26"
+  },
+  {
+    "point": "10/12 :: europe :: macro :: BNS Décision Taux (Suisse)",
+    "premiere_apparition": "2026-11-28"
   },
   {
     "point": "15/12 :: usa :: macro :: US PPI (Nov)",
@@ -408,6 +488,10 @@
     "premiere_apparition": "2026-11-15"
   },
   {
+    "point": "17-18/12 :: europe :: geo :: Sommet Conseil Européen",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "14/12 :: global :: geo, macro :: Sommet des dirigeants G20",
     "premiere_apparition": "2026-11-17"
   },
@@ -420,40 +504,12 @@
     "premiere_apparition": "2026-11-26"
   },
   {
+    "point": "14/12 :: asie :: macro :: Chine Ventes Détail (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "14-15/12 :: global :: geo :: Sommet des leaders G20",
     "premiere_apparition": "2026-11-17"
-  },
-  {
-    "point": "27/11 :: france :: macro :: Inflation préliminaire France Novembre",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "27/11 :: usa :: macro :: Stocks pétroliers et gaz US EIA",
-    "premiere_apparition": "2026-11-18"
-  },
-  {
-    "point": "27/11 :: usa :: mkt-n :: Marchés actions fermeture anticipée",
-    "premiere_apparition": "2026-11-22"
-  },
-  {
-    "point": "27/11 :: usa :: mkt-n :: Marché actions US ferme tôt (Post-Thanksgiving)",
-    "premiere_apparition": "2026-11-23"
-  },
-  {
-    "point": "27/11 :: usa :: mkt-n :: Black Friday Début saison achats",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
-    "point": "27/11 :: asie :: macro :: Inflation Tokyo (Japon)",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
-    "point": "27/11 :: europe :: corp :: LAURENT-PERRIER Résultats S1",
-    "premiere_apparition": "2026-11-24"
-  },
-  {
-    "point": "27/11 :: europe :: corp :: BIOPHYTIS Assemblée Générale Mixte",
-    "premiere_apparition": "2026-11-24"
   },
   {
     "point": "30/11 :: europe :: macro :: Baromètre conjoncturel KOF Novembre",
@@ -462,6 +518,26 @@
   {
     "point": "30/11 :: europe :: macro :: PIB Suisse T3",
     "premiere_apparition": "2026-11-18"
+  },
+  {
+    "point": "30/11 :: asie :: macro :: Chine Indices PMI (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "30/11 :: europe :: macro :: Allemagne Ventes Détail (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "30/11 :: europe :: macro :: Allemagne Inflation Prelim (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "30/11 :: usa :: macro :: Chicago PMI (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "30/11 :: usa :: macro :: Dallas Fed Indice Manufacturier (Nov)",
+    "premiere_apparition": "2026-11-28"
   },
   {
     "point": "03/12 :: usa :: macro :: Challenger Suppressions Emplois US",
@@ -492,6 +568,26 @@
     "premiere_apparition": "2026-11-27"
   },
   {
+    "point": "03/12 :: europe :: corp :: Derichebourg Résultats Annuels",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "03/12 :: europe :: corp :: Oeneo Résultats S1",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "03/12 :: usa :: corp :: Royal Bank of Canada Résultats",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "03/12 :: usa :: corp :: Toronto-Dominion Bank Résultats",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "03/12 :: usa :: macro :: ISM Services (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "06/12-09/12 :: global :: geo :: US-Africa Business Summit",
     "premiere_apparition": "2026-11-18"
   },
@@ -520,11 +616,23 @@
     "premiere_apparition": "2026-11-23"
   },
   {
+    "point": "11/12 :: usa :: geo :: Financement Gouvernemental US",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
     "point": "06/12 :: global :: ai :: NeurIPS (jusqu'au 12/12)",
     "premiere_apparition": "2026-11-24"
   },
   {
     "point": "17/12 :: corp :: Résultats Nike",
     "premiere_apparition": "2026-11-26"
+  },
+  {
+    "point": "12/12 :: asie :: macro :: Chine Ventes Véhicules & Crédit (Nov)",
+    "premiere_apparition": "2026-11-28"
+  },
+  {
+    "point": "Semaine du 14/12 :: usa :: macro :: Inflation CPI (Nov)",
+    "premiere_apparition": "2026-11-28"
   }
 ]
